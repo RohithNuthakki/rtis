@@ -1,0 +1,1750 @@
+{
+  "total_entries": 26,
+  "total_exits": 14,
+  "entries_with_edges": 24,
+  "exits_with_edges": 13,
+  "entry_success_rate": 0.9230769230769231,
+  "exit_success_rate": 0.9285714285714286,
+  "entry_mappings": [
+    {
+      "index": 0,
+      "road_name": "Queens Midtown Tunl East End",
+      "location": [
+        40.74377,
+        -73.9625
+      ],
+      "mapped_edges": [
+        {
+          "id": "219654674",
+          "distance": 335.9197551197601,
+          "num_lanes": 2,
+          "length": 74.85,
+          "speed": 13.89
+        },
+        {
+          "id": "306526978",
+          "distance": 341.39589386382534,
+          "num_lanes": 2,
+          "length": 104.16,
+          "speed": 13.89
+        }
+      ],
+      "radius": 400.0
+    },
+    {
+      "index": 1,
+      "road_name": "Lincoln Tunnel East",
+      "location": [
+        40.71254,
+        -73.95438
+      ],
+      "mapped_edges": [
+        {
+          "id": "5678940",
+          "distance": 361.9681633628142,
+          "num_lanes": 1,
+          "length": 590.0,
+          "speed": 13.89
+        }
+      ],
+      "radius": 400.0
+    },
+    {
+      "index": 2,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "location": [
+        40.74147,
+        -73.95531
+      ],
+      "mapped_edges": [
+        {
+          "id": "219654674",
+          "distance": 315.0511494452527,
+          "num_lanes": 2,
+          "length": 74.85,
+          "speed": 13.89
+        },
+        {
+          "id": "306526978",
+          "distance": 351.27350958276116,
+          "num_lanes": 2,
+          "length": 104.16,
+          "speed": 13.89
+        },
+        {
+          "id": "705964772",
+          "distance": 351.27350958276116,
+          "num_lanes": 2,
+          "length": 281.75,
+          "speed": 13.89
+        }
+      ],
+      "radius": 400.0
+    },
+    {
+      "index": 3,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "location": [
+        40.74725,
+        -73.97093
+      ],
+      "mapped_edges": [
+        {
+          "id": "226041003",
+          "distance": 35.81329472460169,
+          "num_lanes": 1,
+          "length": 215.97,
+          "speed": 11.18
+        },
+        {
+          "id": "5671349",
+          "distance": 43.04103542882669,
+          "num_lanes": 1,
+          "length": 139.25,
+          "speed": 11.18
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 4,
+      "road_name": "Lincoln Tunnel East",
+      "location": [
+        40.75964,
+        -74.00187
+      ],
+      "mapped_edges": [
+        {
+          "id": "336872313",
+          "distance": 137.48545398688384,
+          "num_lanes": 3,
+          "length": 99.17,
+          "speed": 13.41
+        },
+        {
+          "id": "36801165",
+          "distance": 195.80367663561225,
+          "num_lanes": 3,
+          "length": 70.21,
+          "speed": 11.18
+        },
+        {
+          "id": "420903239",
+          "distance": 198.50418144257844,
+          "num_lanes": 2,
+          "length": 75.47,
+          "speed": 27.78
+        }
+      ],
+      "radius": 200.0
+    },
+    {
+      "index": 5,
+      "road_name": "FDR Dr/Avenue C/Marginal St",
+      "location": [
+        40.73607,
+        -73.97659
+      ],
+      "mapped_edges": [
+        {
+          "id": "162041587#0",
+          "distance": 140.41962984016808,
+          "num_lanes": 2,
+          "length": 16.65,
+          "speed": 11.18
+        },
+        {
+          "id": "162041587#1",
+          "distance": 148.96113878969987,
+          "num_lanes": 2,
+          "length": 284.18,
+          "speed": 11.18
+        },
+        {
+          "id": "-46201651",
+          "distance": 153.33997739862775,
+          "num_lanes": 1,
+          "length": 69.75,
+          "speed": 11.18
+        },
+        {
+          "id": "46201651",
+          "distance": 154.90254120580326,
+          "num_lanes": 1,
+          "length": 69.75,
+          "speed": 11.18
+        },
+        {
+          "id": "-763971141",
+          "distance": 163.1654768724623,
+          "num_lanes": 1,
+          "length": 15.87,
+          "speed": 11.18
+        }
+      ],
+      "radius": 200.0
+    },
+    {
+      "index": 6,
+      "road_name": "Broadway/7th Ave/Times Sq",
+      "location": [
+        40.75622,
+        -73.9853
+      ],
+      "mapped_edges": [
+        {
+          "id": "167922076",
+          "distance": 104.18087525849843,
+          "num_lanes": 2,
+          "length": 38.65,
+          "speed": 11.18
+        },
+        {
+          "id": "35027229",
+          "distance": 104.86300706211007,
+          "num_lanes": 1,
+          "length": 72.13,
+          "speed": 11.18
+        },
+        {
+          "id": "-167922076",
+          "distance": 104.86300706211007,
+          "num_lanes": 2,
+          "length": 38.65,
+          "speed": 11.18
+        },
+        {
+          "id": "397795464",
+          "distance": 113.41667298910782,
+          "num_lanes": 4,
+          "length": 62.41,
+          "speed": 11.18
+        },
+        {
+          "id": "682360554",
+          "distance": 138.3332644774747,
+          "num_lanes": 4,
+          "length": 79.62,
+          "speed": 11.18
+        }
+      ],
+      "radius": 200.0
+    },
+    {
+      "index": 7,
+      "road_name": "Brooklyn Battery Tunl",
+      "location": [
+        40.71108,
+        -74.01465
+      ],
+      "mapped_edges": [
+        {
+          "id": "195743264",
+          "distance": 210.18700511331045,
+          "num_lanes": 4,
+          "length": 93.41,
+          "speed": 13.41
+        },
+        {
+          "id": "1053554760",
+          "distance": 234.86363122532217,
+          "num_lanes": 3,
+          "length": 69.12,
+          "speed": 13.41
+        },
+        {
+          "id": "413054285",
+          "distance": 296.78731689454423,
+          "num_lanes": 2,
+          "length": 74.96,
+          "speed": 8.94
+        },
+        {
+          "id": "770524299#1",
+          "distance": 372.9800017529423,
+          "num_lanes": 1,
+          "length": 79.96,
+          "speed": 8.94
+        },
+        {
+          "id": "770524299#0",
+          "distance": 373.1569653312579,
+          "num_lanes": 1,
+          "length": 55.38,
+          "speed": 8.94
+        }
+      ],
+      "radius": 400.0
+    },
+    {
+      "index": 8,
+      "road_name": "Delancey St",
+      "location": [
+        40.71793,
+        -73.98566
+      ],
+      "mapped_edges": [
+        {
+          "id": "110542345",
+          "distance": 78.22874169944885,
+          "num_lanes": 1,
+          "length": 121.83,
+          "speed": 11.18
+        }
+      ],
+      "radius": 100.0
+    },
+    {
+      "index": 9,
+      "road_name": "7th Ave",
+      "location": [
+        40.74164,
+        -73.99743
+      ],
+      "mapped_edges": [
+        {
+          "id": "5672450#1",
+          "distance": 0.028825923424079657,
+          "num_lanes": 1,
+          "length": 255.19,
+          "speed": 11.18
+        },
+        {
+          "id": "5672450#2",
+          "distance": 0.4080573625048569,
+          "num_lanes": 1,
+          "length": 256.57,
+          "speed": 11.18
+        },
+        {
+          "id": "852992111",
+          "distance": 0.4080573625048569,
+          "num_lanes": 3,
+          "length": 63.91,
+          "speed": 11.18
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 10,
+      "road_name": "CR-670/14th St",
+      "location": [
+        40.75759,
+        -74.02851
+      ],
+      "mapped_edges": [
+        {
+          "id": "27523630",
+          "distance": 149.58856841006317,
+          "num_lanes": 1,
+          "length": 73.93,
+          "speed": 8.94
+        }
+      ],
+      "radius": 200.0
+    },
+    {
+      "index": 11,
+      "road_name": "8th Ave",
+      "location": [
+        40.75219,
+        -73.99346
+      ],
+      "mapped_edges": [
+        {
+          "id": "195743208#0",
+          "distance": 0.26709803856664976,
+          "num_lanes": 2,
+          "length": 136.19,
+          "speed": 11.18
+        },
+        {
+          "id": "420509471#2",
+          "distance": 0.34928702520328025,
+          "num_lanes": 2,
+          "length": 101.74,
+          "speed": 11.18
+        },
+        {
+          "id": "-420509471#2",
+          "distance": 0.9694321355241516,
+          "num_lanes": 2,
+          "length": 101.74,
+          "speed": 11.18
+        },
+        {
+          "id": "-195743208#0",
+          "distance": 0.9694321355241516,
+          "num_lanes": 2,
+          "length": 136.19,
+          "speed": 11.18
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 12,
+      "road_name": "Hudson St/Exit 1/Exit 2",
+      "location": [
+        40.72621,
+        -74.01239
+      ],
+      "mapped_edges": [
+        {
+          "id": "1362576631",
+          "distance": 235.91509454725855,
+          "num_lanes": 4,
+          "length": 144.08,
+          "speed": 13.41
+        },
+        {
+          "id": "420809448",
+          "distance": 240.22664512783828,
+          "num_lanes": 3,
+          "length": 118.34,
+          "speed": 13.41
+        },
+        {
+          "id": "812936282#0",
+          "distance": 271.93934280967545,
+          "num_lanes": 1,
+          "length": 121.91,
+          "speed": 11.18
+        },
+        {
+          "id": "46171876",
+          "distance": 271.93934280967545,
+          "num_lanes": 1,
+          "length": 14.62,
+          "speed": 11.18
+        },
+        {
+          "id": "22927462",
+          "distance": 290.64668667110953,
+          "num_lanes": 1,
+          "length": 275.77,
+          "speed": 8.94
+        }
+      ],
+      "radius": 400.0
+    },
+    {
+      "index": 13,
+      "road_name": "New York/New Jersey State Line",
+      "location": [
+        40.72737,
+        -74.02094
+      ],
+      "mapped_edges": [],
+      "error": "No edges found within 500.0m"
+    },
+    {
+      "index": 14,
+      "road_name": "FDR Dr N/York Ave",
+      "location": [
+        40.75951,
+        -73.95983
+      ],
+      "mapped_edges": [
+        {
+          "id": "659714535",
+          "distance": 48.151087684023196,
+          "num_lanes": 3,
+          "length": 69.1,
+          "speed": 11.18
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 15,
+      "road_name": "23rd St",
+      "location": [
+        40.74103,
+        -73.97863
+      ],
+      "mapped_edges": [
+        {
+          "id": "222299248",
+          "distance": 1.6128210525224094,
+          "num_lanes": 5,
+          "length": 67.68,
+          "speed": 11.18
+        },
+        {
+          "id": "847994494",
+          "distance": 1.7868098466171922,
+          "num_lanes": 1,
+          "length": 221.72,
+          "speed": 11.18
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 16,
+      "road_name": "42nd St",
+      "location": [
+        40.75613,
+        -73.96761
+      ],
+      "mapped_edges": [
+        {
+          "id": "743358445",
+          "distance": 1.189747659240089,
+          "num_lanes": 1,
+          "length": 213.33,
+          "speed": 11.18
+        },
+        {
+          "id": "456409017#0",
+          "distance": 1.4241386893953139,
+          "num_lanes": 4,
+          "length": 71.67,
+          "speed": 11.18
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 17,
+      "road_name": "E Broadway",
+      "location": [
+        40.713,
+        -73.98695
+      ],
+      "mapped_edges": [
+        {
+          "id": "-739591695#0",
+          "distance": 8.230423070368929,
+          "num_lanes": 1,
+          "length": 154.59,
+          "speed": 11.18
+        },
+        {
+          "id": "-451954039",
+          "distance": 8.667534678042164,
+          "num_lanes": 1,
+          "length": 129.53,
+          "speed": 11.18
+        },
+        {
+          "id": "451954039",
+          "distance": 10.165583603027978,
+          "num_lanes": 1,
+          "length": 129.53,
+          "speed": 11.18
+        },
+        {
+          "id": "739591695#0",
+          "distance": 10.165583603027978,
+          "num_lanes": 1,
+          "length": 154.59,
+          "speed": 11.18
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 18,
+      "road_name": "58th St",
+      "location": [
+        40.71273,
+        -74.00441
+      ],
+      "mapped_edges": [
+        {
+          "id": "46116314",
+          "distance": 53.37816808442578,
+          "num_lanes": 2,
+          "length": 54.3,
+          "speed": 8.94
+        }
+      ],
+      "radius": 100.0
+    },
+    {
+      "index": 19,
+      "road_name": "New Jersey/New York State Line",
+      "location": [
+        40.72941,
+        -74.03482
+      ],
+      "mapped_edges": [
+        {
+          "id": "-416175739",
+          "distance": 144.19195417764092,
+          "num_lanes": 1,
+          "length": 147.0,
+          "speed": 13.89
+        },
+        {
+          "id": "416175739",
+          "distance": 145.77700682581445,
+          "num_lanes": 1,
+          "length": 147.0,
+          "speed": 13.89
+        }
+      ],
+      "radius": 200.0
+    },
+    {
+      "index": 20,
+      "road_name": "Canal St",
+      "location": [
+        40.70958,
+        -73.99177
+      ],
+      "mapped_edges": [
+        {
+          "id": "125525171",
+          "distance": 323.11467671415056,
+          "num_lanes": 1,
+          "length": 181.94,
+          "speed": 8.94
+        },
+        {
+          "id": "834238144",
+          "distance": 323.74867283078987,
+          "num_lanes": 1,
+          "length": 16.19,
+          "speed": 8.94
+        },
+        {
+          "id": "-834238144",
+          "distance": 324.88338812691785,
+          "num_lanes": 1,
+          "length": 16.19,
+          "speed": 8.94
+        },
+        {
+          "id": "-125525171",
+          "distance": 324.88338812691785,
+          "num_lanes": 1,
+          "length": 181.94,
+          "speed": 8.94
+        },
+        {
+          "id": "849942510",
+          "distance": 324.88338812691785,
+          "num_lanes": 2,
+          "length": 69.17,
+          "speed": 8.94
+        }
+      ],
+      "radius": 400.0
+    },
+    {
+      "index": 21,
+      "road_name": "RT-9A/West Side Hwy",
+      "location": [
+        40.75963,
+        -73.99548
+      ],
+      "mapped_edges": [
+        {
+          "id": "945460473",
+          "distance": 0.7446815510280154,
+          "num_lanes": 5,
+          "length": 71.09,
+          "speed": 11.18
+        },
+        {
+          "id": "420904618",
+          "distance": 0.7446815510280154,
+          "num_lanes": 2,
+          "length": 128.91,
+          "speed": 27.78
+        },
+        {
+          "id": "-420904618",
+          "distance": 0.7446815510280154,
+          "num_lanes": 2,
+          "length": 128.91,
+          "speed": 27.78
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 22,
+      "road_name": "10th Ave",
+      "location": [
+        40.7588,
+        -74.03488
+      ],
+      "mapped_edges": [],
+      "error": "No edges found within 500.0m"
+    },
+    {
+      "index": 23,
+      "road_name": "Church St",
+      "location": [
+        40.75879,
+        -73.97702
+      ],
+      "mapped_edges": [
+        {
+          "id": "1352944235",
+          "distance": 0.38478873088404536,
+          "num_lanes": 4,
+          "length": 73.23,
+          "speed": 11.18
+        },
+        {
+          "id": "5673497",
+          "distance": 31.53849641560426,
+          "num_lanes": 2,
+          "length": 135.24,
+          "speed": 27.78
+        },
+        {
+          "id": "5670867",
+          "distance": 31.54085208392005,
+          "num_lanes": 2,
+          "length": 121.14,
+          "speed": 27.78
+        },
+        {
+          "id": "458180190",
+          "distance": 31.54085208392005,
+          "num_lanes": 4,
+          "length": 67.36,
+          "speed": 27.78
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 24,
+      "road_name": "CR-681/Observer Hwy",
+      "location": [
+        40.74283,
+        -74.03306
+      ],
+      "mapped_edges": [
+        {
+          "id": "450255899",
+          "distance": 105.18293194947897,
+          "num_lanes": 1,
+          "length": 161.64,
+          "speed": 8.94
+        },
+        {
+          "id": "719009980",
+          "distance": 147.01704536727254,
+          "num_lanes": 1,
+          "length": 294.69,
+          "speed": 8.94
+        }
+      ],
+      "radius": 200.0
+    },
+    {
+      "index": 25,
+      "road_name": "W 44th St/7th Ave/Times Sq",
+      "location": [
+        40.76078,
+        -73.98447
+      ],
+      "mapped_edges": [
+        {
+          "id": "452322757",
+          "distance": 159.26565773440308,
+          "num_lanes": 2,
+          "length": 40.99,
+          "speed": 11.18
+        },
+        {
+          "id": "483360105",
+          "distance": 173.3540934964644,
+          "num_lanes": 3,
+          "length": 72.35,
+          "speed": 11.18
+        },
+        {
+          "id": "5672036#1",
+          "distance": 173.3540934964644,
+          "num_lanes": 1,
+          "length": 254.06,
+          "speed": 11.18
+        }
+      ],
+      "radius": 200.0
+    }
+  ],
+  "exit_mappings": [
+    {
+      "index": 0,
+      "road_name": "Queens Midtown Tunnel (West)",
+      "location": [
+        40.74158,
+        -73.95604
+      ],
+      "mapped_edges": [
+        {
+          "id": "219654674",
+          "distance": 252.73231440439883,
+          "num_lanes": 2,
+          "length": 74.85,
+          "speed": 13.89
+        },
+        {
+          "id": "306526978",
+          "distance": 294.6608158802977,
+          "num_lanes": 2,
+          "length": 104.16,
+          "speed": 13.89
+        },
+        {
+          "id": "705964772",
+          "distance": 294.6608158802977,
+          "num_lanes": 2,
+          "length": 281.75,
+          "speed": 13.89
+        }
+      ],
+      "radius": 400.0
+    },
+    {
+      "index": 1,
+      "road_name": "Lincoln Tunnel East",
+      "location": [
+        40.7109,
+        -73.99219
+      ],
+      "mapped_edges": [
+        {
+          "id": "834238144",
+          "distance": 173.92168435462474,
+          "num_lanes": 1,
+          "length": 16.19,
+          "speed": 8.94
+        },
+        {
+          "id": "125525171",
+          "distance": 174.60664442732636,
+          "num_lanes": 1,
+          "length": 181.94,
+          "speed": 8.94
+        },
+        {
+          "id": "-834238144",
+          "distance": 175.64302358361516,
+          "num_lanes": 1,
+          "length": 16.19,
+          "speed": 8.94
+        },
+        {
+          "id": "-125525171",
+          "distance": 175.64302358361516,
+          "num_lanes": 1,
+          "length": 181.94,
+          "speed": 8.94
+        },
+        {
+          "id": "849942510",
+          "distance": 175.64302358361516,
+          "num_lanes": 2,
+          "length": 69.17,
+          "speed": 8.94
+        }
+      ],
+      "radius": 200.0
+    },
+    {
+      "index": 2,
+      "road_name": "Queens Midtown Tunnel (West)",
+      "location": [
+        40.74725,
+        -73.97093
+      ],
+      "mapped_edges": [
+        {
+          "id": "226041003",
+          "distance": 35.81329472460169,
+          "num_lanes": 1,
+          "length": 215.97,
+          "speed": 11.18
+        },
+        {
+          "id": "5671349",
+          "distance": 43.04103542882669,
+          "num_lanes": 1,
+          "length": 139.25,
+          "speed": 11.18
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 3,
+      "road_name": "58th St",
+      "location": [
+        40.75449,
+        -73.94913
+      ],
+      "mapped_edges": [],
+      "error": "No edges found within 500.0m"
+    },
+    {
+      "index": 4,
+      "road_name": "Hudson St",
+      "location": [
+        40.72951,
+        -74.00702
+      ],
+      "mapped_edges": [
+        {
+          "id": "439933945",
+          "distance": 6.0007900842722135,
+          "num_lanes": 2,
+          "length": 74.05,
+          "speed": 11.18
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 5,
+      "road_name": "RT-9A/West St/West Side Hwy",
+      "location": [
+        40.73534,
+        -74.00955
+      ],
+      "mapped_edges": [
+        {
+          "id": "480112478#1",
+          "distance": 1.8306592388729899,
+          "num_lanes": 1,
+          "length": 133.5,
+          "speed": 11.18
+        },
+        {
+          "id": "195743557",
+          "distance": 41.33581756768626,
+          "num_lanes": 4,
+          "length": 158.74,
+          "speed": 13.41
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 6,
+      "road_name": "58th St",
+      "location": [
+        40.759,
+        -73.96447
+      ],
+      "mapped_edges": [
+        {
+          "id": "-421851200",
+          "distance": 1.6476695616549555,
+          "num_lanes": 3,
+          "length": 133.85,
+          "speed": 11.18
+        },
+        {
+          "id": "32947291",
+          "distance": 1.9275988411174771,
+          "num_lanes": 2,
+          "length": 71.22,
+          "speed": 11.18
+        },
+        {
+          "id": "421851200",
+          "distance": 3.788762599056514,
+          "num_lanes": 2,
+          "length": 133.85,
+          "speed": 11.18
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 7,
+      "road_name": "Lincoln Tunnel East",
+      "location": [
+        40.75995,
+        -74.00401
+      ],
+      "mapped_edges": [
+        {
+          "id": "336872313",
+          "distance": 88.99323021340886,
+          "num_lanes": 3,
+          "length": 99.17,
+          "speed": 13.41
+        }
+      ],
+      "radius": 100.0
+    },
+    {
+      "index": 8,
+      "road_name": "RT-495/Lincoln Tunnel Expy/Dyer Ave",
+      "location": [
+        40.73738,
+        -74.03375
+      ],
+      "mapped_edges": [
+        {
+          "id": "1057788581",
+          "distance": 80.79413515826829,
+          "num_lanes": 1,
+          "length": 207.63,
+          "speed": 8.94
+        }
+      ],
+      "radius": 100.0
+    },
+    {
+      "index": 9,
+      "road_name": "Brooklyn Battery Tunl",
+      "location": [
+        40.71108,
+        -74.01465
+      ],
+      "mapped_edges": [
+        {
+          "id": "195743264",
+          "distance": 210.18700511331045,
+          "num_lanes": 4,
+          "length": 93.41,
+          "speed": 13.41
+        },
+        {
+          "id": "1053554760",
+          "distance": 234.86363122532217,
+          "num_lanes": 3,
+          "length": 69.12,
+          "speed": 13.41
+        },
+        {
+          "id": "413054285",
+          "distance": 296.78731689454423,
+          "num_lanes": 2,
+          "length": 74.96,
+          "speed": 8.94
+        },
+        {
+          "id": "770524299#1",
+          "distance": 372.9800017529423,
+          "num_lanes": 1,
+          "length": 79.96,
+          "speed": 8.94
+        },
+        {
+          "id": "770524299#0",
+          "distance": 373.1569653312579,
+          "num_lanes": 1,
+          "length": 55.38,
+          "speed": 8.94
+        }
+      ],
+      "radius": 400.0
+    },
+    {
+      "index": 10,
+      "road_name": "E 57th St",
+      "location": [
+        40.75974,
+        -73.97422
+      ],
+      "mapped_edges": [
+        {
+          "id": "5672118",
+          "distance": 79.73545551190516,
+          "num_lanes": 1,
+          "length": 127.42,
+          "speed": 11.18
+        },
+        {
+          "id": "420906753",
+          "distance": 79.74409833695636,
+          "num_lanes": 4,
+          "length": 73.68,
+          "speed": 11.18
+        }
+      ],
+      "radius": 100.0
+    },
+    {
+      "index": 11,
+      "road_name": "W 41st St",
+      "location": [
+        40.75883,
+        -73.99607
+      ],
+      "mapped_edges": [
+        {
+          "id": "945460473",
+          "distance": 20.31191258789338,
+          "num_lanes": 5,
+          "length": 71.09,
+          "speed": 11.18
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 12,
+      "road_name": "Park Row/Vesey St/Ann St",
+      "location": [
+        40.71306,
+        -74.0072
+      ],
+      "mapped_edges": [
+        {
+          "id": "196116978",
+          "distance": 0.9163965837658067,
+          "num_lanes": 3,
+          "length": 63.89,
+          "speed": 8.94
+        },
+        {
+          "id": "1061993519",
+          "distance": 2.736191836326874,
+          "num_lanes": 3,
+          "length": 61.24,
+          "speed": 8.94
+        },
+        {
+          "id": "25026344",
+          "distance": 2.736191836326874,
+          "num_lanes": 1,
+          "length": 140.93,
+          "speed": 8.94
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 13,
+      "road_name": "RT-495/Park Ave",
+      "location": [
+        40.75887,
+        -74.0281
+      ],
+      "mapped_edges": [
+        {
+          "id": "1085256809",
+          "distance": 291.70357150598943,
+          "num_lanes": 1,
+          "length": 120.46,
+          "speed": 6.71
+        },
+        {
+          "id": "-1085256809",
+          "distance": 293.22692362044916,
+          "num_lanes": 1,
+          "length": 120.46,
+          "speed": 6.71
+        },
+        {
+          "id": "27523630",
+          "distance": 295.8264241211831,
+          "num_lanes": 1,
+          "length": 73.93,
+          "speed": 8.94
+        }
+      ],
+      "radius": 400.0
+    }
+  ],
+  "entry_mappings_sample": [
+    {
+      "index": 0,
+      "road_name": "Queens Midtown Tunl East End",
+      "location": [
+        40.74377,
+        -73.9625
+      ],
+      "mapped_edges": [
+        {
+          "id": "219654674",
+          "distance": 335.9197551197601,
+          "num_lanes": 2,
+          "length": 74.85,
+          "speed": 13.89
+        },
+        {
+          "id": "306526978",
+          "distance": 341.39589386382534,
+          "num_lanes": 2,
+          "length": 104.16,
+          "speed": 13.89
+        }
+      ],
+      "radius": 400.0
+    },
+    {
+      "index": 1,
+      "road_name": "Lincoln Tunnel East",
+      "location": [
+        40.71254,
+        -73.95438
+      ],
+      "mapped_edges": [
+        {
+          "id": "5678940",
+          "distance": 361.9681633628142,
+          "num_lanes": 1,
+          "length": 590.0,
+          "speed": 13.89
+        }
+      ],
+      "radius": 400.0
+    },
+    {
+      "index": 2,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "location": [
+        40.74147,
+        -73.95531
+      ],
+      "mapped_edges": [
+        {
+          "id": "219654674",
+          "distance": 315.0511494452527,
+          "num_lanes": 2,
+          "length": 74.85,
+          "speed": 13.89
+        },
+        {
+          "id": "306526978",
+          "distance": 351.27350958276116,
+          "num_lanes": 2,
+          "length": 104.16,
+          "speed": 13.89
+        },
+        {
+          "id": "705964772",
+          "distance": 351.27350958276116,
+          "num_lanes": 2,
+          "length": 281.75,
+          "speed": 13.89
+        }
+      ],
+      "radius": 400.0
+    },
+    {
+      "index": 3,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "location": [
+        40.74725,
+        -73.97093
+      ],
+      "mapped_edges": [
+        {
+          "id": "226041003",
+          "distance": 35.81329472460169,
+          "num_lanes": 1,
+          "length": 215.97,
+          "speed": 11.18
+        },
+        {
+          "id": "5671349",
+          "distance": 43.04103542882669,
+          "num_lanes": 1,
+          "length": 139.25,
+          "speed": 11.18
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 4,
+      "road_name": "Lincoln Tunnel East",
+      "location": [
+        40.75964,
+        -74.00187
+      ],
+      "mapped_edges": [
+        {
+          "id": "336872313",
+          "distance": 137.48545398688384,
+          "num_lanes": 3,
+          "length": 99.17,
+          "speed": 13.41
+        },
+        {
+          "id": "36801165",
+          "distance": 195.80367663561225,
+          "num_lanes": 3,
+          "length": 70.21,
+          "speed": 11.18
+        },
+        {
+          "id": "420903239",
+          "distance": 198.50418144257844,
+          "num_lanes": 2,
+          "length": 75.47,
+          "speed": 27.78
+        }
+      ],
+      "radius": 200.0
+    },
+    {
+      "index": 5,
+      "road_name": "FDR Dr/Avenue C/Marginal St",
+      "location": [
+        40.73607,
+        -73.97659
+      ],
+      "mapped_edges": [
+        {
+          "id": "162041587#0",
+          "distance": 140.41962984016808,
+          "num_lanes": 2,
+          "length": 16.65,
+          "speed": 11.18
+        },
+        {
+          "id": "162041587#1",
+          "distance": 148.96113878969987,
+          "num_lanes": 2,
+          "length": 284.18,
+          "speed": 11.18
+        },
+        {
+          "id": "-46201651",
+          "distance": 153.33997739862775,
+          "num_lanes": 1,
+          "length": 69.75,
+          "speed": 11.18
+        },
+        {
+          "id": "46201651",
+          "distance": 154.90254120580326,
+          "num_lanes": 1,
+          "length": 69.75,
+          "speed": 11.18
+        },
+        {
+          "id": "-763971141",
+          "distance": 163.1654768724623,
+          "num_lanes": 1,
+          "length": 15.87,
+          "speed": 11.18
+        }
+      ],
+      "radius": 200.0
+    },
+    {
+      "index": 6,
+      "road_name": "Broadway/7th Ave/Times Sq",
+      "location": [
+        40.75622,
+        -73.9853
+      ],
+      "mapped_edges": [
+        {
+          "id": "167922076",
+          "distance": 104.18087525849843,
+          "num_lanes": 2,
+          "length": 38.65,
+          "speed": 11.18
+        },
+        {
+          "id": "35027229",
+          "distance": 104.86300706211007,
+          "num_lanes": 1,
+          "length": 72.13,
+          "speed": 11.18
+        },
+        {
+          "id": "-167922076",
+          "distance": 104.86300706211007,
+          "num_lanes": 2,
+          "length": 38.65,
+          "speed": 11.18
+        },
+        {
+          "id": "397795464",
+          "distance": 113.41667298910782,
+          "num_lanes": 4,
+          "length": 62.41,
+          "speed": 11.18
+        },
+        {
+          "id": "682360554",
+          "distance": 138.3332644774747,
+          "num_lanes": 4,
+          "length": 79.62,
+          "speed": 11.18
+        }
+      ],
+      "radius": 200.0
+    },
+    {
+      "index": 7,
+      "road_name": "Brooklyn Battery Tunl",
+      "location": [
+        40.71108,
+        -74.01465
+      ],
+      "mapped_edges": [
+        {
+          "id": "195743264",
+          "distance": 210.18700511331045,
+          "num_lanes": 4,
+          "length": 93.41,
+          "speed": 13.41
+        },
+        {
+          "id": "1053554760",
+          "distance": 234.86363122532217,
+          "num_lanes": 3,
+          "length": 69.12,
+          "speed": 13.41
+        },
+        {
+          "id": "413054285",
+          "distance": 296.78731689454423,
+          "num_lanes": 2,
+          "length": 74.96,
+          "speed": 8.94
+        },
+        {
+          "id": "770524299#1",
+          "distance": 372.9800017529423,
+          "num_lanes": 1,
+          "length": 79.96,
+          "speed": 8.94
+        },
+        {
+          "id": "770524299#0",
+          "distance": 373.1569653312579,
+          "num_lanes": 1,
+          "length": 55.38,
+          "speed": 8.94
+        }
+      ],
+      "radius": 400.0
+    },
+    {
+      "index": 8,
+      "road_name": "Delancey St",
+      "location": [
+        40.71793,
+        -73.98566
+      ],
+      "mapped_edges": [
+        {
+          "id": "110542345",
+          "distance": 78.22874169944885,
+          "num_lanes": 1,
+          "length": 121.83,
+          "speed": 11.18
+        }
+      ],
+      "radius": 100.0
+    },
+    {
+      "index": 9,
+      "road_name": "7th Ave",
+      "location": [
+        40.74164,
+        -73.99743
+      ],
+      "mapped_edges": [
+        {
+          "id": "5672450#1",
+          "distance": 0.028825923424079657,
+          "num_lanes": 1,
+          "length": 255.19,
+          "speed": 11.18
+        },
+        {
+          "id": "5672450#2",
+          "distance": 0.4080573625048569,
+          "num_lanes": 1,
+          "length": 256.57,
+          "speed": 11.18
+        },
+        {
+          "id": "852992111",
+          "distance": 0.4080573625048569,
+          "num_lanes": 3,
+          "length": 63.91,
+          "speed": 11.18
+        }
+      ],
+      "radius": 50.0
+    }
+  ],
+  "exit_mappings_sample": [
+    {
+      "index": 0,
+      "road_name": "Queens Midtown Tunnel (West)",
+      "location": [
+        40.74158,
+        -73.95604
+      ],
+      "mapped_edges": [
+        {
+          "id": "219654674",
+          "distance": 252.73231440439883,
+          "num_lanes": 2,
+          "length": 74.85,
+          "speed": 13.89
+        },
+        {
+          "id": "306526978",
+          "distance": 294.6608158802977,
+          "num_lanes": 2,
+          "length": 104.16,
+          "speed": 13.89
+        },
+        {
+          "id": "705964772",
+          "distance": 294.6608158802977,
+          "num_lanes": 2,
+          "length": 281.75,
+          "speed": 13.89
+        }
+      ],
+      "radius": 400.0
+    },
+    {
+      "index": 1,
+      "road_name": "Lincoln Tunnel East",
+      "location": [
+        40.7109,
+        -73.99219
+      ],
+      "mapped_edges": [
+        {
+          "id": "834238144",
+          "distance": 173.92168435462474,
+          "num_lanes": 1,
+          "length": 16.19,
+          "speed": 8.94
+        },
+        {
+          "id": "125525171",
+          "distance": 174.60664442732636,
+          "num_lanes": 1,
+          "length": 181.94,
+          "speed": 8.94
+        },
+        {
+          "id": "-834238144",
+          "distance": 175.64302358361516,
+          "num_lanes": 1,
+          "length": 16.19,
+          "speed": 8.94
+        },
+        {
+          "id": "-125525171",
+          "distance": 175.64302358361516,
+          "num_lanes": 1,
+          "length": 181.94,
+          "speed": 8.94
+        },
+        {
+          "id": "849942510",
+          "distance": 175.64302358361516,
+          "num_lanes": 2,
+          "length": 69.17,
+          "speed": 8.94
+        }
+      ],
+      "radius": 200.0
+    },
+    {
+      "index": 2,
+      "road_name": "Queens Midtown Tunnel (West)",
+      "location": [
+        40.74725,
+        -73.97093
+      ],
+      "mapped_edges": [
+        {
+          "id": "226041003",
+          "distance": 35.81329472460169,
+          "num_lanes": 1,
+          "length": 215.97,
+          "speed": 11.18
+        },
+        {
+          "id": "5671349",
+          "distance": 43.04103542882669,
+          "num_lanes": 1,
+          "length": 139.25,
+          "speed": 11.18
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 3,
+      "road_name": "58th St",
+      "location": [
+        40.75449,
+        -73.94913
+      ],
+      "mapped_edges": [],
+      "error": "No edges found within 500.0m"
+    },
+    {
+      "index": 4,
+      "road_name": "Hudson St",
+      "location": [
+        40.72951,
+        -74.00702
+      ],
+      "mapped_edges": [
+        {
+          "id": "439933945",
+          "distance": 6.0007900842722135,
+          "num_lanes": 2,
+          "length": 74.05,
+          "speed": 11.18
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 5,
+      "road_name": "RT-9A/West St/West Side Hwy",
+      "location": [
+        40.73534,
+        -74.00955
+      ],
+      "mapped_edges": [
+        {
+          "id": "480112478#1",
+          "distance": 1.8306592388729899,
+          "num_lanes": 1,
+          "length": 133.5,
+          "speed": 11.18
+        },
+        {
+          "id": "195743557",
+          "distance": 41.33581756768626,
+          "num_lanes": 4,
+          "length": 158.74,
+          "speed": 13.41
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 6,
+      "road_name": "58th St",
+      "location": [
+        40.759,
+        -73.96447
+      ],
+      "mapped_edges": [
+        {
+          "id": "-421851200",
+          "distance": 1.6476695616549555,
+          "num_lanes": 3,
+          "length": 133.85,
+          "speed": 11.18
+        },
+        {
+          "id": "32947291",
+          "distance": 1.9275988411174771,
+          "num_lanes": 2,
+          "length": 71.22,
+          "speed": 11.18
+        },
+        {
+          "id": "421851200",
+          "distance": 3.788762599056514,
+          "num_lanes": 2,
+          "length": 133.85,
+          "speed": 11.18
+        }
+      ],
+      "radius": 50.0
+    },
+    {
+      "index": 7,
+      "road_name": "Lincoln Tunnel East",
+      "location": [
+        40.75995,
+        -74.00401
+      ],
+      "mapped_edges": [
+        {
+          "id": "336872313",
+          "distance": 88.99323021340886,
+          "num_lanes": 3,
+          "length": 99.17,
+          "speed": 13.41
+        }
+      ],
+      "radius": 100.0
+    },
+    {
+      "index": 8,
+      "road_name": "RT-495/Lincoln Tunnel Expy/Dyer Ave",
+      "location": [
+        40.73738,
+        -74.03375
+      ],
+      "mapped_edges": [
+        {
+          "id": "1057788581",
+          "distance": 80.79413515826829,
+          "num_lanes": 1,
+          "length": 207.63,
+          "speed": 8.94
+        }
+      ],
+      "radius": 100.0
+    },
+    {
+      "index": 9,
+      "road_name": "Brooklyn Battery Tunl",
+      "location": [
+        40.71108,
+        -74.01465
+      ],
+      "mapped_edges": [
+        {
+          "id": "195743264",
+          "distance": 210.18700511331045,
+          "num_lanes": 4,
+          "length": 93.41,
+          "speed": 13.41
+        },
+        {
+          "id": "1053554760",
+          "distance": 234.86363122532217,
+          "num_lanes": 3,
+          "length": 69.12,
+          "speed": 13.41
+        },
+        {
+          "id": "413054285",
+          "distance": 296.78731689454423,
+          "num_lanes": 2,
+          "length": 74.96,
+          "speed": 8.94
+        },
+        {
+          "id": "770524299#1",
+          "distance": 372.9800017529423,
+          "num_lanes": 1,
+          "length": 79.96,
+          "speed": 8.94
+        },
+        {
+          "id": "770524299#0",
+          "distance": 373.1569653312579,
+          "num_lanes": 1,
+          "length": 55.38,
+          "speed": 8.94
+        }
+      ],
+      "radius": 400.0
+    }
+  ]
+}

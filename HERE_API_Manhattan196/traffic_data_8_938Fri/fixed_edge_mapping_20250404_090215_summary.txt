@@ -1,0 +1,25 @@
+HERE API to SUMO Edge Mapping Summary
+====================================
+
+Processing time: 2025-06-22 15:24:42
+SUMO network file: traffic_data_8_938Fri/baseline_sumo_run/baseline.net.xml
+Input edge mapping: traffic_data_8_938Fri/fixed_edge_mapping_20250404_090215.json
+Output edge mapping: traffic_data_8_938Fri/fixed_edge_mapping_20250404_090215.json
+Maximum matching distance: 50.0 meters
+
+Total segments: 991
+Segments with SUMO edges: 791
+Success rate: 79.8%
+
+Sample mappings (first 10):
+--------------------------
+segment_0 (Bowery): ['5670594#1', '165777951#0']
+segment_1 (Bleecker St/Downing St/Minetta St): ['433124996', '439933948#2']
+segment_2 (Gansevoort St): ['970704072']
+segment_3 (RT-9A/West Side Hwy): []
+segment_4 (RT-9A/West Side Hwy/West St): ['195743229']
+segment_5 (RT-9A/West Side Hwy/West St): ['195743229']
+segment_6 (W 57th St): ['127693103#0', '5672464']
+segment_7 (W 57th St): ['127693103#1', '5672464']
+segment_8 (W 57th St): ['464516471#0', '127693103#1']
+segment_9 (W 57th St): ['464516471#0']

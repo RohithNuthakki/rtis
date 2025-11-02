@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="trip_0" depart="0" fromLonLat="-73.9625,40.74377" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1800"/>
+    </trip>
+    <trip id="trip_1" depart="0" fromLonLat="-73.9625,40.74377" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1755"/>
+    </trip>
+    <trip id="trip_2" depart="0" fromLonLat="-73.9625,40.74377" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1530"/>
+    </trip>
+    <trip id="trip_3" depart="0" fromLonLat="-73.9625,40.74377" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1485"/>
+    </trip>
+    <trip id="trip_4" depart="0" fromLonLat="-73.9625,40.74377" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1260"/>
+    </trip>
+    <trip id="trip_5" depart="0" fromLonLat="-73.9625,40.74377" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1260"/>
+    </trip>
+    <trip id="trip_6" depart="0" fromLonLat="-73.9625,40.74377" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1215"/>
+    </trip>
+    <trip id="trip_7" depart="0" fromLonLat="-73.9625,40.74377" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1215"/>
+    </trip>
+    <trip id="trip_8" depart="0" fromLonLat="-73.9625,40.74377" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="810"/>
+    </trip>
+    <trip id="trip_9" depart="0" fromLonLat="-73.9625,40.74377" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="675"/>
+    </trip>
+    <trip id="trip_10" depart="0" fromLonLat="-73.9625,40.74377" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="135"/>
+    </trip>
+    <trip id="trip_11" depart="0" fromLonLat="-73.9625,40.74377" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="135"/>
+    </trip>
+    <trip id="trip_12" depart="0" fromLonLat="-73.9625,40.74377" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="135"/>
+    </trip>
+    <trip id="trip_13" depart="0" fromLonLat="-73.9625,40.74377" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="90"/>
+    </trip>
+    <trip id="trip_14" depart="0" fromLonLat="-73.95438,40.71254" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1640"/>
+    </trip>
+    <trip id="trip_15" depart="0" fromLonLat="-73.95438,40.71254" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1599"/>
+    </trip>
+    <trip id="trip_16" depart="0" fromLonLat="-73.95438,40.71254" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1394"/>
+    </trip>
+    <trip id="trip_17" depart="0" fromLonLat="-73.95438,40.71254" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1353"/>
+    </trip>
+    <trip id="trip_18" depart="0" fromLonLat="-73.95438,40.71254" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1148"/>
+    </trip>
+    <trip id="trip_19" depart="0" fromLonLat="-73.95438,40.71254" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1148"/>
+    </trip>
+    <trip id="trip_20" depart="0" fromLonLat="-73.95438,40.71254" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1107"/>
+    </trip>
+    <trip id="trip_21" depart="0" fromLonLat="-73.95438,40.71254" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1107"/>
+    </trip>
+    <trip id="trip_22" depart="0" fromLonLat="-73.95438,40.71254" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="738"/>
+    </trip>
+    <trip id="trip_23" depart="0" fromLonLat="-73.95438,40.71254" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="615"/>
+    </trip>
+    <trip id="trip_24" depart="0" fromLonLat="-73.95438,40.71254" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="123"/>
+    </trip>
+    <trip id="trip_25" depart="0" fromLonLat="-73.95438,40.71254" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="123"/>
+    </trip>
+    <trip id="trip_26" depart="0" fromLonLat="-73.95438,40.71254" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="123"/>
+    </trip>
+    <trip id="trip_27" depart="0" fromLonLat="-73.95438,40.71254" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="82"/>
+    </trip>
+    <trip id="trip_28" depart="0" fromLonLat="-73.95531,40.74147" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1600"/>
+    </trip>
+    <trip id="trip_29" depart="0" fromLonLat="-73.95531,40.74147" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1560"/>
+    </trip>
+    <trip id="trip_30" depart="0" fromLonLat="-73.95531,40.74147" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1360"/>
+    </trip>
+    <trip id="trip_31" depart="0" fromLonLat="-73.95531,40.74147" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1320"/>
+    </trip>
+    <trip id="trip_32" depart="0" fromLonLat="-73.95531,40.74147" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1120"/>
+    </trip>
+    <trip id="trip_33" depart="0" fromLonLat="-73.95531,40.74147" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1120"/>
+    </trip>
+    <trip id="trip_34" depart="0" fromLonLat="-73.95531,40.74147" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1080"/>
+    </trip>
+    <trip id="trip_35" depart="0" fromLonLat="-73.95531,40.74147" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1080"/>
+    </trip>
+    <trip id="trip_36" depart="0" fromLonLat="-73.95531,40.74147" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="720"/>
+    </trip>
+    <trip id="trip_37" depart="0" fromLonLat="-73.95531,40.74147" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="600"/>
+    </trip>
+    <trip id="trip_38" depart="0" fromLonLat="-73.95531,40.74147" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="120"/>
+    </trip>
+    <trip id="trip_39" depart="0" fromLonLat="-73.95531,40.74147" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="120"/>
+    </trip>
+    <trip id="trip_40" depart="0" fromLonLat="-73.95531,40.74147" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="120"/>
+    </trip>
+    <trip id="trip_41" depart="0" fromLonLat="-73.95531,40.74147" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="80"/>
+    </trip>
+    <trip id="trip_42" depart="0" fromLonLat="-73.97093,40.74725" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1360"/>
+    </trip>
+    <trip id="trip_43" depart="0" fromLonLat="-73.97093,40.74725" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1326"/>
+    </trip>
+    <trip id="trip_44" depart="0" fromLonLat="-73.97093,40.74725" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1156"/>
+    </trip>
+    <trip id="trip_45" depart="0" fromLonLat="-73.97093,40.74725" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1122"/>
+    </trip>
+    <trip id="trip_46" depart="0" fromLonLat="-73.97093,40.74725" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="952"/>
+    </trip>
+    <trip id="trip_47" depart="0" fromLonLat="-73.97093,40.74725" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="952"/>
+    </trip>
+    <trip id="trip_48" depart="0" fromLonLat="-73.97093,40.74725" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="918"/>
+    </trip>
+    <trip id="trip_49" depart="0" fromLonLat="-73.97093,40.74725" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="918"/>
+    </trip>
+    <trip id="trip_50" depart="0" fromLonLat="-73.97093,40.74725" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="612"/>
+    </trip>
+    <trip id="trip_51" depart="0" fromLonLat="-73.97093,40.74725" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="510"/>
+    </trip>
+    <trip id="trip_52" depart="0" fromLonLat="-73.97093,40.74725" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="102"/>
+    </trip>
+    <trip id="trip_53" depart="0" fromLonLat="-73.97093,40.74725" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="102"/>
+    </trip>
+    <trip id="trip_54" depart="0" fromLonLat="-73.97093,40.74725" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="102"/>
+    </trip>
+    <trip id="trip_55" depart="0" fromLonLat="-73.97093,40.74725" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="68"/>
+    </trip>
+    <trip id="trip_56" depart="0" fromLonLat="-74.00187,40.75964" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1320"/>
+    </trip>
+    <trip id="trip_57" depart="0" fromLonLat="-74.00187,40.75964" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1287"/>
+    </trip>
+    <trip id="trip_58" depart="0" fromLonLat="-74.00187,40.75964" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1122"/>
+    </trip>
+    <trip id="trip_59" depart="0" fromLonLat="-74.00187,40.75964" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1089"/>
+    </trip>
+    <trip id="trip_60" depart="0" fromLonLat="-74.00187,40.75964" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="924"/>
+    </trip>
+    <trip id="trip_61" depart="0" fromLonLat="-74.00187,40.75964" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="924"/>
+    </trip>
+    <trip id="trip_62" depart="0" fromLonLat="-74.00187,40.75964" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="891"/>
+    </trip>
+    <trip id="trip_63" depart="0" fromLonLat="-74.00187,40.75964" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="891"/>
+    </trip>
+    <trip id="trip_64" depart="0" fromLonLat="-74.00187,40.75964" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="594"/>
+    </trip>
+    <trip id="trip_65" depart="0" fromLonLat="-74.00187,40.75964" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="495"/>
+    </trip>
+    <trip id="trip_66" depart="0" fromLonLat="-74.00187,40.75964" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="99"/>
+    </trip>
+    <trip id="trip_67" depart="0" fromLonLat="-74.00187,40.75964" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="99"/>
+    </trip>
+    <trip id="trip_68" depart="0" fromLonLat="-74.00187,40.75964" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="99"/>
+    </trip>
+    <trip id="trip_69" depart="0" fromLonLat="-74.00187,40.75964" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="66"/>
+    </trip>
+    <trip id="trip_70" depart="0" fromLonLat="-73.97659,40.73607" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="1000"/>
+    </trip>
+    <trip id="trip_71" depart="0" fromLonLat="-73.97659,40.73607" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="975"/>
+    </trip>
+    <trip id="trip_72" depart="0" fromLonLat="-73.97659,40.73607" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="850"/>
+    </trip>
+    <trip id="trip_73" depart="0" fromLonLat="-73.97659,40.73607" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="825"/>
+    </trip>
+    <trip id="trip_74" depart="0" fromLonLat="-73.97659,40.73607" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="700"/>
+    </trip>
+    <trip id="trip_75" depart="0" fromLonLat="-73.97659,40.73607" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="700"/>
+    </trip>
+    <trip id="trip_76" depart="0" fromLonLat="-73.97659,40.73607" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="675"/>
+    </trip>
+    <trip id="trip_77" depart="0" fromLonLat="-73.97659,40.73607" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="675"/>
+    </trip>
+    <trip id="trip_78" depart="0" fromLonLat="-73.97659,40.73607" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="450"/>
+    </trip>
+    <trip id="trip_79" depart="0" fromLonLat="-73.97659,40.73607" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="375"/>
+    </trip>
+    <trip id="trip_80" depart="0" fromLonLat="-73.97659,40.73607" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="75"/>
+    </trip>
+    <trip id="trip_81" depart="0" fromLonLat="-73.97659,40.73607" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="75"/>
+    </trip>
+    <trip id="trip_82" depart="0" fromLonLat="-73.97659,40.73607" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="75"/>
+    </trip>
+    <trip id="trip_83" depart="0" fromLonLat="-73.97659,40.73607" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="50"/>
+    </trip>
+    <trip id="trip_84" depart="0" fromLonLat="-73.9853,40.75622" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="920"/>
+    </trip>
+    <trip id="trip_85" depart="0" fromLonLat="-73.9853,40.75622" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="897"/>
+    </trip>
+    <trip id="trip_86" depart="0" fromLonLat="-73.9853,40.75622" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="782"/>
+    </trip>
+    <trip id="trip_87" depart="0" fromLonLat="-73.9853,40.75622" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="759"/>
+    </trip>
+    <trip id="trip_88" depart="0" fromLonLat="-73.9853,40.75622" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="644"/>
+    </trip>
+    <trip id="trip_89" depart="0" fromLonLat="-73.9853,40.75622" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="644"/>
+    </trip>
+    <trip id="trip_90" depart="0" fromLonLat="-73.9853,40.75622" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="621"/>
+    </trip>
+    <trip id="trip_91" depart="0" fromLonLat="-73.9853,40.75622" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="621"/>
+    </trip>
+    <trip id="trip_92" depart="0" fromLonLat="-73.9853,40.75622" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="414"/>
+    </trip>
+    <trip id="trip_93" depart="0" fromLonLat="-73.9853,40.75622" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="345"/>
+    </trip>
+    <trip id="trip_94" depart="0" fromLonLat="-73.9853,40.75622" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="69"/>
+    </trip>
+    <trip id="trip_95" depart="0" fromLonLat="-73.9853,40.75622" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="69"/>
+    </trip>
+    <trip id="trip_96" depart="0" fromLonLat="-73.9853,40.75622" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="69"/>
+    </trip>
+    <trip id="trip_97" depart="0" fromLonLat="-73.9853,40.75622" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="46"/>
+    </trip>
+    <trip id="trip_98" depart="0" fromLonLat="-74.01465,40.71108" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="880"/>
+    </trip>
+    <trip id="trip_99" depart="0" fromLonLat="-74.01465,40.71108" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="858"/>
+    </trip>
+    <trip id="trip_100" depart="0" fromLonLat="-74.01465,40.71108" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="748"/>
+    </trip>
+    <trip id="trip_101" depart="0" fromLonLat="-74.01465,40.71108" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="726"/>
+    </trip>
+    <trip id="trip_102" depart="0" fromLonLat="-74.01465,40.71108" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="616"/>
+    </trip>
+    <trip id="trip_103" depart="0" fromLonLat="-74.01465,40.71108" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="616"/>
+    </trip>
+    <trip id="trip_104" depart="0" fromLonLat="-74.01465,40.71108" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="594"/>
+    </trip>
+    <trip id="trip_105" depart="0" fromLonLat="-74.01465,40.71108" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="594"/>
+    </trip>
+    <trip id="trip_106" depart="0" fromLonLat="-74.01465,40.71108" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="396"/>
+    </trip>
+    <trip id="trip_107" depart="0" fromLonLat="-74.01465,40.71108" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="330"/>
+    </trip>
+    <trip id="trip_108" depart="0" fromLonLat="-74.01465,40.71108" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="66"/>
+    </trip>
+    <trip id="trip_109" depart="0" fromLonLat="-74.01465,40.71108" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="66"/>
+    </trip>
+    <trip id="trip_110" depart="0" fromLonLat="-74.01465,40.71108" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="66"/>
+    </trip>
+    <trip id="trip_111" depart="0" fromLonLat="-74.01465,40.71108" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="44"/>
+    </trip>
+    <trip id="trip_112" depart="0" fromLonLat="-73.98566,40.71793" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="840"/>
+    </trip>
+    <trip id="trip_113" depart="0" fromLonLat="-73.98566,40.71793" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="819"/>
+    </trip>
+    <trip id="trip_114" depart="0" fromLonLat="-73.98566,40.71793" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="714"/>
+    </trip>
+    <trip id="trip_115" depart="0" fromLonLat="-73.98566,40.71793" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="693"/>
+    </trip>
+    <trip id="trip_116" depart="0" fromLonLat="-73.98566,40.71793" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="588"/>
+    </trip>
+    <trip id="trip_117" depart="0" fromLonLat="-73.98566,40.71793" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="588"/>
+    </trip>
+    <trip id="trip_118" depart="0" fromLonLat="-73.98566,40.71793" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="567"/>
+    </trip>
+    <trip id="trip_119" depart="0" fromLonLat="-73.98566,40.71793" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="567"/>
+    </trip>
+    <trip id="trip_120" depart="0" fromLonLat="-73.98566,40.71793" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="378"/>
+    </trip>
+    <trip id="trip_121" depart="0" fromLonLat="-73.98566,40.71793" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="315"/>
+    </trip>
+    <trip id="trip_122" depart="0" fromLonLat="-73.98566,40.71793" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="63"/>
+    </trip>
+    <trip id="trip_123" depart="0" fromLonLat="-73.98566,40.71793" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="63"/>
+    </trip>
+    <trip id="trip_124" depart="0" fromLonLat="-73.98566,40.71793" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="63"/>
+    </trip>
+    <trip id="trip_125" depart="0" fromLonLat="-73.98566,40.71793" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="42"/>
+    </trip>
+    <trip id="trip_126" depart="0" fromLonLat="-73.99743,40.74164" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="720"/>
+    </trip>
+    <trip id="trip_127" depart="0" fromLonLat="-73.99743,40.74164" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="702"/>
+    </trip>
+    <trip id="trip_128" depart="0" fromLonLat="-73.99743,40.74164" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="612"/>
+    </trip>
+    <trip id="trip_129" depart="0" fromLonLat="-73.99743,40.74164" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="594"/>
+    </trip>
+    <trip id="trip_130" depart="0" fromLonLat="-73.99743,40.74164" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="504"/>
+    </trip>
+    <trip id="trip_131" depart="0" fromLonLat="-73.99743,40.74164" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="504"/>
+    </trip>
+    <trip id="trip_132" depart="0" fromLonLat="-73.99743,40.74164" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="486"/>
+    </trip>
+    <trip id="trip_133" depart="0" fromLonLat="-73.99743,40.74164" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="486"/>
+    </trip>
+    <trip id="trip_134" depart="0" fromLonLat="-73.99743,40.74164" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="324"/>
+    </trip>
+    <trip id="trip_135" depart="0" fromLonLat="-73.99743,40.74164" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="270"/>
+    </trip>
+    <trip id="trip_136" depart="0" fromLonLat="-73.99743,40.74164" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="54"/>
+    </trip>
+    <trip id="trip_137" depart="0" fromLonLat="-73.99743,40.74164" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="54"/>
+    </trip>
+    <trip id="trip_138" depart="0" fromLonLat="-73.99743,40.74164" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="54"/>
+    </trip>
+    <trip id="trip_139" depart="0" fromLonLat="-73.99743,40.74164" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="36"/>
+    </trip>
+    <trip id="trip_140" depart="0" fromLonLat="-74.02851,40.75759" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="680"/>
+    </trip>
+    <trip id="trip_141" depart="0" fromLonLat="-74.02851,40.75759" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="663"/>
+    </trip>
+    <trip id="trip_142" depart="0" fromLonLat="-74.02851,40.75759" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="578"/>
+    </trip>
+    <trip id="trip_143" depart="0" fromLonLat="-74.02851,40.75759" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="561"/>
+    </trip>
+    <trip id="trip_144" depart="0" fromLonLat="-74.02851,40.75759" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="476"/>
+    </trip>
+    <trip id="trip_145" depart="0" fromLonLat="-74.02851,40.75759" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="476"/>
+    </trip>
+    <trip id="trip_146" depart="0" fromLonLat="-74.02851,40.75759" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="459"/>
+    </trip>
+    <trip id="trip_147" depart="0" fromLonLat="-74.02851,40.75759" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="459"/>
+    </trip>
+    <trip id="trip_148" depart="0" fromLonLat="-74.02851,40.75759" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="306"/>
+    </trip>
+    <trip id="trip_149" depart="0" fromLonLat="-74.02851,40.75759" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="255"/>
+    </trip>
+    <trip id="trip_150" depart="0" fromLonLat="-74.02851,40.75759" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="51"/>
+    </trip>
+    <trip id="trip_151" depart="0" fromLonLat="-74.02851,40.75759" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="51"/>
+    </trip>
+    <trip id="trip_152" depart="0" fromLonLat="-74.02851,40.75759" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="51"/>
+    </trip>
+    <trip id="trip_153" depart="0" fromLonLat="-74.02851,40.75759" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="34"/>
+    </trip>
+    <trip id="trip_154" depart="0" fromLonLat="-73.99346,40.75219" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="640"/>
+    </trip>
+    <trip id="trip_155" depart="0" fromLonLat="-73.99346,40.75219" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="624"/>
+    </trip>
+    <trip id="trip_156" depart="0" fromLonLat="-73.99346,40.75219" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="544"/>
+    </trip>
+    <trip id="trip_157" depart="0" fromLonLat="-73.99346,40.75219" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="528"/>
+    </trip>
+    <trip id="trip_158" depart="0" fromLonLat="-73.99346,40.75219" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="448"/>
+    </trip>
+    <trip id="trip_159" depart="0" fromLonLat="-73.99346,40.75219" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="448"/>
+    </trip>
+    <trip id="trip_160" depart="0" fromLonLat="-73.99346,40.75219" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="432"/>
+    </trip>
+    <trip id="trip_161" depart="0" fromLonLat="-73.99346,40.75219" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="432"/>
+    </trip>
+    <trip id="trip_162" depart="0" fromLonLat="-73.99346,40.75219" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="288"/>
+    </trip>
+    <trip id="trip_163" depart="0" fromLonLat="-73.99346,40.75219" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="240"/>
+    </trip>
+    <trip id="trip_164" depart="0" fromLonLat="-73.99346,40.75219" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_165" depart="0" fromLonLat="-73.99346,40.75219" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_166" depart="0" fromLonLat="-73.99346,40.75219" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_167" depart="0" fromLonLat="-73.99346,40.75219" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="32"/>
+    </trip>
+    <trip id="trip_168" depart="0" fromLonLat="-74.01239,40.72621" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="640"/>
+    </trip>
+    <trip id="trip_169" depart="0" fromLonLat="-74.01239,40.72621" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="624"/>
+    </trip>
+    <trip id="trip_170" depart="0" fromLonLat="-74.01239,40.72621" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="544"/>
+    </trip>
+    <trip id="trip_171" depart="0" fromLonLat="-74.01239,40.72621" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="528"/>
+    </trip>
+    <trip id="trip_172" depart="0" fromLonLat="-74.01239,40.72621" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="448"/>
+    </trip>
+    <trip id="trip_173" depart="0" fromLonLat="-74.01239,40.72621" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="448"/>
+    </trip>
+    <trip id="trip_174" depart="0" fromLonLat="-74.01239,40.72621" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="432"/>
+    </trip>
+    <trip id="trip_175" depart="0" fromLonLat="-74.01239,40.72621" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="432"/>
+    </trip>
+    <trip id="trip_176" depart="0" fromLonLat="-74.01239,40.72621" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="288"/>
+    </trip>
+    <trip id="trip_177" depart="0" fromLonLat="-74.01239,40.72621" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="240"/>
+    </trip>
+    <trip id="trip_178" depart="0" fromLonLat="-74.01239,40.72621" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_179" depart="0" fromLonLat="-74.01239,40.72621" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_180" depart="0" fromLonLat="-74.01239,40.72621" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_181" depart="0" fromLonLat="-74.01239,40.72621" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="32"/>
+    </trip>
+    <trip id="trip_182" depart="0" fromLonLat="-74.02094,40.72737" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="640"/>
+    </trip>
+    <trip id="trip_183" depart="0" fromLonLat="-74.02094,40.72737" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="624"/>
+    </trip>
+    <trip id="trip_184" depart="0" fromLonLat="-74.02094,40.72737" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="544"/>
+    </trip>
+    <trip id="trip_185" depart="0" fromLonLat="-74.02094,40.72737" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="528"/>
+    </trip>
+    <trip id="trip_186" depart="0" fromLonLat="-74.02094,40.72737" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="448"/>
+    </trip>
+    <trip id="trip_187" depart="0" fromLonLat="-74.02094,40.72737" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="448"/>
+    </trip>
+    <trip id="trip_188" depart="0" fromLonLat="-74.02094,40.72737" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="432"/>
+    </trip>
+    <trip id="trip_189" depart="0" fromLonLat="-74.02094,40.72737" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="432"/>
+    </trip>
+    <trip id="trip_190" depart="0" fromLonLat="-74.02094,40.72737" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="288"/>
+    </trip>
+    <trip id="trip_191" depart="0" fromLonLat="-74.02094,40.72737" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="240"/>
+    </trip>
+    <trip id="trip_192" depart="0" fromLonLat="-74.02094,40.72737" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_193" depart="0" fromLonLat="-74.02094,40.72737" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_194" depart="0" fromLonLat="-74.02094,40.72737" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_195" depart="0" fromLonLat="-74.02094,40.72737" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="32"/>
+    </trip>
+    <trip id="trip_196" depart="0" fromLonLat="-73.95983,40.75951" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="640"/>
+    </trip>
+    <trip id="trip_197" depart="0" fromLonLat="-73.95983,40.75951" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="624"/>
+    </trip>
+    <trip id="trip_198" depart="0" fromLonLat="-73.95983,40.75951" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="544"/>
+    </trip>
+    <trip id="trip_199" depart="0" fromLonLat="-73.95983,40.75951" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="528"/>
+    </trip>
+    <trip id="trip_200" depart="0" fromLonLat="-73.95983,40.75951" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="448"/>
+    </trip>
+    <trip id="trip_201" depart="0" fromLonLat="-73.95983,40.75951" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="448"/>
+    </trip>
+    <trip id="trip_202" depart="0" fromLonLat="-73.95983,40.75951" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="432"/>
+    </trip>
+    <trip id="trip_203" depart="0" fromLonLat="-73.95983,40.75951" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="432"/>
+    </trip>
+    <trip id="trip_204" depart="0" fromLonLat="-73.95983,40.75951" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="288"/>
+    </trip>
+    <trip id="trip_205" depart="0" fromLonLat="-73.95983,40.75951" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="240"/>
+    </trip>
+    <trip id="trip_206" depart="0" fromLonLat="-73.95983,40.75951" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_207" depart="0" fromLonLat="-73.95983,40.75951" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_208" depart="0" fromLonLat="-73.95983,40.75951" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_209" depart="0" fromLonLat="-73.95983,40.75951" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="32"/>
+    </trip>
+    <trip id="trip_210" depart="0" fromLonLat="-73.97863,40.74103" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="640"/>
+    </trip>
+    <trip id="trip_211" depart="0" fromLonLat="-73.97863,40.74103" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="624"/>
+    </trip>
+    <trip id="trip_212" depart="0" fromLonLat="-73.97863,40.74103" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="544"/>
+    </trip>
+    <trip id="trip_213" depart="0" fromLonLat="-73.97863,40.74103" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="528"/>
+    </trip>
+    <trip id="trip_214" depart="0" fromLonLat="-73.97863,40.74103" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="448"/>
+    </trip>
+    <trip id="trip_215" depart="0" fromLonLat="-73.97863,40.74103" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="448"/>
+    </trip>
+    <trip id="trip_216" depart="0" fromLonLat="-73.97863,40.74103" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="432"/>
+    </trip>
+    <trip id="trip_217" depart="0" fromLonLat="-73.97863,40.74103" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="432"/>
+    </trip>
+    <trip id="trip_218" depart="0" fromLonLat="-73.97863,40.74103" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="288"/>
+    </trip>
+    <trip id="trip_219" depart="0.0" fromLonLat="-73.97863,40.74103" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="240"/>
+    </trip>
+    <trip id="trip_220" depart="39.5448275862069" fromLonLat="-73.97863,40.74103" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_221" depart="79.0896551724138" fromLonLat="-73.97863,40.74103" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_222" depart="118.63448275862069" fromLonLat="-73.97863,40.74103" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_223" depart="158.1793103448276" fromLonLat="-73.97863,40.74103" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="32"/>
+    </trip>
+    <trip id="trip_224" depart="197.72413793103448" fromLonLat="-73.96761,40.75613" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="640"/>
+    </trip>
+    <trip id="trip_225" depart="237.26896551724138" fromLonLat="-73.96761,40.75613" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="624"/>
+    </trip>
+    <trip id="trip_226" depart="276.8137931034483" fromLonLat="-73.96761,40.75613" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="544"/>
+    </trip>
+    <trip id="trip_227" depart="316.3586206896552" fromLonLat="-73.96761,40.75613" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="528"/>
+    </trip>
+    <trip id="trip_228" depart="355.90344827586205" fromLonLat="-73.96761,40.75613" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="448"/>
+    </trip>
+    <trip id="trip_229" depart="395.44827586206895" fromLonLat="-73.96761,40.75613" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="448"/>
+    </trip>
+    <trip id="trip_230" depart="434.99310344827586" fromLonLat="-73.96761,40.75613" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="432"/>
+    </trip>
+    <trip id="trip_231" depart="474.53793103448277" fromLonLat="-73.96761,40.75613" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="432"/>
+    </trip>
+    <trip id="trip_232" depart="514.0827586206897" fromLonLat="-73.96761,40.75613" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="288"/>
+    </trip>
+    <trip id="trip_233" depart="553.6275862068966" fromLonLat="-73.96761,40.75613" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="240"/>
+    </trip>
+    <trip id="trip_234" depart="593.1724137931035" fromLonLat="-73.96761,40.75613" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_235" depart="632.7172413793104" fromLonLat="-73.96761,40.75613" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_236" depart="672.2620689655172" fromLonLat="-73.96761,40.75613" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="48"/>
+    </trip>
+    <trip id="trip_237" depart="711.8068965517241" fromLonLat="-73.96761,40.75613" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="32"/>
+    </trip>
+    <trip id="trip_238" depart="751.351724137931" fromLonLat="-73.98695,40.713" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="440"/>
+    </trip>
+    <trip id="trip_239" depart="790.8965517241379" fromLonLat="-73.98695,40.713" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="429"/>
+    </trip>
+    <trip id="trip_240" depart="830.4413793103448" fromLonLat="-73.98695,40.713" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="374"/>
+    </trip>
+    <trip id="trip_241" depart="869.9862068965517" fromLonLat="-73.98695,40.713" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="363"/>
+    </trip>
+    <trip id="trip_242" depart="909.5310344827586" fromLonLat="-73.98695,40.713" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="308"/>
+    </trip>
+    <trip id="trip_243" depart="949.0758620689655" fromLonLat="-73.98695,40.713" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="308"/>
+    </trip>
+    <trip id="trip_244" depart="988.6206896551724" fromLonLat="-73.98695,40.713" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="297"/>
+    </trip>
+    <trip id="trip_245" depart="1028.1655172413793" fromLonLat="-73.98695,40.713" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="297"/>
+    </trip>
+    <trip id="trip_246" depart="1067.7103448275861" fromLonLat="-73.98695,40.713" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="198"/>
+    </trip>
+    <trip id="trip_247" depart="1107.2551724137932" fromLonLat="-73.98695,40.713" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="165"/>
+    </trip>
+    <trip id="trip_248" depart="1146.8" fromLonLat="-73.98695,40.713" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="33"/>
+    </trip>
+    <trip id="trip_249" depart="1186.344827586207" fromLonLat="-73.98695,40.713" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="33"/>
+    </trip>
+    <trip id="trip_250" depart="1225.8896551724138" fromLonLat="-73.98695,40.713" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="33"/>
+    </trip>
+    <trip id="trip_251" depart="1265.4344827586208" fromLonLat="-73.98695,40.713" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="22"/>
+    </trip>
+    <trip id="trip_252" depart="1304.9793103448276" fromLonLat="-74.00441,40.71273" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="400"/>
+    </trip>
+    <trip id="trip_253" depart="1344.5241379310344" fromLonLat="-74.00441,40.71273" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="390"/>
+    </trip>
+    <trip id="trip_254" depart="1384.0689655172414" fromLonLat="-74.00441,40.71273" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="340"/>
+    </trip>
+    <trip id="trip_255" depart="1423.6137931034482" fromLonLat="-74.00441,40.71273" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="330"/>
+    </trip>
+    <trip id="trip_256" depart="1463.1586206896552" fromLonLat="-74.00441,40.71273" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="280"/>
+    </trip>
+    <trip id="trip_257" depart="1502.703448275862" fromLonLat="-74.00441,40.71273" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="280"/>
+    </trip>
+    <trip id="trip_258" depart="1542.248275862069" fromLonLat="-74.00441,40.71273" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="270"/>
+    </trip>
+    <trip id="trip_259" depart="1581.7931034482758" fromLonLat="-74.00441,40.71273" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="270"/>
+    </trip>
+    <trip id="trip_260" depart="1621.3379310344828" fromLonLat="-74.00441,40.71273" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="180"/>
+    </trip>
+    <trip id="trip_261" depart="1660.8827586206896" fromLonLat="-74.00441,40.71273" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="150"/>
+    </trip>
+    <trip id="trip_262" depart="1700.4275862068966" fromLonLat="-74.00441,40.71273" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="30"/>
+    </trip>
+    <trip id="trip_263" depart="1739.9724137931034" fromLonLat="-74.00441,40.71273" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="30"/>
+    </trip>
+    <trip id="trip_264" depart="1779.5172413793102" fromLonLat="-74.00441,40.71273" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="30"/>
+    </trip>
+    <trip id="trip_265" depart="1819.0620689655173" fromLonLat="-74.00441,40.71273" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="20"/>
+    </trip>
+    <trip id="trip_266" depart="1858.606896551724" fromLonLat="-74.03482,40.72941" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="200"/>
+    </trip>
+    <trip id="trip_267" depart="1898.151724137931" fromLonLat="-74.03482,40.72941" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="195"/>
+    </trip>
+    <trip id="trip_268" depart="1937.6965517241379" fromLonLat="-74.03482,40.72941" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="170"/>
+    </trip>
+    <trip id="trip_269" depart="1977.2413793103449" fromLonLat="-74.03482,40.72941" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="165"/>
+    </trip>
+    <trip id="trip_270" depart="2016.7862068965517" fromLonLat="-74.03482,40.72941" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="140"/>
+    </trip>
+    <trip id="trip_271" depart="2056.3310344827587" fromLonLat="-74.03482,40.72941" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="140"/>
+    </trip>
+    <trip id="trip_272" depart="2095.8758620689655" fromLonLat="-74.03482,40.72941" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="135"/>
+    </trip>
+    <trip id="trip_273" depart="2135.4206896551723" fromLonLat="-74.03482,40.72941" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="135"/>
+    </trip>
+    <trip id="trip_274" depart="2174.9655172413795" fromLonLat="-74.03482,40.72941" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="90"/>
+    </trip>
+    <trip id="trip_275" depart="2214.5103448275863" fromLonLat="-74.03482,40.72941" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="75"/>
+    </trip>
+    <trip id="trip_276" depart="2254.055172413793" fromLonLat="-74.03482,40.72941" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="15"/>
+    </trip>
+    <trip id="trip_277" depart="2293.6" fromLonLat="-74.03482,40.72941" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="15"/>
+    </trip>
+    <trip id="trip_278" depart="2333.1448275862067" fromLonLat="-74.03482,40.72941" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="15"/>
+    </trip>
+    <trip id="trip_279" depart="2372.689655172414" fromLonLat="-74.03482,40.72941" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="10"/>
+    </trip>
+    <trip id="trip_280" depart="2412.2344827586207" fromLonLat="-73.99177,40.70958" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="200"/>
+    </trip>
+    <trip id="trip_281" depart="2451.7793103448275" fromLonLat="-73.99177,40.70958" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="195"/>
+    </trip>
+    <trip id="trip_282" depart="2491.3241379310343" fromLonLat="-73.99177,40.70958" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="170"/>
+    </trip>
+    <trip id="trip_283" depart="2530.8689655172416" fromLonLat="-73.99177,40.70958" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="165"/>
+    </trip>
+    <trip id="trip_284" depart="2570.4137931034484" fromLonLat="-73.99177,40.70958" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="140"/>
+    </trip>
+    <trip id="trip_285" depart="2609.958620689655" fromLonLat="-73.99177,40.70958" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="140"/>
+    </trip>
+    <trip id="trip_286" depart="2649.503448275862" fromLonLat="-73.99177,40.70958" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="135"/>
+    </trip>
+    <trip id="trip_287" depart="2689.0482758620687" fromLonLat="-73.99177,40.70958" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="135"/>
+    </trip>
+    <trip id="trip_288" depart="2728.593103448276" fromLonLat="-73.99177,40.70958" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="90"/>
+    </trip>
+    <trip id="trip_289" depart="2768.137931034483" fromLonLat="-73.99177,40.70958" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="75"/>
+    </trip>
+    <trip id="trip_290" depart="2807.6827586206896" fromLonLat="-73.99177,40.70958" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="15"/>
+    </trip>
+    <trip id="trip_291" depart="2847.2275862068964" fromLonLat="-73.99177,40.70958" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="15"/>
+    </trip>
+    <trip id="trip_292" depart="2886.7724137931036" fromLonLat="-73.99177,40.70958" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="15"/>
+    </trip>
+    <trip id="trip_293" depart="2926.3172413793104" fromLonLat="-73.99177,40.70958" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="10"/>
+    </trip>
+    <trip id="trip_294" depart="2965.862068965517" fromLonLat="-73.99548,40.75963" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="200"/>
+    </trip>
+    <trip id="trip_295" depart="3005.406896551724" fromLonLat="-73.99548,40.75963" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="195"/>
+    </trip>
+    <trip id="trip_296" depart="3044.9517241379313" fromLonLat="-73.99548,40.75963" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="170"/>
+    </trip>
+    <trip id="trip_297" depart="3084.496551724138" fromLonLat="-73.99548,40.75963" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="165"/>
+    </trip>
+    <trip id="trip_298" depart="3124.041379310345" fromLonLat="-73.99548,40.75963" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="140"/>
+    </trip>
+    <trip id="trip_299" depart="3163.5862068965516" fromLonLat="-73.99548,40.75963" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="140"/>
+    </trip>
+    <trip id="trip_300" depart="3203.1310344827584" fromLonLat="-73.99548,40.75963" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="135"/>
+    </trip>
+    <trip id="trip_301" depart="3242.6758620689657" fromLonLat="-73.99548,40.75963" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="135"/>
+    </trip>
+    <trip id="trip_302" depart="3282.2206896551725" fromLonLat="-73.99548,40.75963" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="90"/>
+    </trip>
+    <trip id="trip_303" depart="3321.7655172413793" fromLonLat="-73.99548,40.75963" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="75"/>
+    </trip>
+    <trip id="trip_304" depart="3361.310344827586" fromLonLat="-73.99548,40.75963" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="15"/>
+    </trip>
+    <trip id="trip_305" depart="3400.8551724137933" fromLonLat="-73.99548,40.75963" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="15"/>
+    </trip>
+    <trip id="trip_306" depart="3440.4" fromLonLat="-73.99548,40.75963" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="15"/>
+    </trip>
+    <trip id="trip_307" depart="3479.944827586207" fromLonLat="-73.99548,40.75963" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="10"/>
+    </trip>
+    <trip id="trip_308" depart="3519.4896551724137" fromLonLat="-74.03488,40.7588" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="120"/>
+    </trip>
+    <trip id="trip_309" depart="3559.0344827586205" fromLonLat="-74.03488,40.7588" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="117"/>
+    </trip>
+    <trip id="trip_310" depart="3598.5793103448277" fromLonLat="-74.03488,40.7588" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="102"/>
+    </trip>
+    <trip id="trip_311" depart="3638.1241379310345" fromLonLat="-74.03488,40.7588" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="99"/>
+    </trip>
+    <trip id="trip_312" depart="3677.6689655172413" fromLonLat="-74.03488,40.7588" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="84"/>
+    </trip>
+    <trip id="trip_313" depart="3717.213793103448" fromLonLat="-74.03488,40.7588" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="84"/>
+    </trip>
+    <trip id="trip_314" depart="3756.7586206896553" fromLonLat="-74.03488,40.7588" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="81"/>
+    </trip>
+    <trip id="trip_315" depart="3796.303448275862" fromLonLat="-74.03488,40.7588" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="81"/>
+    </trip>
+    <trip id="trip_316" depart="3835.848275862069" fromLonLat="-74.03488,40.7588" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="54"/>
+    </trip>
+    <trip id="trip_317" depart="3875.3931034482757" fromLonLat="-74.03488,40.7588" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="45"/>
+    </trip>
+    <trip id="trip_318" depart="3914.937931034483" fromLonLat="-74.03488,40.7588" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="9"/>
+    </trip>
+    <trip id="trip_319" depart="3954.4827586206898" fromLonLat="-74.03488,40.7588" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="9"/>
+    </trip>
+    <trip id="trip_320" depart="3994.0275862068966" fromLonLat="-74.03488,40.7588" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="9"/>
+    </trip>
+    <trip id="trip_321" depart="4033.5724137931034" fromLonLat="-74.03488,40.7588" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="6"/>
+    </trip>
+    <trip id="trip_322" depart="4073.11724137931" fromLonLat="-73.97702,40.75879" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="120"/>
+    </trip>
+    <trip id="trip_323" depart="4112.662068965517" fromLonLat="-73.97702,40.75879" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="117"/>
+    </trip>
+    <trip id="trip_324" depart="4152.206896551724" fromLonLat="-73.97702,40.75879" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="102"/>
+    </trip>
+    <trip id="trip_325" depart="4191.751724137931" fromLonLat="-73.97702,40.75879" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="99"/>
+    </trip>
+    <trip id="trip_326" depart="4231.296551724138" fromLonLat="-73.97702,40.75879" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="84"/>
+    </trip>
+    <trip id="trip_327" depart="4270.841379310345" fromLonLat="-73.97702,40.75879" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="84"/>
+    </trip>
+    <trip id="trip_328" depart="4310.386206896552" fromLonLat="-73.97702,40.75879" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="81"/>
+    </trip>
+    <trip id="trip_329" depart="4349.931034482759" fromLonLat="-73.97702,40.75879" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="81"/>
+    </trip>
+    <trip id="trip_330" depart="4389.475862068965" fromLonLat="-73.97702,40.75879" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="54"/>
+    </trip>
+    <trip id="trip_331" depart="4429.020689655173" fromLonLat="-73.97702,40.75879" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="45"/>
+    </trip>
+    <trip id="trip_332" depart="4468.565517241379" fromLonLat="-73.97702,40.75879" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="9"/>
+    </trip>
+    <trip id="trip_333" depart="4508.110344827586" fromLonLat="-73.97702,40.75879" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="9"/>
+    </trip>
+    <trip id="trip_334" depart="4547.6551724137935" fromLonLat="-73.97702,40.75879" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="9"/>
+    </trip>
+    <trip id="trip_335" depart="4587.2" fromLonLat="-73.97702,40.75879" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="6"/>
+    </trip>
+    <trip id="trip_336" depart="4626.744827586207" fromLonLat="-74.03306,40.74283" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="80"/>
+    </trip>
+    <trip id="trip_337" depart="4666.289655172413" fromLonLat="-74.03306,40.74283" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="78"/>
+    </trip>
+    <trip id="trip_338" depart="4705.834482758621" fromLonLat="-74.03306,40.74283" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="68"/>
+    </trip>
+    <trip id="trip_339" depart="4745.379310344828" fromLonLat="-74.03306,40.74283" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="66"/>
+    </trip>
+    <trip id="trip_340" depart="4784.924137931034" fromLonLat="-74.03306,40.74283" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="56"/>
+    </trip>
+    <trip id="trip_341" depart="4824.4689655172415" fromLonLat="-74.03306,40.74283" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="56"/>
+    </trip>
+    <trip id="trip_342" depart="4864.013793103448" fromLonLat="-74.03306,40.74283" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="54"/>
+    </trip>
+    <trip id="trip_343" depart="4903.558620689655" fromLonLat="-74.03306,40.74283" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="54"/>
+    </trip>
+    <trip id="trip_344" depart="4943.103448275862" fromLonLat="-74.03306,40.74283" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="36"/>
+    </trip>
+    <trip id="trip_345" depart="4982.648275862069" fromLonLat="-74.03306,40.74283" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="30"/>
+    </trip>
+    <trip id="trip_346" depart="5022.193103448276" fromLonLat="-74.03306,40.74283" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="6"/>
+    </trip>
+    <trip id="trip_347" depart="5061.737931034483" fromLonLat="-74.03306,40.74283" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="6"/>
+    </trip>
+    <trip id="trip_348" depart="5101.2827586206895" fromLonLat="-74.03306,40.74283" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="6"/>
+    </trip>
+    <trip id="trip_349" depart="5140.827586206897" fromLonLat="-74.03306,40.74283" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="4"/>
+    </trip>
+    <trip id="trip_350" depart="5180.372413793103" fromLonLat="-73.98447,40.76078" toLonLat="-73.95604,40.74158" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="80"/>
+    </trip>
+    <trip id="trip_351" depart="5219.91724137931" fromLonLat="-73.98447,40.76078" toLonLat="-73.99219,40.7109" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="78"/>
+    </trip>
+    <trip id="trip_352" depart="5259.462068965518" fromLonLat="-73.98447,40.76078" toLonLat="-73.97093,40.74725" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="68"/>
+    </trip>
+    <trip id="trip_353" depart="5299.006896551724" fromLonLat="-73.98447,40.76078" toLonLat="-73.94913,40.75449" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="66"/>
+    </trip>
+    <trip id="trip_354" depart="5338.551724137931" fromLonLat="-73.98447,40.76078" toLonLat="-74.00702,40.72951" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="56"/>
+    </trip>
+    <trip id="trip_355" depart="5378.0965517241375" fromLonLat="-73.98447,40.76078" toLonLat="-74.00955,40.73534" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="56"/>
+    </trip>
+    <trip id="trip_356" depart="5417.641379310345" fromLonLat="-73.98447,40.76078" toLonLat="-73.96447,40.759" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="54"/>
+    </trip>
+    <trip id="trip_357" depart="5457.186206896552" fromLonLat="-73.98447,40.76078" toLonLat="-74.00401,40.75995" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="54"/>
+    </trip>
+    <trip id="trip_358" depart="5496.731034482758" fromLonLat="-73.98447,40.76078" toLonLat="-74.03375,40.73738" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="36"/>
+    </trip>
+    <trip id="trip_359" depart="5536.275862068966" fromLonLat="-73.98447,40.76078" toLonLat="-74.01465,40.71108" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="30"/>
+    </trip>
+    <trip id="trip_360" depart="5575.820689655173" fromLonLat="-73.98447,40.76078" toLonLat="-73.97422,40.75974" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="6"/>
+    </trip>
+    <trip id="trip_361" depart="5615.365517241379" fromLonLat="-73.98447,40.76078" toLonLat="-73.99607,40.75883" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="6"/>
+    </trip>
+    <trip id="trip_362" depart="5654.910344827586" fromLonLat="-73.98447,40.76078" toLonLat="-74.0072,40.71306" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="6"/>
+    </trip>
+    <trip id="trip_363" depart="5694.455172413793" fromLonLat="-73.98447,40.76078" toLonLat="-74.0281,40.75887" departPos="random" departSpeed="max" departLane="best">
+        <param key="weight" value="4"/>
+    </trip>
+</routes>

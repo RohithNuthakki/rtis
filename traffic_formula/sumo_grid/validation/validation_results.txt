@@ -1,0 +1,21 @@
+TRAFFIC SIGNAL FORMULA VALIDATION RESULTS WITH MAX PRESSURE COMPARISON
+======================================================================
+
+Total data points analyzed: 119000
+Formula agreement between Discovered and Max Pressure: 100.00%
+
+DISCOVERED FORMULA RESULTS:
+Phase agreement with chosen phases: 100.00%
+Average speed improvement:
+  When following recommendations (n=119000): -0.0149 ± 2.2716
+Correlation with actual improvements: 0.3146
+R-squared of predictions: 0.0956
+
+MAX PRESSURE FORMULA RESULTS:
+Phase agreement with chosen phases: 100.00%
+Average speed improvement:
+  When following recommendations (n=119000): -0.0149 ± 2.2716
+Correlation with actual improvements: -0.0031
+
+FORMULA AGREEMENT ANALYSIS:
+Both Correct (n=119000.0): -0.0149

@@ -1,0 +1,793 @@
+{
+  "entry_points": [
+    {
+      "location": [
+        40.74377,
+        -73.9625
+      ],
+      "weight": 45,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunl East End",
+      "direction": "SE-NW",
+      "congestion_score": 229.0,
+      "jam_factor": 9.2
+    },
+    {
+      "location": [
+        40.71254,
+        -73.95438
+      ],
+      "weight": 41,
+      "source": "boundary_inflow",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.74147,
+        -73.95531
+      ],
+      "weight": 40,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "direction": "E-W",
+      "congestion_score": 202.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.74725,
+        -73.97093
+      ],
+      "weight": 34,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "direction": "NE-SW",
+      "congestion_score": 173.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.75964,
+        -74.00187
+      ],
+      "weight": 33,
+      "source": "congestion_entry",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "W-E",
+      "congestion_score": 166.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.73607,
+        -73.97659
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "FDR Dr/Avenue C/Marginal St",
+      "direction": "E-W",
+      "congestion_score": 127.0,
+      "jam_factor": 8.6
+    },
+    {
+      "location": [
+        40.75622,
+        -73.9853
+      ],
+      "weight": 23,
+      "source": "congestion_entry",
+      "road_name": "Broadway/7th Ave/Times Sq",
+      "direction": "W-E",
+      "congestion_score": 119.0,
+      "jam_factor": 8.1
+    },
+    {
+      "location": [
+        40.71108,
+        -74.01465
+      ],
+      "weight": 22,
+      "source": "congestion_entry",
+      "road_name": "Brooklyn Battery Tunl",
+      "direction": "S-N",
+      "congestion_score": 111.0,
+      "jam_factor": 7.1
+    },
+    {
+      "location": [
+        40.71793,
+        -73.98566
+      ],
+      "weight": 21,
+      "source": "congestion_entry",
+      "road_name": "Delancey St",
+      "direction": "NE-SW",
+      "congestion_score": 108.0,
+      "jam_factor": 8.2
+    },
+    {
+      "location": [
+        40.74164,
+        -73.99743
+      ],
+      "weight": 18,
+      "source": "congestion_entry",
+      "road_name": "7th Ave",
+      "direction": "W-E",
+      "congestion_score": 93.0,
+      "jam_factor": 5.3
+    },
+    {
+      "location": [
+        40.75759,
+        -74.02851
+      ],
+      "weight": 17,
+      "source": "congestion_entry",
+      "road_name": "CR-670/14th St",
+      "direction": "S-N",
+      "congestion_score": 87.0,
+      "jam_factor": 5.4
+    },
+    {
+      "location": [
+        40.75219,
+        -73.99346
+      ],
+      "weight": 16,
+      "source": "congestion_entry",
+      "road_name": "8th Ave",
+      "direction": "E-W",
+      "congestion_score": 82.0,
+      "jam_factor": 5.1
+    },
+    {
+      "location": [
+        40.72621,
+        -74.01239
+      ],
+      "weight": 16,
+      "source": "congestion_entry",
+      "road_name": "Hudson St/Exit 1/Exit 2",
+      "direction": "E-W",
+      "congestion_score": 81.0,
+      "jam_factor": 3.3
+    },
+    {
+      "location": [
+        40.72737,
+        -74.02094
+      ],
+      "weight": 16,
+      "source": "congestion_entry",
+      "road_name": "New York/New Jersey State Line",
+      "direction": "E-W",
+      "congestion_score": 80.0,
+      "jam_factor": 5.4
+    },
+    {
+      "location": [
+        40.75951,
+        -73.95983
+      ],
+      "weight": 16,
+      "source": "congestion_entry",
+      "road_name": "FDR Dr N/York Ave",
+      "direction": "E-W",
+      "congestion_score": 80.0,
+      "jam_factor": 5.1
+    },
+    {
+      "location": [
+        40.74103,
+        -73.97863
+      ],
+      "weight": 16,
+      "source": "congestion_entry",
+      "road_name": "23rd St",
+      "direction": "SW-NE",
+      "congestion_score": 80.0,
+      "jam_factor": 5.1
+    },
+    {
+      "location": [
+        40.75613,
+        -73.96761
+      ],
+      "weight": 16,
+      "source": "congestion_entry",
+      "road_name": "42nd St",
+      "direction": "SW-NE",
+      "congestion_score": 80.0,
+      "jam_factor": 5.1
+    },
+    {
+      "location": [
+        40.713,
+        -73.98695
+      ],
+      "weight": 11,
+      "source": "boundary_inflow",
+      "road_name": "E Broadway",
+      "direction": "N-S",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.71273,
+        -74.00441
+      ],
+      "weight": 10,
+      "source": "boundary_inflow",
+      "road_name": "58th St",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.72941,
+        -74.03482
+      ],
+      "weight": 5,
+      "source": "boundary_inflow",
+      "road_name": "New Jersey/New York State Line",
+      "direction": "E-W",
+      "boundary_side": "west"
+    },
+    {
+      "location": [
+        40.70958,
+        -73.99177
+      ],
+      "weight": 5,
+      "source": "boundary_inflow",
+      "road_name": "Canal St",
+      "direction": "NW-SE",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.75963,
+        -73.99548
+      ],
+      "weight": 5,
+      "source": "boundary_inflow",
+      "road_name": "RT-9A/West Side Hwy",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.7588,
+        -74.03488
+      ],
+      "weight": 3,
+      "source": "boundary_inflow",
+      "road_name": "10th Ave",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.75879,
+        -73.97702
+      ],
+      "weight": 3,
+      "source": "boundary_inflow",
+      "road_name": "Church St",
+      "direction": "W-E",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.74283,
+        -74.03306
+      ],
+      "weight": 2,
+      "source": "boundary_inflow",
+      "road_name": "CR-681/Observer Hwy",
+      "direction": "S-N",
+      "boundary_side": "west"
+    },
+    {
+      "location": [
+        40.76078,
+        -73.98447
+      ],
+      "weight": 2,
+      "source": "boundary_inflow",
+      "road_name": "W 44th St/7th Ave/Times Sq",
+      "direction": "SW-NE",
+      "boundary_side": "north"
+    }
+  ],
+  "exit_points": [
+    {
+      "location": [
+        40.74158,
+        -73.95604
+      ],
+      "weight": 40,
+      "source": "congestion_exit",
+      "road_name": "Queens Midtown Tunnel (West)",
+      "direction": "W-E",
+      "congestion_score": 202.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.7109,
+        -73.99219
+      ],
+      "weight": 39,
+      "source": "boundary_outflow",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "E-W",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.74725,
+        -73.97093
+      ],
+      "weight": 34,
+      "source": "congestion_exit",
+      "road_name": "Queens Midtown Tunnel (West)",
+      "direction": "SW-NE",
+      "congestion_score": 173.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.75449,
+        -73.94913
+      ],
+      "weight": 33,
+      "source": "congestion_exit",
+      "road_name": "58th St",
+      "direction": "W-E",
+      "congestion_score": 167.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.72951,
+        -74.00702
+      ],
+      "weight": 28,
+      "source": "congestion_exit",
+      "road_name": "Hudson St",
+      "direction": "E-W",
+      "congestion_score": 144.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.73534,
+        -74.00955
+      ],
+      "weight": 28,
+      "source": "congestion_exit",
+      "road_name": "RT-9A/West St/West Side Hwy",
+      "direction": "W-E",
+      "congestion_score": 141.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.759,
+        -73.96447
+      ],
+      "weight": 27,
+      "source": "congestion_exit",
+      "road_name": "58th St",
+      "direction": "SW-NE",
+      "congestion_score": 138.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.75995,
+        -74.00401
+      ],
+      "weight": 27,
+      "source": "congestion_exit",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "E-W",
+      "congestion_score": 137.0,
+      "jam_factor": 7.3
+    },
+    {
+      "location": [
+        40.73738,
+        -74.03375
+      ],
+      "weight": 18,
+      "source": "boundary_outflow",
+      "road_name": "RT-495/Lincoln Tunnel Expy/Dyer Ave",
+      "direction": "E-W",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.71108,
+        -74.01465
+      ],
+      "weight": 15,
+      "source": "boundary_outflow",
+      "road_name": "Brooklyn Battery Tunl",
+      "direction": "S-N",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.75974,
+        -73.97422
+      ],
+      "weight": 3,
+      "source": "boundary_outflow",
+      "road_name": "E 57th St",
+      "direction": "NE-SW",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.75883,
+        -73.99607
+      ],
+      "weight": 3,
+      "source": "boundary_outflow",
+      "road_name": "W 41st St",
+      "direction": "NE-SW",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.71306,
+        -74.0072
+      ],
+      "weight": 3,
+      "source": "boundary_outflow",
+      "road_name": "Park Row/Vesey St/Ann St",
+      "direction": "SW-NE",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.75887,
+        -74.0281
+      ],
+      "weight": 2,
+      "source": "boundary_outflow",
+      "road_name": "RT-495/Park Ave",
+      "direction": "N-S",
+      "boundary_side": "north"
+    }
+  ],
+  "sumo_entry_nodes": [
+    {
+      "id": "entry_1",
+      "x": -73.9625,
+      "y": 40.74377,
+      "weight": 45,
+      "road_name": "Queens Midtown Tunl East End",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_2",
+      "x": -73.95438,
+      "y": 40.71254,
+      "weight": 41,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_3",
+      "x": -73.95531,
+      "y": 40.74147,
+      "weight": 40,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_4",
+      "x": -73.97093,
+      "y": 40.74725,
+      "weight": 34,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_5",
+      "x": -74.00187,
+      "y": 40.75964,
+      "weight": 33,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_6",
+      "x": -73.97659,
+      "y": 40.73607,
+      "weight": 25,
+      "road_name": "FDR Dr/Avenue C/Marginal St",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_7",
+      "x": -73.9853,
+      "y": 40.75622,
+      "weight": 23,
+      "road_name": "Broadway/7th Ave/Times Sq",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_8",
+      "x": -74.01465,
+      "y": 40.71108,
+      "weight": 22,
+      "road_name": "Brooklyn Battery Tunl",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_9",
+      "x": -73.98566,
+      "y": 40.71793,
+      "weight": 21,
+      "road_name": "Delancey St",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_10",
+      "x": -73.99743,
+      "y": 40.74164,
+      "weight": 18,
+      "road_name": "7th Ave",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_11",
+      "x": -74.02851,
+      "y": 40.75759,
+      "weight": 17,
+      "road_name": "CR-670/14th St",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_12",
+      "x": -73.99346,
+      "y": 40.75219,
+      "weight": 16,
+      "road_name": "8th Ave",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_13",
+      "x": -74.01239,
+      "y": 40.72621,
+      "weight": 16,
+      "road_name": "Hudson St/Exit 1/Exit 2",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_14",
+      "x": -74.02094,
+      "y": 40.72737,
+      "weight": 16,
+      "road_name": "New York/New Jersey State Line",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_15",
+      "x": -73.95983,
+      "y": 40.75951,
+      "weight": 16,
+      "road_name": "FDR Dr N/York Ave",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_16",
+      "x": -73.97863,
+      "y": 40.74103,
+      "weight": 16,
+      "road_name": "23rd St",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_17",
+      "x": -73.96761,
+      "y": 40.75613,
+      "weight": 16,
+      "road_name": "42nd St",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_18",
+      "x": -73.98695,
+      "y": 40.713,
+      "weight": 11,
+      "road_name": "E Broadway",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_19",
+      "x": -74.00441,
+      "y": 40.71273,
+      "weight": 10,
+      "road_name": "58th St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_20",
+      "x": -74.03482,
+      "y": 40.72941,
+      "weight": 5,
+      "road_name": "New Jersey/New York State Line",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_21",
+      "x": -73.99177,
+      "y": 40.70958,
+      "weight": 5,
+      "road_name": "Canal St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_22",
+      "x": -73.99548,
+      "y": 40.75963,
+      "weight": 5,
+      "road_name": "RT-9A/West Side Hwy",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_23",
+      "x": -74.03488,
+      "y": 40.7588,
+      "weight": 3,
+      "road_name": "10th Ave",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_24",
+      "x": -73.97702,
+      "y": 40.75879,
+      "weight": 3,
+      "road_name": "Church St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_25",
+      "x": -74.03306,
+      "y": 40.74283,
+      "weight": 2,
+      "road_name": "CR-681/Observer Hwy",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_26",
+      "x": -73.98447,
+      "y": 40.76078,
+      "weight": 2,
+      "road_name": "W 44th St/7th Ave/Times Sq",
+      "source_type": "boundary_inflow"
+    }
+  ],
+  "sumo_exit_nodes": [
+    {
+      "id": "exit_1",
+      "x": -73.95604,
+      "y": 40.74158,
+      "weight": 40,
+      "road_name": "Queens Midtown Tunnel (West)",
+      "source_type": "congestion_exit"
+    },
+    {
+      "id": "exit_2",
+      "x": -73.99219,
+      "y": 40.7109,
+      "weight": 39,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_3",
+      "x": -73.97093,
+      "y": 40.74725,
+      "weight": 34,
+      "road_name": "Queens Midtown Tunnel (West)",
+      "source_type": "congestion_exit"
+    },
+    {
+      "id": "exit_4",
+      "x": -73.94913,
+      "y": 40.75449,
+      "weight": 33,
+      "road_name": "58th St",
+      "source_type": "congestion_exit"
+    },
+    {
+      "id": "exit_5",
+      "x": -74.00702,
+      "y": 40.72951,
+      "weight": 28,
+      "road_name": "Hudson St",
+      "source_type": "congestion_exit"
+    },
+    {
+      "id": "exit_6",
+      "x": -74.00955,
+      "y": 40.73534,
+      "weight": 28,
+      "road_name": "RT-9A/West St/West Side Hwy",
+      "source_type": "congestion_exit"
+    },
+    {
+      "id": "exit_7",
+      "x": -73.96447,
+      "y": 40.759,
+      "weight": 27,
+      "road_name": "58th St",
+      "source_type": "congestion_exit"
+    },
+    {
+      "id": "exit_8",
+      "x": -74.00401,
+      "y": 40.75995,
+      "weight": 27,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "congestion_exit"
+    },
+    {
+      "id": "exit_9",
+      "x": -74.03375,
+      "y": 40.73738,
+      "weight": 18,
+      "road_name": "RT-495/Lincoln Tunnel Expy/Dyer Ave",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_10",
+      "x": -74.01465,
+      "y": 40.71108,
+      "weight": 15,
+      "road_name": "Brooklyn Battery Tunl",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_11",
+      "x": -73.97422,
+      "y": 40.75974,
+      "weight": 3,
+      "road_name": "E 57th St",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_12",
+      "x": -73.99607,
+      "y": 40.75883,
+      "weight": 3,
+      "road_name": "W 41st St",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_13",
+      "x": -74.0072,
+      "y": 40.71306,
+      "weight": 3,
+      "road_name": "Park Row/Vesey St/Ann St",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_14",
+      "x": -74.0281,
+      "y": 40.75887,
+      "weight": 2,
+      "road_name": "RT-495/Park Ave",
+      "source_type": "boundary_outflow"
+    }
+  ]
+}

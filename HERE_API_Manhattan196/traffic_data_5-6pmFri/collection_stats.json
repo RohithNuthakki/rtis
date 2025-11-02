@@ -1,0 +1,90 @@
+[
+  {
+    "timestamp": "2025-04-04T17:00:00.618611",
+    "collection_number": 1,
+    "total_collections": 11,
+    "minutes_from_start": 0,
+    "traffic_data_results": 993,
+    "incidents_count": 71
+  },
+  {
+    "timestamp": "2025-04-04T17:06:00.447329",
+    "collection_number": 2,
+    "total_collections": 11,
+    "minutes_from_start": 6,
+    "traffic_data_results": 996,
+    "incidents_count": 73
+  },
+  {
+    "timestamp": "2025-04-04T17:12:00.066598",
+    "collection_number": 3,
+    "total_collections": 11,
+    "minutes_from_start": 12,
+    "traffic_data_results": 994,
+    "incidents_count": 73
+  },
+  {
+    "timestamp": "2025-04-04T17:17:59.650426",
+    "collection_number": 4,
+    "total_collections": 11,
+    "minutes_from_start": 18,
+    "traffic_data_results": 994,
+    "incidents_count": 73
+  },
+  {
+    "timestamp": "2025-04-04T17:24:00.269359",
+    "collection_number": 5,
+    "total_collections": 11,
+    "minutes_from_start": 24,
+    "traffic_data_results": 999,
+    "incidents_count": 72
+  },
+  {
+    "timestamp": "2025-04-04T17:30:00.039675",
+    "collection_number": 6,
+    "total_collections": 11,
+    "minutes_from_start": 30,
+    "traffic_data_results": 997,
+    "incidents_count": 73
+  },
+  {
+    "timestamp": "2025-04-04T17:35:59.725004",
+    "collection_number": 7,
+    "total_collections": 11,
+    "minutes_from_start": 36,
+    "traffic_data_results": 995,
+    "incidents_count": 72
+  },
+  {
+    "timestamp": "2025-04-04T17:42:00.451995",
+    "collection_number": 8,
+    "total_collections": 11,
+    "minutes_from_start": 42,
+    "traffic_data_results": 997,
+    "incidents_count": 72
+  },
+  {
+    "timestamp": "2025-04-04T17:48:00.068474",
+    "collection_number": 9,
+    "total_collections": 11,
+    "minutes_from_start": 48,
+    "traffic_data_results": 996,
+    "incidents_count": 72
+  },
+  {
+    "timestamp": "2025-04-04T17:53:59.925924",
+    "collection_number": 10,
+    "total_collections": 11,
+    "minutes_from_start": 54,
+    "traffic_data_results": 995,
+    "incidents_count": 72
+  },
+  {
+    "timestamp": "2025-04-04T18:00:00.466802",
+    "collection_number": 11,
+    "total_collections": 11,
+    "minutes_from_start": 60,
+    "traffic_data_results": 995,
+    "incidents_count": 72
+  }
+]

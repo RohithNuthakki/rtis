@@ -1,0 +1,1941 @@
+{
+  "entry_points": [
+    {
+      "location": [
+        40.74604,
+        -73.96565
+      ],
+      "weight": 51,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "direction": "SE-NW",
+      "congestion_score": 258.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.76077,
+        -74.02662
+      ],
+      "weight": 41,
+      "source": "boundary_inflow",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.74147,
+        -73.95531
+      ],
+      "weight": 40,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "direction": "E-W",
+      "congestion_score": 202.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.74725,
+        -73.97093
+      ],
+      "weight": 34,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "direction": "NE-SW",
+      "congestion_score": 173.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.75964,
+        -74.00187
+      ],
+      "weight": 33,
+      "source": "congestion_entry",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "W-E",
+      "congestion_score": 166.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.74377,
+        -73.9625
+      ],
+      "weight": 33,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunl East End",
+      "direction": "SE-NW",
+      "congestion_score": 166.0,
+      "jam_factor": 7.2
+    },
+    {
+      "location": [
+        40.7586,
+        -73.99896
+      ],
+      "weight": 30,
+      "source": "congestion_entry",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "W-E",
+      "congestion_score": 153.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.76077,
+        -74.02662
+      ],
+      "weight": 28,
+      "source": "boundary_inflow",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.74248,
+        -73.96018
+      ],
+      "weight": 28,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "direction": "E-W",
+      "congestion_score": 144.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.75793,
+        -73.99735
+      ],
+      "weight": 27,
+      "source": "congestion_entry",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "W-E",
+      "congestion_score": 139.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.7415,
+        -73.95573
+      ],
+      "weight": 27,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunl East End",
+      "direction": "E-W",
+      "congestion_score": 139.0,
+      "jam_factor": 7.2
+    },
+    {
+      "location": [
+        40.76304,
+        -73.97811
+      ],
+      "weight": 27,
+      "source": "congestion_entry",
+      "road_name": "Unknown Road",
+      "direction": "W-E",
+      "congestion_score": 138.0,
+      "jam_factor": 8.1
+    },
+    {
+      "location": [
+        40.74561,
+        -73.97292
+      ],
+      "weight": 27,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (West)",
+      "direction": "E-W",
+      "congestion_score": 137.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.7459,
+        -73.97369
+      ],
+      "weight": 27,
+      "source": "congestion_entry",
+      "road_name": "QUEENS MIDTOWN TUNNEL APPR AND E 37TH ST WB",
+      "direction": "SE-NW",
+      "congestion_score": 136.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.75896,
+        -74.00021
+      ],
+      "weight": 27,
+      "source": "congestion_entry",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "W-E",
+      "congestion_score": 136.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.71426,
+        -73.97394
+      ],
+      "weight": 27,
+      "source": "congestion_entry",
+      "road_name": "Delancey St",
+      "direction": "W-E",
+      "congestion_score": 136.0,
+      "jam_factor": 8.1
+    },
+    {
+      "location": [
+        40.74793,
+        -73.969
+      ],
+      "weight": 26,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "direction": "E-W",
+      "congestion_score": 132.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.74664,
+        -73.97631
+      ],
+      "weight": 26,
+      "source": "congestion_entry",
+      "road_name": "I-495/Queens Midtown Tunnel/2nd Ave",
+      "direction": "E-W",
+      "congestion_score": 131.0,
+      "jam_factor": 9.4
+    },
+    {
+      "location": [
+        40.74777,
+        -73.9683
+      ],
+      "weight": 26,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "direction": "E-W",
+      "congestion_score": 131.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.76142,
+        -73.97824
+      ],
+      "weight": 26,
+      "source": "congestion_entry",
+      "road_name": "Unknown Road",
+      "direction": "W-E",
+      "congestion_score": 130.0,
+      "jam_factor": 8.1
+    },
+    {
+      "location": [
+        40.74795,
+        -73.9693
+      ],
+      "weight": 26,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "direction": "E-W",
+      "congestion_score": 130.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.75803,
+        -73.96623
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Unknown Road",
+      "direction": "W-E",
+      "congestion_score": 129.0,
+      "jam_factor": 8.1
+    },
+    {
+      "location": [
+        40.71143,
+        -73.96467
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Delancey St",
+      "direction": "W-E",
+      "congestion_score": 129.0,
+      "jam_factor": 8.1
+    },
+    {
+      "location": [
+        40.71562,
+        -73.9784
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Delancey St",
+      "direction": "W-E",
+      "congestion_score": 129.0,
+      "jam_factor": 8.1
+    },
+    {
+      "location": [
+        40.74767,
+        -73.96804
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "direction": "E-W",
+      "congestion_score": 129.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.74144,
+        -73.95423
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "direction": "E-W",
+      "congestion_score": 129.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.75769,
+        -73.96939
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Unknown Road",
+      "direction": "W-E",
+      "congestion_score": 128.0,
+      "jam_factor": 8.1
+    },
+    {
+      "location": [
+        40.7461,
+        -73.97492
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "I-495/Queens Midtown Tunnel/2nd Ave",
+      "direction": "E-W",
+      "congestion_score": 128.0,
+      "jam_factor": 9.4
+    },
+    {
+      "location": [
+        40.75894,
+        -73.96847
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Unknown Road",
+      "direction": "W-E",
+      "congestion_score": 128.0,
+      "jam_factor": 8.1
+    },
+    {
+      "location": [
+        40.74789,
+        -73.96986
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "direction": "E-W",
+      "congestion_score": 128.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.74576,
+        -73.97229
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (West)",
+      "direction": "E-W",
+      "congestion_score": 127.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.75766,
+        -73.99692
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "NW-SE",
+      "congestion_score": 127.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.75776,
+        -73.99706
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "NW-SE",
+      "congestion_score": 127.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.76021,
+        -74.0032
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "W-E",
+      "congestion_score": 127.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.76037,
+        -74.00359
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "W-E",
+      "congestion_score": 127.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.74792,
+        -73.96971
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "direction": "E-W",
+      "congestion_score": 127.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.74144,
+        -73.95403
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "direction": "E-W",
+      "congestion_score": 127.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.74581,
+        -73.97218
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Queens Midtown Tunnel (West)",
+      "direction": "E-W",
+      "congestion_score": 126.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.75756,
+        -73.99678
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "NW-SE",
+      "congestion_score": 126.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.76024,
+        -74.00329
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "W-E",
+      "congestion_score": 126.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.76031,
+        -74.00344
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "W-E",
+      "congestion_score": 126.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.7604,
+        -74.00366
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "W-E",
+      "congestion_score": 126.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.74645,
+        -73.97587
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "I-495/Queens Midtown Tunnel/2nd Ave",
+      "direction": "E-W",
+      "congestion_score": 125.0,
+      "jam_factor": 9.4
+    },
+    {
+      "location": [
+        40.74597,
+        -73.97469
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "I-495/Queens Midtown Tunnel/2nd Ave",
+      "direction": "SE-NW",
+      "congestion_score": 125.0,
+      "jam_factor": 9.4
+    },
+    {
+      "location": [
+        40.76026,
+        -74.00333
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "NW-SE",
+      "congestion_score": 125.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.71643,
+        -73.98111
+      ],
+      "weight": 25,
+      "source": "congestion_entry",
+      "road_name": "Delancey St",
+      "direction": "W-E",
+      "congestion_score": 125.0,
+      "jam_factor": 8.1
+    },
+    {
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "weight": 24,
+      "source": "boundary_inflow",
+      "road_name": "Unknown Road",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.76494,
+        -73.98655
+      ],
+      "weight": 24,
+      "source": "congestion_entry",
+      "road_name": "Unknown Road",
+      "direction": "W-E",
+      "congestion_score": 124.0,
+      "jam_factor": 8.1
+    },
+    {
+      "location": [
+        40.71328,
+        -73.97074
+      ],
+      "weight": 24,
+      "source": "congestion_entry",
+      "road_name": "Delancey St",
+      "direction": "W-E",
+      "congestion_score": 124.0,
+      "jam_factor": 8.1
+    },
+    {
+      "location": [
+        40.76072,
+        -74.00207
+      ],
+      "weight": 23,
+      "source": "boundary_inflow",
+      "road_name": "Delancey St",
+      "direction": "W-E",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.71255,
+        -73.97756
+      ],
+      "weight": 22,
+      "source": "boundary_inflow",
+      "road_name": "Grand St/Exit 4",
+      "direction": "NE-SW",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.71254,
+        -73.95438
+      ],
+      "weight": 22,
+      "source": "boundary_inflow",
+      "road_name": "Unknown Road",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.76072,
+        -74.00207
+      ],
+      "weight": 18,
+      "source": "boundary_inflow",
+      "road_name": "Delancey St",
+      "direction": "W-E",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.76072,
+        -74.00207
+      ],
+      "weight": 17,
+      "source": "boundary_inflow",
+      "road_name": "Delancey St",
+      "direction": "W-E",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.71254,
+        -73.95438
+      ],
+      "weight": 16,
+      "source": "boundary_inflow",
+      "road_name": "Unknown Road",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "weight": 15,
+      "source": "boundary_inflow",
+      "road_name": "Unknown Road",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "weight": 15,
+      "source": "boundary_inflow",
+      "road_name": "Unknown Road",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.71254,
+        -73.95438
+      ],
+      "weight": 15,
+      "source": "boundary_inflow",
+      "road_name": "Unknown Road",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.71254,
+        -73.95438
+      ],
+      "weight": 15,
+      "source": "boundary_inflow",
+      "road_name": "Unknown Road",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.71169,
+        -73.97824
+      ],
+      "weight": 14,
+      "source": "boundary_inflow",
+      "road_name": "Grand St/Exit 4",
+      "direction": "NE-SW",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.75966,
+        -73.96403
+      ],
+      "weight": 13,
+      "source": "boundary_inflow",
+      "road_name": "58th St",
+      "direction": "SW-NE",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.75796,
+        -73.95709
+      ],
+      "weight": 12,
+      "source": "boundary_inflow",
+      "road_name": "58th St",
+      "direction": "W-E",
+      "boundary_side": "east"
+    },
+    {
+      "location": [
+        40.713,
+        -73.98695
+      ],
+      "weight": 11,
+      "source": "boundary_inflow",
+      "road_name": "E Broadway",
+      "direction": "N-S",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "weight": 11,
+      "source": "boundary_inflow",
+      "road_name": "58th St",
+      "direction": "W-E",
+      "boundary_side": "east"
+    },
+    {
+      "location": [
+        40.76077,
+        -74.02662
+      ],
+      "weight": 11,
+      "source": "boundary_inflow",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.71154,
+        -73.98674
+      ],
+      "weight": 10,
+      "source": "boundary_inflow",
+      "road_name": "E Broadway",
+      "direction": "N-S",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.75827,
+        -73.95787
+      ],
+      "weight": 10,
+      "source": "boundary_inflow",
+      "road_name": "58th St",
+      "direction": "W-E",
+      "boundary_side": "east"
+    },
+    {
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "weight": 10,
+      "source": "boundary_inflow",
+      "road_name": "58th St",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "weight": 10,
+      "source": "boundary_inflow",
+      "road_name": "58th St",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "weight": 10,
+      "source": "boundary_inflow",
+      "road_name": "58th St",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "weight": 10,
+      "source": "boundary_inflow",
+      "road_name": "58th St",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.7603,
+        -73.96361
+      ],
+      "weight": 10,
+      "source": "boundary_inflow",
+      "road_name": "58th St",
+      "direction": "SW-NE",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.76072,
+        -74.00207
+      ],
+      "weight": 9,
+      "source": "boundary_inflow",
+      "road_name": "Delancey St",
+      "direction": "W-E",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "weight": 8,
+      "source": "boundary_inflow",
+      "road_name": "Unknown Road",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.76072,
+        -74.00207
+      ],
+      "weight": 8,
+      "source": "boundary_inflow",
+      "road_name": "Delancey St",
+      "direction": "W-E",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.71308,
+        -73.9937
+      ],
+      "weight": 7,
+      "source": "boundary_inflow",
+      "road_name": "5th Ave",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.71115,
+        -73.98671
+      ],
+      "weight": 7,
+      "source": "boundary_inflow",
+      "road_name": "E Broadway",
+      "direction": "N-S",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.71235,
+        -73.98685
+      ],
+      "weight": 7,
+      "source": "boundary_inflow",
+      "road_name": "E Broadway",
+      "direction": "N-S",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "weight": 7,
+      "source": "boundary_inflow",
+      "road_name": "58th St",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "weight": 7,
+      "source": "boundary_inflow",
+      "road_name": "58th St",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "weight": 7,
+      "source": "boundary_inflow",
+      "road_name": "Unknown Road",
+      "direction": "W-E",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.76096,
+        -73.96911
+      ],
+      "weight": 7,
+      "source": "boundary_inflow",
+      "road_name": "E 45th St",
+      "direction": "SW-NE",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.75908,
+        -73.97849
+      ],
+      "weight": 7,
+      "source": "boundary_inflow",
+      "road_name": "3rd Ave",
+      "direction": "W-E",
+      "boundary_side": "north"
+    }
+  ],
+  "exit_points": [
+    {
+      "location": [
+        40.74604,
+        -73.96565
+      ],
+      "weight": 51,
+      "source": "congestion_exit",
+      "road_name": "Queens Midtown Tunnel (West)",
+      "direction": "NW-SE",
+      "congestion_score": 258.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.74158,
+        -73.95604
+      ],
+      "weight": 40,
+      "source": "congestion_exit",
+      "road_name": "Queens Midtown Tunnel (West)",
+      "direction": "W-E",
+      "congestion_score": 202.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.74725,
+        -73.97093
+      ],
+      "weight": 34,
+      "source": "congestion_exit",
+      "road_name": "Queens Midtown Tunnel (West)",
+      "direction": "SW-NE",
+      "congestion_score": 173.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.75449,
+        -73.94913
+      ],
+      "weight": 33,
+      "source": "congestion_exit",
+      "road_name": "58th St",
+      "direction": "W-E",
+      "congestion_score": 167.0,
+      "jam_factor": 10.0
+    },
+    {
+      "location": [
+        40.75928,
+        -73.95926
+      ],
+      "weight": 16,
+      "source": "boundary_outflow",
+      "road_name": "Grand St/Exit 4",
+      "direction": "E-W",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.71247,
+        -73.97777
+      ],
+      "weight": 14,
+      "source": "boundary_outflow",
+      "road_name": "Grand St/Exit 4",
+      "direction": "SW-NE",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.75929,
+        -73.99862
+      ],
+      "weight": 10,
+      "source": "boundary_outflow",
+      "road_name": "Delancey St",
+      "direction": "E-W",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.75788,
+        -73.95929
+      ],
+      "weight": 6,
+      "source": "boundary_outflow",
+      "road_name": "2nd Ave",
+      "direction": "E-W",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "weight": 6,
+      "source": "boundary_outflow",
+      "road_name": "RT-495/Lincoln Tunnel Expy/Dyer Ave",
+      "direction": "E-W",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.70947,
+        -73.99201
+      ],
+      "weight": 6,
+      "source": "boundary_outflow",
+      "road_name": "Flatbush Ave Ext",
+      "direction": "SE-NW",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.75827,
+        -73.95787
+      ],
+      "weight": 6,
+      "source": "boundary_outflow",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "E-W",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.71306,
+        -73.99389
+      ],
+      "weight": 6,
+      "source": "boundary_outflow",
+      "road_name": "Broadway",
+      "direction": "E-W",
+      "boundary_side": "south"
+    },
+    {
+      "location": [
+        40.75976,
+        -73.96498
+      ],
+      "weight": 5,
+      "source": "boundary_outflow",
+      "road_name": "Dyer Av",
+      "direction": "E-W",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "weight": 4,
+      "source": "boundary_outflow",
+      "road_name": "RT-495/Lincoln Tunnel Expy/Dyer Ave",
+      "direction": "E-W",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.71163,
+        -73.96608
+      ],
+      "weight": 4,
+      "source": "boundary_outflow",
+      "road_name": "Lincoln Tunnel East",
+      "direction": "E-W",
+      "boundary_side": "north"
+    },
+    {
+      "location": [
+        40.7603,
+        -73.99498
+      ],
+      "weight": 4,
+      "source": "boundary_outflow",
+      "road_name": "W 56th St",
+      "direction": "NE-SW",
+      "boundary_side": "north"
+    }
+  ],
+  "sumo_entry_nodes": [
+    {
+      "id": "entry_1",
+      "x": -73.96565,
+      "y": 40.74604,
+      "weight": 51,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_2",
+      "x": -74.02662,
+      "y": 40.76077,
+      "weight": 41,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_3",
+      "x": -73.95531,
+      "y": 40.74147,
+      "weight": 40,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_4",
+      "x": -73.97093,
+      "y": 40.74725,
+      "weight": 34,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_5",
+      "x": -74.00187,
+      "y": 40.75964,
+      "weight": 33,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_6",
+      "x": -73.9625,
+      "y": 40.74377,
+      "weight": 33,
+      "road_name": "Queens Midtown Tunl East End",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_7",
+      "x": -73.99896,
+      "y": 40.7586,
+      "weight": 30,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_8",
+      "x": -74.02662,
+      "y": 40.76077,
+      "weight": 28,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_9",
+      "x": -73.96018,
+      "y": 40.74248,
+      "weight": 28,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_10",
+      "x": -73.99735,
+      "y": 40.75793,
+      "weight": 27,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_11",
+      "x": -73.95573,
+      "y": 40.7415,
+      "weight": 27,
+      "road_name": "Queens Midtown Tunl East End",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_12",
+      "x": -73.97811,
+      "y": 40.76304,
+      "weight": 27,
+      "road_name": "Unknown Road",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_13",
+      "x": -73.97292,
+      "y": 40.74561,
+      "weight": 27,
+      "road_name": "Queens Midtown Tunnel (West)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_14",
+      "x": -73.97369,
+      "y": 40.7459,
+      "weight": 27,
+      "road_name": "QUEENS MIDTOWN TUNNEL APPR AND E 37TH ST WB",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_15",
+      "x": -74.00021,
+      "y": 40.75896,
+      "weight": 27,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_16",
+      "x": -73.97394,
+      "y": 40.71426,
+      "weight": 27,
+      "road_name": "Delancey St",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_17",
+      "x": -73.969,
+      "y": 40.74793,
+      "weight": 26,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_18",
+      "x": -73.97631,
+      "y": 40.74664,
+      "weight": 26,
+      "road_name": "I-495/Queens Midtown Tunnel/2nd Ave",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_19",
+      "x": -73.9683,
+      "y": 40.74777,
+      "weight": 26,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_20",
+      "x": -73.97824,
+      "y": 40.76142,
+      "weight": 26,
+      "road_name": "Unknown Road",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_21",
+      "x": -73.9693,
+      "y": 40.74795,
+      "weight": 26,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_22",
+      "x": -73.96623,
+      "y": 40.75803,
+      "weight": 25,
+      "road_name": "Unknown Road",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_23",
+      "x": -73.96467,
+      "y": 40.71143,
+      "weight": 25,
+      "road_name": "Delancey St",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_24",
+      "x": -73.9784,
+      "y": 40.71562,
+      "weight": 25,
+      "road_name": "Delancey St",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_25",
+      "x": -73.96804,
+      "y": 40.74767,
+      "weight": 25,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_26",
+      "x": -73.95423,
+      "y": 40.74144,
+      "weight": 25,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_27",
+      "x": -73.96939,
+      "y": 40.75769,
+      "weight": 25,
+      "road_name": "Unknown Road",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_28",
+      "x": -73.97492,
+      "y": 40.7461,
+      "weight": 25,
+      "road_name": "I-495/Queens Midtown Tunnel/2nd Ave",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_29",
+      "x": -73.96847,
+      "y": 40.75894,
+      "weight": 25,
+      "road_name": "Unknown Road",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_30",
+      "x": -73.96986,
+      "y": 40.74789,
+      "weight": 25,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_31",
+      "x": -73.97229,
+      "y": 40.74576,
+      "weight": 25,
+      "road_name": "Queens Midtown Tunnel (West)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_32",
+      "x": -73.99692,
+      "y": 40.75766,
+      "weight": 25,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_33",
+      "x": -73.99706,
+      "y": 40.75776,
+      "weight": 25,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_34",
+      "x": -74.0032,
+      "y": 40.76021,
+      "weight": 25,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_35",
+      "x": -74.00359,
+      "y": 40.76037,
+      "weight": 25,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_36",
+      "x": -73.96971,
+      "y": 40.74792,
+      "weight": 25,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_37",
+      "x": -73.95403,
+      "y": 40.74144,
+      "weight": 25,
+      "road_name": "Queens Midtown Tunnel (East)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_38",
+      "x": -73.97218,
+      "y": 40.74581,
+      "weight": 25,
+      "road_name": "Queens Midtown Tunnel (West)",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_39",
+      "x": -73.99678,
+      "y": 40.75756,
+      "weight": 25,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_40",
+      "x": -74.00329,
+      "y": 40.76024,
+      "weight": 25,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_41",
+      "x": -74.00344,
+      "y": 40.76031,
+      "weight": 25,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_42",
+      "x": -74.00366,
+      "y": 40.7604,
+      "weight": 25,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_43",
+      "x": -73.97587,
+      "y": 40.74645,
+      "weight": 25,
+      "road_name": "I-495/Queens Midtown Tunnel/2nd Ave",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_44",
+      "x": -73.97469,
+      "y": 40.74597,
+      "weight": 25,
+      "road_name": "I-495/Queens Midtown Tunnel/2nd Ave",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_45",
+      "x": -74.00333,
+      "y": 40.76026,
+      "weight": 25,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_46",
+      "x": -73.98111,
+      "y": 40.71643,
+      "weight": 25,
+      "road_name": "Delancey St",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_47",
+      "x": -73.962,
+      "y": 40.75962,
+      "weight": 24,
+      "road_name": "Unknown Road",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_48",
+      "x": -73.98655,
+      "y": 40.76494,
+      "weight": 24,
+      "road_name": "Unknown Road",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_49",
+      "x": -73.97074,
+      "y": 40.71328,
+      "weight": 24,
+      "road_name": "Delancey St",
+      "source_type": "congestion_entry"
+    },
+    {
+      "id": "entry_50",
+      "x": -74.00207,
+      "y": 40.76072,
+      "weight": 23,
+      "road_name": "Delancey St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_51",
+      "x": -73.97756,
+      "y": 40.71255,
+      "weight": 22,
+      "road_name": "Grand St/Exit 4",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_52",
+      "x": -73.95438,
+      "y": 40.71254,
+      "weight": 22,
+      "road_name": "Unknown Road",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_53",
+      "x": -74.00207,
+      "y": 40.76072,
+      "weight": 18,
+      "road_name": "Delancey St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_54",
+      "x": -74.00207,
+      "y": 40.76072,
+      "weight": 17,
+      "road_name": "Delancey St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_55",
+      "x": -73.95438,
+      "y": 40.71254,
+      "weight": 16,
+      "road_name": "Unknown Road",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_56",
+      "x": -73.962,
+      "y": 40.75962,
+      "weight": 15,
+      "road_name": "Unknown Road",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_57",
+      "x": -73.962,
+      "y": 40.75962,
+      "weight": 15,
+      "road_name": "Unknown Road",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_58",
+      "x": -73.95438,
+      "y": 40.71254,
+      "weight": 15,
+      "road_name": "Unknown Road",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_59",
+      "x": -73.95438,
+      "y": 40.71254,
+      "weight": 15,
+      "road_name": "Unknown Road",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_60",
+      "x": -73.97824,
+      "y": 40.71169,
+      "weight": 14,
+      "road_name": "Grand St/Exit 4",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_61",
+      "x": -73.96403,
+      "y": 40.75966,
+      "weight": 13,
+      "road_name": "58th St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_62",
+      "x": -73.95709,
+      "y": 40.75796,
+      "weight": 12,
+      "road_name": "58th St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_63",
+      "x": -73.98695,
+      "y": 40.713,
+      "weight": 11,
+      "road_name": "E Broadway",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_64",
+      "x": -73.95876,
+      "y": 40.75865,
+      "weight": 11,
+      "road_name": "58th St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_65",
+      "x": -74.02662,
+      "y": 40.76077,
+      "weight": 11,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_66",
+      "x": -73.98674,
+      "y": 40.71154,
+      "weight": 10,
+      "road_name": "E Broadway",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_67",
+      "x": -73.95787,
+      "y": 40.75827,
+      "weight": 10,
+      "road_name": "58th St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_68",
+      "x": -73.95876,
+      "y": 40.75865,
+      "weight": 10,
+      "road_name": "58th St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_69",
+      "x": -73.95876,
+      "y": 40.75865,
+      "weight": 10,
+      "road_name": "58th St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_70",
+      "x": -73.95876,
+      "y": 40.75865,
+      "weight": 10,
+      "road_name": "58th St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_71",
+      "x": -73.95876,
+      "y": 40.75865,
+      "weight": 10,
+      "road_name": "58th St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_72",
+      "x": -73.96361,
+      "y": 40.7603,
+      "weight": 10,
+      "road_name": "58th St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_73",
+      "x": -74.00207,
+      "y": 40.76072,
+      "weight": 9,
+      "road_name": "Delancey St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_74",
+      "x": -73.962,
+      "y": 40.75962,
+      "weight": 8,
+      "road_name": "Unknown Road",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_75",
+      "x": -74.00207,
+      "y": 40.76072,
+      "weight": 8,
+      "road_name": "Delancey St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_76",
+      "x": -73.9937,
+      "y": 40.71308,
+      "weight": 7,
+      "road_name": "5th Ave",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_77",
+      "x": -73.98671,
+      "y": 40.71115,
+      "weight": 7,
+      "road_name": "E Broadway",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_78",
+      "x": -73.98685,
+      "y": 40.71235,
+      "weight": 7,
+      "road_name": "E Broadway",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_79",
+      "x": -73.95876,
+      "y": 40.75865,
+      "weight": 7,
+      "road_name": "58th St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_80",
+      "x": -73.95876,
+      "y": 40.75865,
+      "weight": 7,
+      "road_name": "58th St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_81",
+      "x": -73.962,
+      "y": 40.75962,
+      "weight": 7,
+      "road_name": "Unknown Road",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_82",
+      "x": -73.96911,
+      "y": 40.76096,
+      "weight": 7,
+      "road_name": "E 45th St",
+      "source_type": "boundary_inflow"
+    },
+    {
+      "id": "entry_83",
+      "x": -73.97849,
+      "y": 40.75908,
+      "weight": 7,
+      "road_name": "3rd Ave",
+      "source_type": "boundary_inflow"
+    }
+  ],
+  "sumo_exit_nodes": [
+    {
+      "id": "exit_1",
+      "x": -73.96565,
+      "y": 40.74604,
+      "weight": 51,
+      "road_name": "Queens Midtown Tunnel (West)",
+      "source_type": "congestion_exit"
+    },
+    {
+      "id": "exit_2",
+      "x": -73.95604,
+      "y": 40.74158,
+      "weight": 40,
+      "road_name": "Queens Midtown Tunnel (West)",
+      "source_type": "congestion_exit"
+    },
+    {
+      "id": "exit_3",
+      "x": -73.97093,
+      "y": 40.74725,
+      "weight": 34,
+      "road_name": "Queens Midtown Tunnel (West)",
+      "source_type": "congestion_exit"
+    },
+    {
+      "id": "exit_4",
+      "x": -73.94913,
+      "y": 40.75449,
+      "weight": 33,
+      "road_name": "58th St",
+      "source_type": "congestion_exit"
+    },
+    {
+      "id": "exit_5",
+      "x": -73.95926,
+      "y": 40.75928,
+      "weight": 16,
+      "road_name": "Grand St/Exit 4",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_6",
+      "x": -73.97777,
+      "y": 40.71247,
+      "weight": 14,
+      "road_name": "Grand St/Exit 4",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_7",
+      "x": -73.99862,
+      "y": 40.75929,
+      "weight": 10,
+      "road_name": "Delancey St",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_8",
+      "x": -73.95929,
+      "y": 40.75788,
+      "weight": 6,
+      "road_name": "2nd Ave",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_9",
+      "x": -73.962,
+      "y": 40.75962,
+      "weight": 6,
+      "road_name": "RT-495/Lincoln Tunnel Expy/Dyer Ave",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_10",
+      "x": -73.99201,
+      "y": 40.70947,
+      "weight": 6,
+      "road_name": "Flatbush Ave Ext",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_11",
+      "x": -73.95787,
+      "y": 40.75827,
+      "weight": 6,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_12",
+      "x": -73.99389,
+      "y": 40.71306,
+      "weight": 6,
+      "road_name": "Broadway",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_13",
+      "x": -73.96498,
+      "y": 40.75976,
+      "weight": 5,
+      "road_name": "Dyer Av",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_14",
+      "x": -73.962,
+      "y": 40.75962,
+      "weight": 4,
+      "road_name": "RT-495/Lincoln Tunnel Expy/Dyer Ave",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_15",
+      "x": -73.96608,
+      "y": 40.71163,
+      "weight": 4,
+      "road_name": "Lincoln Tunnel East",
+      "source_type": "boundary_outflow"
+    },
+    {
+      "id": "exit_16",
+      "x": -73.99498,
+      "y": 40.7603,
+      "weight": 4,
+      "road_name": "W 56th St",
+      "source_type": "boundary_outflow"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "location": {
+    "description": "Park Ave",
+    "length": 20.0,
+    "shape": {
+      "links": [
+        {
+          "points": [
+            {
+              "lat": 40.74841,
+              "lng": -73.9805
+            },
+            {
+              "lat": 40.74837,
+              "lng": -73.9804
+            }
+          ],
+          "length": 10.0
+        },
+        {
+          "points": [
+            {
+              "lat": 40.74837,
+              "lng": -73.9804
+            },
+            {
+              "lat": 40.74833,
+              "lng": -73.9803
+            }
+          ],
+          "length": 10.0
+        }
+      ]
+    }
+  },
+  "currentFlow": {
+    "speed": 2.777778,
+    "speedUncapped": 2.777778,
+    "freeFlow": 6.388889,
+    "jamFactor": 3.8,
+    "confidence": 0.99,
+    "traversability": "open"
+  }
+}

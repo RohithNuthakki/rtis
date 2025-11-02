@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewsettings>
+    <scheme name="real world"/>
+    <delay value="80"/>
+    <viewport zoom="1000" x="800" y="800"/>
+    <decal file=""/>
+    <breakpoints-file value=""/>
+    <snapshot file=""/>
+</viewsettings>

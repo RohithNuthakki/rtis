@@ -1,0 +1,4779 @@
+{
+  "sourceUpdated": "2025-04-04T14:02:54Z",
+  "results": [
+    {
+      "location": {
+        "length": 201.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73814,
+                  "lng": -74.00816
+                },
+                {
+                  "lat": 40.73815,
+                  "lng": -74.00971
+                }
+              ],
+              "length": 132.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.73815,
+                  "lng": -74.00971
+                },
+                {
+                  "lat": 40.73877,
+                  "lng": -74.00978
+                }
+              ],
+              "length": 69.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "2619746946340080600",
+        "hrn": "here:traffic:incident:2619746946340080600",
+        "originalId": "2619746946340080600",
+        "originalHrn": "here:traffic:incident:2619746946340080600",
+        "startTime": "2025-03-21T11:00:00Z",
+        "endTime": "2025-05-05T03:59:00Z",
+        "entryTime": "2025-04-04T11:02:10Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "construction",
+        "codes": [
+          735
+        ],
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 91.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73242,
+                  "lng": -74.0065
+                },
+                {
+                  "lat": 40.73238,
+                  "lng": -74.00611
+                }
+              ],
+              "length": 34.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.73238,
+                  "lng": -74.00611
+                },
+                {
+                  "lat": 40.73236,
+                  "lng": -74.00586
+                },
+                {
+                  "lat": 40.73237,
+                  "lng": -74.00572
+                }
+              ],
+              "length": 33.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.73237,
+                  "lng": -74.00572
+                },
+                {
+                  "lat": 40.73245,
+                  "lng": -74.00546
+                }
+              ],
+              "length": 24.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1739284935801966445",
+        "hrn": "here:traffic:incident:1739284935801966445",
+        "originalId": "1739284935801966445",
+        "originalHrn": "here:traffic:incident:1739284935801966445",
+        "startTime": "2025-02-06T13:00:00Z",
+        "endTime": "2025-08-01T19:30:00Z",
+        "entryTime": "2025-04-04T12:02:04Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 69.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71602,
+                  "lng": -73.99131
+                },
+                {
+                  "lat": 40.71596,
+                  "lng": -73.99113
+                }
+              ],
+              "length": 17.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71596,
+                  "lng": -73.99113
+                },
+                {
+                  "lat": 40.7158,
+                  "lng": -73.99059
+                }
+              ],
+              "length": 49.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.7158,
+                  "lng": -73.99059
+                },
+                {
+                  "lat": 40.71579,
+                  "lng": -73.99056
+                }
+              ],
+              "length": 3.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "3585397905132835320",
+        "hrn": "here:traffic:incident:3585397905132835320",
+        "originalId": "3585397905132835320",
+        "originalHrn": "here:traffic:incident:3585397905132835320",
+        "startTime": "2025-02-06T12:45:00Z",
+        "endTime": "2025-08-01T18:45:00Z",
+        "entryTime": "2025-04-04T11:46:07Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 66.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73755,
+                  "lng": -74.00981
+                },
+                {
+                  "lat": 40.73814,
+                  "lng": -74.00985
+                }
+              ],
+              "length": 66.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "3343275215791785737",
+        "hrn": "here:traffic:incident:3343275215791785737",
+        "originalId": "454456345336420455",
+        "originalHrn": "here:traffic:incident:454456345336420455",
+        "startTime": "2025-04-04T11:00:00Z",
+        "endTime": "2025-05-05T03:59:00Z",
+        "entryTime": "2025-04-04T13:26:47Z",
+        "roadClosed": false,
+        "criticality": "critical",
+        "type": "construction",
+        "codes": [
+          701
+        ],
+        "description": {
+          "value": "At 14th St - Road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Road construction",
+          "language": "en-US"
+        }
+      }
+    },
+    {
+      "location": {
+        "length": 84.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71695,
+                  "lng": -73.96079
+                },
+                {
+                  "lat": 40.71637,
+                  "lng": -73.96142
+                }
+              ],
+              "length": 84.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "2339163623911000764",
+        "hrn": "here:traffic:incident:2339163623911000764",
+        "originalId": "2339163623911000764",
+        "originalHrn": "here:traffic:incident:2339163623911000764",
+        "startTime": "2025-01-29T13:00:00Z",
+        "endTime": "2025-08-02T00:00:00Z",
+        "entryTime": "2025-04-04T12:02:04Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 87.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.74166,
+                  "lng": -74.0049
+                },
+                {
+                  "lat": 40.74161,
+                  "lng": -74.00494
+                }
+              ],
+              "length": 7.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.74161,
+                  "lng": -74.00494
+                },
+                {
+                  "lat": 40.7413,
+                  "lng": -74.00516
+                }
+              ],
+              "length": 39.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.7413,
+                  "lng": -74.00516
+                },
+                {
+                  "lat": 40.74098,
+                  "lng": -74.00541
+                }
+              ],
+              "length": 41.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "4551473081822217944",
+        "hrn": "here:traffic:incident:4551473081822217944",
+        "originalId": "442843156494722870",
+        "originalHrn": "here:traffic:incident:442843156494722870",
+        "startTime": "2025-03-05T15:41:15Z",
+        "endTime": "2025-04-05T13:00:00Z",
+        "entryTime": "2025-03-20T00:35:33Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [
+          401
+        ],
+        "description": {
+          "value": "At W 14th St - Closed",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 169.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.72363,
+                  "lng": -73.98146
+                },
+                {
+                  "lat": 40.72289,
+                  "lng": -73.97973
+                }
+              ],
+              "length": 169.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "153665669161915556",
+        "hrn": "here:traffic:incident:153665669161915556",
+        "originalId": "153665669161915556",
+        "originalHrn": "here:traffic:incident:153665669161915556",
+        "startTime": "2025-02-05T15:00:00Z",
+        "endTime": "2025-08-01T17:00:00Z",
+        "entryTime": "2025-04-04T14:01:07Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 74.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73588,
+                  "lng": -73.98739
+                },
+                {
+                  "lat": 40.73565,
+                  "lng": -73.98755
+                }
+              ],
+              "length": 29.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.73565,
+                  "lng": -73.98755
+                },
+                {
+                  "lat": 40.73557,
+                  "lng": -73.98761
+                }
+              ],
+              "length": 10.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.73557,
+                  "lng": -73.98761
+                },
+                {
+                  "lat": 40.73529,
+                  "lng": -73.98781
+                }
+              ],
+              "length": 35.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1455503700566428087",
+        "hrn": "here:traffic:incident:1455503700566428087",
+        "originalId": "1455503700566428087",
+        "originalHrn": "here:traffic:incident:1455503700566428087",
+        "startTime": "2025-02-06T12:00:00Z",
+        "endTime": "2025-08-01T20:30:00Z",
+        "entryTime": "2025-04-04T11:02:08Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 85.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73292,
+                  "lng": -74.00396
+                },
+                {
+                  "lat": 40.73321,
+                  "lng": -74.00304
+                }
+              ],
+              "length": 85.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "4613903843833412588",
+        "hrn": "here:traffic:incident:4613903843833412588",
+        "originalId": "4613903843833412588",
+        "originalHrn": "here:traffic:incident:4613903843833412588",
+        "startTime": "2025-02-07T14:00:00Z",
+        "endTime": "2025-08-03T04:00:00Z",
+        "entryTime": "2025-04-04T13:04:23Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [
+          401
+        ],
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025",
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 155.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73112,
+                  "lng": -73.95948
+                },
+                {
+                  "lat": 40.73096,
+                  "lng": -73.96129
+                }
+              ],
+              "length": 155.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "2155597486761723680",
+        "hrn": "here:traffic:incident:2155597486761723680",
+        "originalId": "2223373890098855501",
+        "originalHrn": "here:traffic:incident:2223373890098855501",
+        "startTime": "2025-03-05T12:00:00Z",
+        "endTime": "2025-05-31T03:59:00Z",
+        "entryTime": "2025-04-04T11:00:35Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "construction",
+        "codes": [
+          735
+        ],
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "comment": "Construction on JAVA ST both directions between WEST ST (New York) for large concrete pour, Tuesday February 18th, 2025 thru Friday May 30th, 2025, Monday thru Friday, 07:00 AM thru 06:00 PM All lanes closed",
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 173.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.75194,
+                  "lng": -73.97126
+                },
+                {
+                  "lat": 40.75269,
+                  "lng": -73.97304
+                }
+              ],
+              "length": 173.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1757278838241982911",
+        "hrn": "here:traffic:incident:1757278838241982911",
+        "originalId": "1757278838241982911",
+        "originalHrn": "here:traffic:incident:1757278838241982911",
+        "startTime": "2025-03-05T14:00:00Z",
+        "endTime": "2025-04-18T03:59:00Z",
+        "entryTime": "2025-04-04T13:04:23Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [
+          401,
+          807
+        ],
+        "description": {
+          "value": "Between 2nd Ave and 3rd Ave - Closed",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 169.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71769,
+                  "lng": -74.00236
+                },
+                {
+                  "lat": 40.71831,
+                  "lng": -74.00183
+                }
+              ],
+              "length": 82.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71831,
+                  "lng": -74.00183
+                },
+                {
+                  "lat": 40.71896,
+                  "lng": -74.00127
+                }
+              ],
+              "length": 87.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1384397278878403623",
+        "hrn": "here:traffic:incident:1384397278878403623",
+        "originalId": "1384397278878403623",
+        "originalHrn": "here:traffic:incident:1384397278878403623",
+        "startTime": "2025-03-29T12:00:00Z",
+        "endTime": "2025-04-07T03:59:00Z",
+        "entryTime": "2025-03-30T22:00:48Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          803
+        ],
+        "description": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Construction work",
+          "language": "en-US"
+        }
+      }
+    },
+    {
+      "location": {
+        "length": 155.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73096,
+                  "lng": -73.96129
+                },
+                {
+                  "lat": 40.73112,
+                  "lng": -73.95948
+                }
+              ],
+              "length": 155.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1557524568249940920",
+        "hrn": "here:traffic:incident:1557524568249940920",
+        "originalId": "1557524568249940920",
+        "originalHrn": "here:traffic:incident:1557524568249940920",
+        "startTime": "2025-03-03T12:00:00Z",
+        "endTime": "2025-05-30T22:00:00Z",
+        "entryTime": "2025-04-04T11:02:08Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [
+          401
+        ],
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 76.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.72978,
+                  "lng": -73.99531
+                },
+                {
+                  "lat": 40.73015,
+                  "lng": -73.99606
+                }
+              ],
+              "length": 76.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "2674678049555813489",
+        "hrn": "here:traffic:incident:2674678049555813489",
+        "originalId": "3659100708346364888",
+        "originalHrn": "here:traffic:incident:3659100708346364888",
+        "startTime": "2025-03-29T12:00:00Z",
+        "endTime": "2025-04-07T03:59:00Z",
+        "entryTime": "2025-03-29T11:00:19Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          803
+        ],
+        "description": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "comment": "Construction on WASHINGTON PL westbound between GREENE ST (New York) and WASHINGTON SQ E (New York) for use of knuckle boom to hoist pavers., Saturday March 29th, 2025 thru Saturday April 5th, 2025, 08:00 AM thru 06:00 PM All lanes closed, Sunday March 30th, 2025 thru Sunday April 6th, 2025, 09:00 AM thru 06:00 PM All lanes closed"
+      }
+    },
+    {
+      "location": {
+        "length": 112.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73023,
+                  "lng": -74.0069
+                },
+                {
+                  "lat": 40.73035,
+                  "lng": -74.0082
+                }
+              ],
+              "length": 112.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "3593337722926012956",
+        "hrn": "here:traffic:incident:3593337722926012956",
+        "originalId": "3593337722926012956",
+        "originalHrn": "here:traffic:incident:3593337722926012956",
+        "startTime": "2025-03-28T13:00:00Z",
+        "endTime": "2025-04-29T03:59:00Z",
+        "entryTime": "2025-04-04T13:04:23Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "construction",
+        "codes": [
+          735
+        ],
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 169.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.72289,
+                  "lng": -73.97973
+                },
+                {
+                  "lat": 40.72363,
+                  "lng": -73.98146
+                }
+              ],
+              "length": 169.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1920064948679707514",
+        "hrn": "here:traffic:incident:1920064948679707514",
+        "originalId": "1920064948679707514",
+        "originalHrn": "here:traffic:incident:1920064948679707514",
+        "startTime": "2025-02-05T15:00:00Z",
+        "endTime": "2025-08-01T17:00:00Z",
+        "entryTime": "2025-04-04T14:01:07Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 313.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.74224,
+                  "lng": -73.99329
+                },
+                {
+                  "lat": 40.74088,
+                  "lng": -73.99007
+                }
+              ],
+              "length": 313.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "816390067135381816",
+        "hrn": "here:traffic:incident:816390067135381816",
+        "originalId": "816390067135381816",
+        "originalHrn": "here:traffic:incident:816390067135381816",
+        "startTime": "2025-03-19T13:00:00Z",
+        "endTime": "2025-04-25T19:00:00Z",
+        "entryTime": "2025-04-04T13:04:23Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [
+          401
+        ],
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 14.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.7307,
+                  "lng": -73.99554
+                },
+                {
+                  "lat": 40.73063,
+                  "lng": -73.9954
+                }
+              ],
+              "length": 14.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "809527449778376504",
+        "hrn": "here:traffic:incident:809527449778376504",
+        "originalId": "3419183101249908015",
+        "originalHrn": "here:traffic:incident:3419183101249908015",
+        "startTime": "2025-03-29T12:00:00Z",
+        "endTime": "2025-04-07T03:59:00Z",
+        "entryTime": "2025-03-29T11:00:19Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          803
+        ],
+        "description": {
+          "value": "At University Pl/Washington Sq E - Construction work",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "comment": "Construction on WAVERLY PL eastbound between UNIVERSITY PL (New York) and GREENE ST (New York) for use of knuckle boom to hoist pavers., Saturday March 29th, 2025 thru Saturday April 5th, 2025, 08:00 AM thru 06:00 PM All lanes closed, Sunday March 30th, 2025 thru Sunday April 6th, 2025, 09:00 AM thru 06:00 PM All lanes closed"
+      }
+    },
+    {
+      "location": {
+        "length": 67.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71862,
+                  "lng": -74.00251
+                },
+                {
+                  "lat": 40.71831,
+                  "lng": -74.00183
+                }
+              ],
+              "length": 67.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "963913585891551333",
+        "hrn": "here:traffic:incident:963913585891551333",
+        "originalId": "2080722519056338081",
+        "originalHrn": "here:traffic:incident:2080722519056338081",
+        "startTime": "2025-03-29T12:00:00Z",
+        "endTime": "2025-04-07T03:59:00Z",
+        "entryTime": "2025-03-29T11:00:19Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          803
+        ],
+        "description": {
+          "value": "At Lafayette St - Construction work",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "comment": "Construction on WALKER ST eastbound between BROADWAY (New York) and CORTLANDT ALY (New York) for associated closure., Saturday March 29th, 2025 thru Saturday April 5th, 2025, 08:00 AM thru 06:00 PM All lanes closed, Sunday March 30th, 2025 thru Sunday April 6th, 2025, 09:00 AM thru 06:00 PM All lanes closed"
+      }
+    },
+    {
+      "location": {
+        "length": 133.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.72273,
+                  "lng": -74.00442
+                },
+                {
+                  "lat": 40.72241,
+                  "lng": -74.0047
+                }
+              ],
+              "length": 43.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.72241,
+                  "lng": -74.0047
+                },
+                {
+                  "lat": 40.7221,
+                  "lng": -74.00497
+                },
+                {
+                  "lat": 40.72206,
+                  "lng": -74.00503
+                },
+                {
+                  "lat": 40.72206,
+                  "lng": -74.0051
+                },
+                {
+                  "lat": 40.72209,
+                  "lng": -74.00517
+                },
+                {
+                  "lat": 40.72232,
+                  "lng": -74.00532
+                }
+              ],
+              "length": 90.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "346948192354420995",
+        "hrn": "here:traffic:incident:346948192354420995",
+        "originalId": "1362791855210334960",
+        "originalHrn": "here:traffic:incident:1362791855210334960",
+        "startTime": "2025-04-01T17:09:51Z",
+        "endTime": "2025-04-08T03:59:00Z",
+        "entryTime": "2025-04-04T04:00:36Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [
+          401,
+          809
+        ],
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 69.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.72488,
+                  "lng": -74.00262
+                },
+                {
+                  "lat": 40.72455,
+                  "lng": -74.00194
+                }
+              ],
+              "length": 69.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "4418234287676451079",
+        "hrn": "here:traffic:incident:4418234287676451079",
+        "originalId": "4418234287676451079",
+        "originalHrn": "here:traffic:incident:4418234287676451079",
+        "startTime": "2025-02-09T15:00:00Z",
+        "endTime": "2025-08-04T02:00:00Z",
+        "entryTime": "2025-04-04T14:01:07Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [
+          401
+        ],
+        "description": {
+          "value": "At W Broadway - Closed",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025",
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 82.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71863,
+                  "lng": -73.95901
+                },
+                {
+                  "lat": 40.71806,
+                  "lng": -73.95962
+                }
+              ],
+              "length": 82.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1229149512667488063",
+        "hrn": "here:traffic:incident:1229149512667488063",
+        "originalId": "1229149512667488063",
+        "originalHrn": "here:traffic:incident:1229149512667488063",
+        "startTime": "2025-01-29T13:00:00Z",
+        "endTime": "2025-08-02T00:00:00Z",
+        "entryTime": "2025-04-04T12:02:04Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 188.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.7183,
+                  "lng": -74.00539
+                },
+                {
+                  "lat": 40.71774,
+                  "lng": -74.00415
+                }
+              ],
+              "length": 123.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71774,
+                  "lng": -74.00415
+                },
+                {
+                  "lat": 40.71744,
+                  "lng": -74.0035
+                }
+              ],
+              "length": 65.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "2487155052911167114",
+        "hrn": "here:traffic:incident:2487155052911167114",
+        "originalId": "2487155052911167114",
+        "originalHrn": "here:traffic:incident:2487155052911167114",
+        "startTime": "2025-03-01T13:00:00Z",
+        "endTime": "2025-04-28T03:59:00Z",
+        "entryTime": "2025-03-30T22:00:56Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          803
+        ],
+        "description": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Construction work",
+          "language": "en-US"
+        }
+      }
+    },
+    {
+      "location": {
+        "length": 80.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.75581,
+                  "lng": -73.99998
+                },
+                {
+                  "lat": 40.75642,
+                  "lng": -73.99949
+                }
+              ],
+              "length": 80.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "3446997270494390380",
+        "hrn": "here:traffic:incident:3446997270494390380",
+        "originalId": "3446997270494390380",
+        "originalHrn": "here:traffic:incident:3446997270494390380",
+        "startTime": "2025-02-06T13:00:00Z",
+        "endTime": "2025-08-01T22:00:00Z",
+        "entryTime": "2025-04-04T12:02:04Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 1119.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71534,
+                  "lng": -73.97828
+                },
+                {
+                  "lat": 40.71531,
+                  "lng": -73.97809
+                },
+                {
+                  "lat": 40.71526,
+                  "lng": -73.9779
+                },
+                {
+                  "lat": 40.71486,
+                  "lng": -73.97661
+                }
+              ],
+              "length": 152.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71486,
+                  "lng": -73.97661
+                },
+                {
+                  "lat": 40.71476,
+                  "lng": -73.97627
+                }
+              ],
+              "length": 31.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71476,
+                  "lng": -73.97627
+                },
+                {
+                  "lat": 40.71443,
+                  "lng": -73.97518
+                }
+              ],
+              "length": 100.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71443,
+                  "lng": -73.97518
+                },
+                {
+                  "lat": 40.7131,
+                  "lng": -73.97081
+                }
+              ],
+              "length": 401.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.7131,
+                  "lng": -73.97081
+                },
+                {
+                  "lat": 40.71297,
+                  "lng": -73.97038
+                }
+              ],
+              "length": 39.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71297,
+                  "lng": -73.97038
+                },
+                {
+                  "lat": 40.71249,
+                  "lng": -73.96882
+                }
+              ],
+              "length": 143.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71249,
+                  "lng": -73.96882
+                },
+                {
+                  "lat": 40.71197,
+                  "lng": -73.96708
+                }
+              ],
+              "length": 159.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71197,
+                  "lng": -73.96708
+                },
+                {
+                  "lat": 40.71174,
+                  "lng": -73.96629
+                }
+              ],
+              "length": 72.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71174,
+                  "lng": -73.96629
+                },
+                {
+                  "lat": 40.7117,
+                  "lng": -73.96619
+                },
+                {
+                  "lat": 40.71163,
+                  "lng": -73.96608
+                }
+              ],
+              "length": 22.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "587549011991604263",
+        "hrn": "here:traffic:incident:587549011991604263",
+        "originalId": "587549011991604263",
+        "originalHrn": "here:traffic:incident:587549011991604263",
+        "startTime": "2025-03-31T14:00:00Z",
+        "endTime": "2025-04-04T19:00:00Z",
+        "entryTime": "2025-04-04T14:01:07Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          707,
+          508
+        ],
+        "description": {
+          "value": "At Delancey St - Bridge maintenance operations",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Bridge maintenance operations",
+          "language": "en-US"
+        }
+      }
+    },
+    {
+      "location": {
+        "length": 138.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73572,
+                  "lng": -74.00679
+                },
+                {
+                  "lat": 40.7355,
+                  "lng": -74.00838
+                }
+              ],
+              "length": 138.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "2197664398313275298",
+        "hrn": "here:traffic:incident:2197664398313275298",
+        "originalId": "2197664398313275298",
+        "originalHrn": "here:traffic:incident:2197664398313275298",
+        "startTime": "2025-04-04T11:00:00Z",
+        "endTime": "2025-04-30T22:00:00Z",
+        "entryTime": "2025-04-04T11:02:10Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "construction",
+        "codes": [
+          735
+        ],
+        "description": {
+          "value": "At RT-9A/West St/West Side Hwy - Closed due to road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 164.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73184,
+                  "lng": -73.95959
+                },
+                {
+                  "lat": 40.73167,
+                  "lng": -73.9615
+                }
+              ],
+              "length": 164.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "350760447088406516",
+        "hrn": "here:traffic:incident:350760447088406516",
+        "originalId": "350760447088406516",
+        "originalHrn": "here:traffic:incident:350760447088406516",
+        "startTime": "2025-03-03T12:00:00Z",
+        "endTime": "2025-05-30T22:00:00Z",
+        "entryTime": "2025-04-04T11:02:08Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [
+          401
+        ],
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 764.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.75528,
+                  "lng": -73.95097
+                },
+                {
+                  "lat": 40.75587,
+                  "lng": -73.95231
+                }
+              ],
+              "length": 132.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.75587,
+                  "lng": -73.95231
+                },
+                {
+                  "lat": 40.75632,
+                  "lng": -73.95335
+                }
+              ],
+              "length": 102.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.75632,
+                  "lng": -73.95335
+                },
+                {
+                  "lat": 40.75643,
+                  "lng": -73.95357
+                }
+              ],
+              "length": 22.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.75643,
+                  "lng": -73.95357
+                },
+                {
+                  "lat": 40.75678,
+                  "lng": -73.95437
+                }
+              ],
+              "length": 79.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.75678,
+                  "lng": -73.95437
+                },
+                {
+                  "lat": 40.75718,
+                  "lng": -73.9553
+                }
+              ],
+              "length": 91.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.75718,
+                  "lng": -73.9553
+                },
+                {
+                  "lat": 40.75732,
+                  "lng": -73.9556
+                }
+              ],
+              "length": 30.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.75732,
+                  "lng": -73.9556
+                },
+                {
+                  "lat": 40.75796,
+                  "lng": -73.95709
+                }
+              ],
+              "length": 146.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.75796,
+                  "lng": -73.95709
+                },
+                {
+                  "lat": 40.75827,
+                  "lng": -73.95787
+                }
+              ],
+              "length": 75.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.75827,
+                  "lng": -73.95787
+                },
+                {
+                  "lat": 40.75854,
+                  "lng": -73.9585
+                }
+              ],
+              "length": 62.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.75854,
+                  "lng": -73.9585
+                },
+                {
+                  "lat": 40.75863,
+                  "lng": -73.95872
+                }
+              ],
+              "length": 21.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.75863,
+                  "lng": -73.95872
+                },
+                {
+                  "lat": 40.75865,
+                  "lng": -73.95876
+                }
+              ],
+              "length": 4.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "2866117676917557387",
+        "hrn": "here:traffic:incident:2866117676917557387",
+        "originalId": "2866117676917557358",
+        "originalHrn": "here:traffic:incident:2866117676917557358",
+        "startTime": "2025-03-05T15:41:15Z",
+        "endTime": "2025-04-07T15:41:15Z",
+        "entryTime": "2025-03-20T00:35:32Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          803,
+          520
+        ],
+        "description": {
+          "value": "At 58th St - Construction work",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Construction work",
+          "language": "en-US"
+        }
+      }
+    },
+    {
+      "location": {
+        "length": 93.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73337,
+                  "lng": -74.00423
+                },
+                {
+                  "lat": 40.73323,
+                  "lng": -74.00531
+                }
+              ],
+              "length": 93.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "3865233500568803591",
+        "hrn": "here:traffic:incident:3865233500568803591",
+        "originalId": "2102867023675614159",
+        "originalHrn": "here:traffic:incident:2102867023675614159",
+        "startTime": "2025-03-29T12:00:00Z",
+        "endTime": "2025-04-21T03:59:00Z",
+        "entryTime": "2025-03-29T11:00:19Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          803
+        ],
+        "description": {
+          "value": "At Hudson St - Construction work",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "comment": "Construction on CHRISTOPHER ST westbound between BLEECKER ST (New York) and BEDFORD ST (New York) to excavate and install conduit for system reinforcement., Saturday March 29th, 2025 thru Saturday April 19th, 2025, 08:00 AM thru 06:00 PM All lanes closed, Sunday March 30th, 2025 thru Sunday April 20th, 2025, 09:00 AM thru 06:00 PM All lanes closed"
+      }
+    },
+    {
+      "location": {
+        "length": 1119.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71534,
+                  "lng": -73.97828
+                },
+                {
+                  "lat": 40.71528,
+                  "lng": -73.97813
+                }
+              ],
+              "length": 14.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71528,
+                  "lng": -73.97813
+                },
+                {
+                  "lat": 40.71515,
+                  "lng": -73.97776
+                }
+              ],
+              "length": 35.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71515,
+                  "lng": -73.97776
+                },
+                {
+                  "lat": 40.71474,
+                  "lng": -73.97644
+                }
+              ],
+              "length": 121.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71474,
+                  "lng": -73.97644
+                },
+                {
+                  "lat": 40.7147,
+                  "lng": -73.9763
+                }
+              ],
+              "length": 13.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.7147,
+                  "lng": -73.9763
+                },
+                {
+                  "lat": 40.71437,
+                  "lng": -73.97521
+                }
+              ],
+              "length": 100.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71437,
+                  "lng": -73.97521
+                },
+                {
+                  "lat": 40.71305,
+                  "lng": -73.97083
+                }
+              ],
+              "length": 401.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71305,
+                  "lng": -73.97083
+                },
+                {
+                  "lat": 40.71293,
+                  "lng": -73.97045
+                }
+              ],
+              "length": 35.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71293,
+                  "lng": -73.97045
+                },
+                {
+                  "lat": 40.71244,
+                  "lng": -73.96885
+                }
+              ],
+              "length": 147.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71244,
+                  "lng": -73.96885
+                },
+                {
+                  "lat": 40.71215,
+                  "lng": -73.96793
+                },
+                {
+                  "lat": 40.7119,
+                  "lng": -73.96708
+                }
+              ],
+              "length": 162.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.7119,
+                  "lng": -73.96708
+                },
+                {
+                  "lat": 40.71167,
+                  "lng": -73.96632
+                },
+                {
+                  "lat": 40.71163,
+                  "lng": -73.96608
+                }
+              ],
+              "length": 91.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "2526087786996197363",
+        "hrn": "here:traffic:incident:2526087786996197363",
+        "originalId": "2526087786996197363",
+        "originalHrn": "here:traffic:incident:2526087786996197363",
+        "startTime": "2025-03-31T09:00:00Z",
+        "endTime": "2025-04-07T09:00:00Z",
+        "entryTime": "2025-04-04T11:42:53Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          646,
+          707
+        ],
+        "description": {
+          "value": "One lane blocked",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "One lane blocked",
+          "language": "en-US"
+        }
+      }
+    },
+    {
+      "location": {
+        "length": 20.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.72046,
+                  "lng": -73.98961
+                },
+                {
+                  "lat": 40.7205,
+                  "lng": -73.98973
+                }
+              ],
+              "length": 11.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.7205,
+                  "lng": -73.98973
+                },
+                {
+                  "lat": 40.72053,
+                  "lng": -73.98983
+                }
+              ],
+              "length": 9.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "789858583194795131",
+        "hrn": "here:traffic:incident:789858583194795131",
+        "originalId": "789858583194795131",
+        "originalHrn": "here:traffic:incident:789858583194795131",
+        "startTime": "2025-02-09T21:45:00Z",
+        "endTime": "2025-08-04T03:00:00Z",
+        "entryTime": "2025-04-04T14:01:07Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [
+          401
+        ],
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025",
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 74.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73529,
+                  "lng": -73.98781
+                },
+                {
+                  "lat": 40.73557,
+                  "lng": -73.98761
+                }
+              ],
+              "length": 35.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.73557,
+                  "lng": -73.98761
+                },
+                {
+                  "lat": 40.73565,
+                  "lng": -73.98755
+                }
+              ],
+              "length": 10.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.73565,
+                  "lng": -73.98755
+                },
+                {
+                  "lat": 40.73588,
+                  "lng": -73.98739
+                }
+              ],
+              "length": 29.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "4146451493638087351",
+        "hrn": "here:traffic:incident:4146451493638087351",
+        "originalId": "4146451493638087351",
+        "originalHrn": "here:traffic:incident:4146451493638087351",
+        "startTime": "2025-02-06T12:00:00Z",
+        "endTime": "2025-08-01T20:30:00Z",
+        "entryTime": "2025-04-04T11:02:08Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 276.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.74521,
+                  "lng": -74.00227
+                },
+                {
+                  "lat": 40.7464,
+                  "lng": -74.00511
+                }
+              ],
+              "length": 276.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "3890603016709667898",
+        "hrn": "here:traffic:incident:3890603016709667898",
+        "originalId": "3890603016709667898",
+        "originalHrn": "here:traffic:incident:3890603016709667898",
+        "startTime": "2025-02-09T13:00:00Z",
+        "endTime": "2025-08-04T00:00:00Z",
+        "entryTime": "2025-04-04T12:02:04Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025\n"
+      }
+    },
+    {
+      "location": {
+        "length": 164.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73184,
+                  "lng": -73.95959
+                },
+                {
+                  "lat": 40.73167,
+                  "lng": -73.9615
+                }
+              ],
+              "length": 164.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "936465042260510184",
+        "hrn": "here:traffic:incident:936465042260510184",
+        "originalId": "546513251001564812",
+        "originalHrn": "here:traffic:incident:546513251001564812",
+        "startTime": "2025-03-05T12:00:00Z",
+        "endTime": "2025-05-31T03:59:00Z",
+        "entryTime": "2025-04-04T11:00:35Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "construction",
+        "codes": [
+          735
+        ],
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "comment": "Construction on INDIA ST both directions between WEST ST (New York) for large concrete pours, Tuesday February 18th, 2025 thru Friday May 30th, 2025, Monday thru Friday, 07:00 AM thru 06:00 PM All lanes closed",
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 155.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73112,
+                  "lng": -73.95948
+                },
+                {
+                  "lat": 40.73096,
+                  "lng": -73.96129
+                }
+              ],
+              "length": 155.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1667635579480918660",
+        "hrn": "here:traffic:incident:1667635579480918660",
+        "originalId": "1667635579480918660",
+        "originalHrn": "here:traffic:incident:1667635579480918660",
+        "startTime": "2025-03-03T12:00:00Z",
+        "endTime": "2025-05-30T22:00:00Z",
+        "entryTime": "2025-04-04T11:02:08Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [
+          401
+        ],
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 65.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71592,
+                  "lng": -73.9619
+                },
+                {
+                  "lat": 40.71637,
+                  "lng": -73.96142
+                }
+              ],
+              "length": 65.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "2653021047361286977",
+        "hrn": "here:traffic:incident:2653021047361286977",
+        "originalId": "2653021047361286977",
+        "originalHrn": "here:traffic:incident:2653021047361286977",
+        "startTime": "2025-01-29T13:00:00Z",
+        "endTime": "2025-08-02T00:00:00Z",
+        "entryTime": "2025-04-04T12:02:04Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 48.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.75878,
+                  "lng": -73.99857
+                },
+                {
+                  "lat": 40.75885,
+                  "lng": -73.99913
+                }
+              ],
+              "length": 48.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "579841835066151787",
+        "hrn": "here:traffic:incident:579841835066151787",
+        "originalId": "579841835066151758",
+        "originalHrn": "here:traffic:incident:579841835066151758",
+        "startTime": "2025-03-05T15:57:59Z",
+        "endTime": "2025-04-07T15:57:59Z",
+        "entryTime": "2025-03-20T00:35:33Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          701
+        ],
+        "description": {
+          "value": "Ramp to RT-495/Lincoln Tunnel Westbound - Road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Road construction",
+          "language": "en-US"
+        }
+      }
+    },
+    {
+      "location": {
+        "length": 47.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73397,
+                  "lng": -73.97778
+                },
+                {
+                  "lat": 40.73376,
+                  "lng": -73.9773
+                }
+              ],
+              "length": 47.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1991791694658254781",
+        "hrn": "here:traffic:incident:1991791694658254781",
+        "originalId": "782158257967070794",
+        "originalHrn": "here:traffic:incident:782158257967070794",
+        "startTime": "2025-04-04T11:00:00Z",
+        "endTime": "2025-05-01T03:59:00Z",
+        "entryTime": "2025-04-04T10:00:19Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          803
+        ],
+        "description": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "comment": "Construction on E 20TH ST eastbound between 20TH ST LOOP (New York) and AVENUE C (New York) for Sandrespc-East side coastal resiliency., Friday April 4th, 2025 thru Friday April 25th, 2025, 07:00 AM thru 04:00 PM All lanes closed, Saturday April 5th, 2025 thru Saturday April 26th, 2025, 08:00 AM thru 04:00 PM All lanes closed"
+      }
+    },
+    {
+      "location": {
+        "length": 155.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73096,
+                  "lng": -73.96129
+                },
+                {
+                  "lat": 40.73112,
+                  "lng": -73.95948
+                }
+              ],
+              "length": 155.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "76019108162199086",
+        "hrn": "here:traffic:incident:76019108162199086",
+        "originalId": "3101500213728311778",
+        "originalHrn": "here:traffic:incident:3101500213728311778",
+        "startTime": "2025-03-05T12:00:00Z",
+        "endTime": "2025-05-31T03:59:00Z",
+        "entryTime": "2025-04-04T11:00:35Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "construction",
+        "codes": [
+          735
+        ],
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "comment": "Construction on JAVA ST both directions between WEST ST (New York) for large concrete pour, Tuesday February 18th, 2025 thru Friday May 30th, 2025, Monday thru Friday, 07:00 AM thru 06:00 PM All lanes closed",
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 85.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73245,
+                  "lng": -74.00546
+                },
+                {
+                  "lat": 40.73273,
+                  "lng": -74.00562
+                }
+              ],
+              "length": 34.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.73273,
+                  "lng": -74.00562
+                },
+                {
+                  "lat": 40.73315,
+                  "lng": -74.00587
+                }
+              ],
+              "length": 51.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "467442356103441498",
+        "hrn": "here:traffic:incident:467442356103441498",
+        "originalId": "467442356103441498",
+        "originalHrn": "here:traffic:incident:467442356103441498",
+        "startTime": "2025-02-05T13:00:00Z",
+        "endTime": "2025-08-01T19:30:00Z",
+        "entryTime": "2025-04-04T12:02:04Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 503.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.711,
+                  "lng": -73.96536
+                },
+                {
+                  "lat": 40.71116,
+                  "lng": -73.96527
+                }
+              ],
+              "length": 19.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71116,
+                  "lng": -73.96527
+                },
+                {
+                  "lat": 40.71135,
+                  "lng": -73.96517
+                },
+                {
+                  "lat": 40.71164,
+                  "lng": -73.96499
+                }
+              ],
+              "length": 58.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71164,
+                  "lng": -73.96499
+                },
+                {
+                  "lat": 40.7117,
+                  "lng": -73.96496
+                }
+              ],
+              "length": 7.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.7117,
+                  "lng": -73.96496
+                },
+                {
+                  "lat": 40.71245,
+                  "lng": -73.96449
+                }
+              ],
+              "length": 92.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71245,
+                  "lng": -73.96449
+                },
+                {
+                  "lat": 40.71307,
+                  "lng": -73.96408
+                }
+              ],
+              "length": 77.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71307,
+                  "lng": -73.96408
+                },
+                {
+                  "lat": 40.71382,
+                  "lng": -73.96362
+                }
+              ],
+              "length": 92.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71382,
+                  "lng": -73.96362
+                },
+                {
+                  "lat": 40.71414,
+                  "lng": -73.96342
+                }
+              ],
+              "length": 39.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71414,
+                  "lng": -73.96342
+                },
+                {
+                  "lat": 40.71446,
+                  "lng": -73.96322
+                }
+              ],
+              "length": 39.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71446,
+                  "lng": -73.96322
+                },
+                {
+                  "lat": 40.71462,
+                  "lng": -73.96311
+                }
+              ],
+              "length": 20.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71462,
+                  "lng": -73.96311
+                },
+                {
+                  "lat": 40.7151,
+                  "lng": -73.96278
+                }
+              ],
+              "length": 60.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "2925636441255099544",
+        "hrn": "here:traffic:incident:2925636441255099544",
+        "originalId": "2925636441255099544",
+        "originalHrn": "here:traffic:incident:2925636441255099544",
+        "startTime": "2025-01-29T13:00:00Z",
+        "endTime": "2025-08-02T00:00:00Z",
+        "entryTime": "2025-04-04T12:02:04Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        }
+      }
+    },
+    {
+      "location": {
+        "length": 1314.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71143,
+                  "lng": -73.96467
+                },
+                {
+                  "lat": 40.71157,
+                  "lng": -73.96503
+                },
+                {
+                  "lat": 40.71172,
+                  "lng": -73.96556
+                }
+              ],
+              "length": 83.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71172,
+                  "lng": -73.96556
+                },
+                {
+                  "lat": 40.71182,
+                  "lng": -73.9659
+                }
+              ],
+              "length": 31.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71182,
+                  "lng": -73.9659
+                },
+                {
+                  "lat": 40.71212,
+                  "lng": -73.96693
+                }
+              ],
+              "length": 94.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71212,
+                  "lng": -73.96693
+                },
+                {
+                  "lat": 40.71268,
+                  "lng": -73.96876
+                }
+              ],
+              "length": 168.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71268,
+                  "lng": -73.96876
+                },
+                {
+                  "lat": 40.71328,
+                  "lng": -73.97074
+                }
+              ],
+              "length": 181.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71328,
+                  "lng": -73.97074
+                },
+                {
+                  "lat": 40.71426,
+                  "lng": -73.97394
+                }
+              ],
+              "length": 294.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71426,
+                  "lng": -73.97394
+                },
+                {
+                  "lat": 40.71447,
+                  "lng": -73.97465
+                }
+              ],
+              "length": 65.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71447,
+                  "lng": -73.97465
+                },
+                {
+                  "lat": 40.71461,
+                  "lng": -73.9751
+                }
+              ],
+              "length": 41.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71461,
+                  "lng": -73.9751
+                },
+                {
+                  "lat": 40.71477,
+                  "lng": -73.97564
+                }
+              ],
+              "length": 49.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71477,
+                  "lng": -73.97564
+                },
+                {
+                  "lat": 40.71494,
+                  "lng": -73.97618
+                }
+              ],
+              "length": 50.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71494,
+                  "lng": -73.97618
+                },
+                {
+                  "lat": 40.71503,
+                  "lng": -73.97649
+                }
+              ],
+              "length": 28.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71503,
+                  "lng": -73.97649
+                },
+                {
+                  "lat": 40.71562,
+                  "lng": -73.9784
+                },
+                {
+                  "lat": 40.71577,
+                  "lng": -73.97901
+                }
+              ],
+              "length": 230.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "885298784612236285",
+        "hrn": "here:traffic:incident:885298784612236285",
+        "originalId": "885298784612236285",
+        "originalHrn": "here:traffic:incident:885298784612236285",
+        "startTime": "2025-03-31T14:00:00Z",
+        "endTime": "2025-04-04T19:00:00Z",
+        "entryTime": "2025-04-04T14:01:07Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          707,
+          520
+        ],
+        "description": {
+          "value": "At Delancey St - Bridge maintenance operations",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Bridge maintenance operations",
+          "language": "en-US"
+        }
+      }
+    },
+    {
+      "location": {
+        "length": 152.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.7395,
+                  "lng": -73.98679
+                },
+                {
+                  "lat": 40.73907,
+                  "lng": -73.98579
+                }
+              ],
+              "length": 98.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.73907,
+                  "lng": -73.98579
+                },
+                {
+                  "lat": 40.73884,
+                  "lng": -73.98523
+                }
+              ],
+              "length": 54.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "3861504446457137937",
+        "hrn": "here:traffic:incident:3861504446457137937",
+        "originalId": "3861504446457137937",
+        "originalHrn": "here:traffic:incident:3861504446457137937",
+        "startTime": "2025-02-05T14:30:00Z",
+        "endTime": "2025-08-03T18:00:00Z",
+        "entryTime": "2025-04-04T13:31:57Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 168.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.7333,
+                  "lng": -73.99332
+                },
+                {
+                  "lat": 40.73403,
+                  "lng": -73.99505
+                }
+              ],
+              "length": 168.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "4127743008857207381",
+        "hrn": "here:traffic:incident:4127743008857207381",
+        "originalId": "4127743008857207381",
+        "originalHrn": "here:traffic:incident:4127743008857207381",
+        "startTime": "2025-04-04T13:00:00Z",
+        "endTime": "2025-04-05T03:59:00Z",
+        "entryTime": "2025-04-04T13:04:23Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "construction",
+        "codes": [
+          735
+        ],
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 20.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.72798,
+                  "lng": -73.97183
+                },
+                {
+                  "lat": 40.7278,
+                  "lng": -73.97185
+                }
+              ],
+              "length": 20.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "3826578738085935292",
+        "hrn": "here:traffic:incident:3826578738085935292",
+        "originalId": "3826578738085935292",
+        "originalHrn": "here:traffic:incident:3826578738085935292",
+        "startTime": "2022-11-15T03:00:00Z",
+        "endTime": "2026-08-16T03:59:00Z",
+        "entryTime": "2025-04-04T09:02:10Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          803
+        ],
+        "description": {
+          "value": "At 15th St/Exit 6 - Construction work",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Construction work",
+          "language": "en-US"
+        }
+      }
+    },
+    {
+      "location": {
+        "length": 87.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71247,
+                  "lng": -73.97777
+                },
+                {
+                  "lat": 40.71235,
+                  "lng": -73.97784
+                },
+                {
+                  "lat": 40.71212,
+                  "lng": -73.97801
+                },
+                {
+                  "lat": 40.71181,
+                  "lng": -73.97832
+                }
+              ],
+              "length": 87.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "2184732522485697030",
+        "hrn": "here:traffic:incident:2184732522485697030",
+        "originalId": "2184732522485697030",
+        "originalHrn": "here:traffic:incident:2184732522485697030",
+        "startTime": "2025-02-18T06:00:00Z",
+        "endTime": "2026-09-12T03:59:00Z",
+        "entryTime": "2025-03-20T00:34:35Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          803
+        ],
+        "description": {
+          "value": "At Montgomery St/Exit 3 - Construction work",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "comment": "Construction on Franklin D. Roosevelt Drive southbound between Williamsburg Bridge (New York) and Marginal Street (New York) These closures are necessary to facilitate East Side coastal resiliency project ., Friday February 21st, 2025 thru Saturday September 5th, 2026, 11:00 PM thru 07:00 AM 1 Right lane of 3 lanes closed, Sunday February 23rd, 2025 thru Monday September 7th, 2026, 11:00 PM thru 10:00 AM 1 Right lane of 3 lanes closed, Tuesday February 18th, 2025 thru Friday September 11th, 2026, Sunday thr"
+      }
+    },
+    {
+      "location": {
+        "length": 85.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.74704,
+                  "lng": -73.98125
+                },
+                {
+                  "lat": 40.74771,
+                  "lng": -73.98076
+                }
+              ],
+              "length": 85.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "296848304597275256",
+        "hrn": "here:traffic:incident:296848304597275256",
+        "originalId": "2321816680295953875",
+        "originalHrn": "here:traffic:incident:2321816680295953875",
+        "startTime": "2025-03-05T15:43:30Z",
+        "endTime": "2025-04-07T15:43:30Z",
+        "entryTime": "2025-03-20T00:35:32Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          701,
+          520
+        ],
+        "description": {
+          "value": "At E 42nd St - Road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Road construction",
+          "language": "en-US"
+        }
+      }
+    },
+    {
+      "location": {
+        "length": 287.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73586,
+                  "lng": -73.95518
+                },
+                {
+                  "lat": 40.73555,
+                  "lng": -73.95852
+                }
+              ],
+              "length": 287.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "3094918280412475074",
+        "hrn": "here:traffic:incident:3094918280412475074",
+        "originalId": "3094918280412475074",
+        "originalHrn": "here:traffic:incident:3094918280412475074",
+        "startTime": "2025-03-05T14:00:00Z",
+        "endTime": "2025-05-01T03:59:00Z",
+        "entryTime": "2025-04-04T13:04:23Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "construction",
+        "codes": [
+          735
+        ],
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 92.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73298,
+                  "lng": -73.97544
+                },
+                {
+                  "lat": 40.73257,
+                  "lng": -73.9745
+                }
+              ],
+              "length": 92.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "2904472230096109172",
+        "hrn": "here:traffic:incident:2904472230096109172",
+        "originalId": "2904472230096109172",
+        "originalHrn": "here:traffic:incident:2904472230096109172",
+        "startTime": "2025-04-04T12:00:00Z",
+        "endTime": "2025-04-25T20:00:00Z",
+        "entryTime": "2025-04-04T12:02:04Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "construction",
+        "codes": [
+          735
+        ],
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 79.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73918,
+                  "lng": -73.98977
+                },
+                {
+                  "lat": 40.73884,
+                  "lng": -73.98986
+                }
+              ],
+              "length": 39.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.73884,
+                  "lng": -73.98986
+                },
+                {
+                  "lat": 40.73861,
+                  "lng": -73.98992
+                }
+              ],
+              "length": 26.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.73861,
+                  "lng": -73.98992
+                },
+                {
+                  "lat": 40.73849,
+                  "lng": -73.98995
+                }
+              ],
+              "length": 14.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "4509230129238158486",
+        "hrn": "here:traffic:incident:4509230129238158486",
+        "originalId": "4509230129238158486",
+        "originalHrn": "here:traffic:incident:4509230129238158486",
+        "startTime": "2025-02-05T14:30:00Z",
+        "endTime": "2025-08-01T16:30:00Z",
+        "entryTime": "2025-04-04T13:31:57Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 109.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71845,
+                  "lng": -73.99876
+                },
+                {
+                  "lat": 40.71756,
+                  "lng": -73.99931
+                }
+              ],
+              "length": 109.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1271403218225750154",
+        "hrn": "here:traffic:incident:1271403218225750154",
+        "originalId": "1271403218225750154",
+        "originalHrn": "here:traffic:incident:1271403218225750154",
+        "startTime": "2025-02-28T14:00:00Z",
+        "endTime": "2025-05-01T03:59:00Z",
+        "entryTime": "2025-04-04T13:04:23Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "construction",
+        "codes": [
+          735
+        ],
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 221.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71559,
+                  "lng": -74.01111
+                },
+                {
+                  "lat": 40.71522,
+                  "lng": -74.01121
+                },
+                {
+                  "lat": 40.71492,
+                  "lng": -74.01134
+                }
+              ],
+              "length": 77.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71492,
+                  "lng": -74.01134
+                },
+                {
+                  "lat": 40.71451,
+                  "lng": -74.01148
+                }
+              ],
+              "length": 47.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71451,
+                  "lng": -74.01148
+                },
+                {
+                  "lat": 40.71428,
+                  "lng": -74.01154
+                }
+              ],
+              "length": 26.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71428,
+                  "lng": -74.01154
+                },
+                {
+                  "lat": 40.71365,
+                  "lng": -74.0117
+                }
+              ],
+              "length": 71.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1057063401754431735",
+        "hrn": "here:traffic:incident:1057063401754431735",
+        "originalId": "1057063401754431706",
+        "originalHrn": "here:traffic:incident:1057063401754431706",
+        "startTime": "2025-03-05T15:41:15Z",
+        "endTime": "2025-04-07T15:41:15Z",
+        "entryTime": "2025-03-20T00:35:33Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          803
+        ],
+        "description": {
+          "value": "At Barclay St - Construction work",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Construction work",
+          "language": "en-US"
+        }
+      }
+    },
+    {
+      "location": {
+        "length": 164.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73167,
+                  "lng": -73.9615
+                },
+                {
+                  "lat": 40.73184,
+                  "lng": -73.95959
+                }
+              ],
+              "length": 164.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1565049935317674159",
+        "hrn": "here:traffic:incident:1565049935317674159",
+        "originalId": "2393227983116345290",
+        "originalHrn": "here:traffic:incident:2393227983116345290",
+        "startTime": "2025-03-05T12:00:00Z",
+        "endTime": "2025-05-31T03:59:00Z",
+        "entryTime": "2025-04-04T11:00:35Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "construction",
+        "codes": [
+          735
+        ],
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "comment": "Construction on INDIA ST both directions between WEST ST (New York) for large concrete pours, Tuesday February 18th, 2025 thru Friday May 30th, 2025, Monday thru Friday, 07:00 AM thru 06:00 PM All lanes closed",
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 73.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73329,
+                  "lng": -73.97619
+                },
+                {
+                  "lat": 40.73298,
+                  "lng": -73.97544
+                }
+              ],
+              "length": 73.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "4506793216541469935",
+        "hrn": "here:traffic:incident:4506793216541469935",
+        "originalId": "4155139668739394924",
+        "originalHrn": "here:traffic:incident:4155139668739394924",
+        "startTime": "2025-03-07T12:00:00Z",
+        "endTime": "2028-04-02T03:59:00Z",
+        "entryTime": "2025-03-29T20:00:34Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          803
+        ],
+        "description": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "comment": "Construction on E 20TH ST eastbound between 20TH ST LOOP (New York) and AVENUE C (New York) for East Side Coast Resiliency., Saturday March 8th,2025 thru Saturday April 1st,2028, Saturday, 08:00 AM thru 04:00 PM All lanes closed eastbound,"
+      }
+    },
+    {
+      "location": {
+        "length": 140.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71878,
+                  "lng": -73.97499
+                },
+                {
+                  "lat": 40.7185,
+                  "lng": -73.97502
+                },
+                {
+                  "lat": 40.71819,
+                  "lng": -73.97508
+                },
+                {
+                  "lat": 40.71754,
+                  "lng": -73.97526
+                }
+              ],
+              "length": 140.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1792630562397365478",
+        "hrn": "here:traffic:incident:1792630562397365478",
+        "originalId": "1623710190999437229",
+        "originalHrn": "here:traffic:incident:1623710190999437229",
+        "startTime": "2025-04-04T14:01:45Z",
+        "endTime": "2025-04-04T14:12:32Z",
+        "entryTime": "2025-04-04T14:02:32Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "congestion",
+        "codes": [
+          138
+        ],
+        "description": {
+          "value": "At Houston St/Exit 5 - Backed-up traffic. Approach with care",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Backed-up traffic. Approach with care",
+          "language": "en-US"
+        }
+      }
+    },
+    {
+      "location": {
+        "length": 152.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.75534,
+                  "lng": -73.97539
+                },
+                {
+                  "lat": 40.7556,
+                  "lng": -73.97606
+                }
+              ],
+              "length": 64.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.7556,
+                  "lng": -73.97606
+                },
+                {
+                  "lat": 40.75598,
+                  "lng": -73.97696
+                }
+              ],
+              "length": 88.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "3395077959838808249",
+        "hrn": "here:traffic:incident:3395077959838808249",
+        "originalId": "3395077959838808249",
+        "originalHrn": "here:traffic:incident:3395077959838808249",
+        "startTime": "2025-02-13T02:00:00Z",
+        "endTime": "2025-07-01T03:59:00Z",
+        "entryTime": "2025-04-04T10:01:54Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          803
+        ],
+        "description": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Construction work",
+          "language": "en-US"
+        }
+      }
+    },
+    {
+      "location": {
+        "length": 164.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73167,
+                  "lng": -73.9615
+                },
+                {
+                  "lat": 40.73184,
+                  "lng": -73.95959
+                }
+              ],
+              "length": 164.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "3525515401538655384",
+        "hrn": "here:traffic:incident:3525515401538655384",
+        "originalId": "944251381502809126",
+        "originalHrn": "here:traffic:incident:944251381502809126",
+        "startTime": "2025-03-03T12:00:00Z",
+        "endTime": "2025-05-30T22:00:00Z",
+        "entryTime": "2025-04-04T11:05:35Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [
+          401
+        ],
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 73.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71311,
+                  "lng": -73.97757
+                },
+                {
+                  "lat": 40.71289,
+                  "lng": -73.97765
+                },
+                {
+                  "lat": 40.71268,
+                  "lng": -73.9777
+                },
+                {
+                  "lat": 40.71247,
+                  "lng": -73.97777
+                }
+              ],
+              "length": 73.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "2986211350459593566",
+        "hrn": "here:traffic:incident:2986211350459593566",
+        "originalId": "2986211350459593566",
+        "originalHrn": "here:traffic:incident:2986211350459593566",
+        "startTime": "2024-07-10T02:00:00Z",
+        "endTime": "2026-09-12T03:59:00Z",
+        "entryTime": "2025-03-20T00:34:35Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          803
+        ],
+        "description": {
+          "value": "At FDR Dr S/Grand St - Construction work",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "comment": "Construction on Franklin D. Roosevelt Drive southbound between Williamsburg Bridge (New York) and Marginal Street (New York) These closures are necessary to facilitate East Side Coastal Resiliency Project ., Saturday July 13th, 2024 thru Saturday September 5th, 2026, 01:00 AM thru 07:00 AM 2 Right lanes of 3 lanes closed, Saturday July 13th, 2024 thru Saturday September 5th, 2026, 07:00 AM thru 10:00 AM 1 Right lane of 3 lanes closed, Tuesday July 9th, 2024 thru Friday September 11th, 2026, Monday thru Frid"
+      }
+    },
+    {
+      "location": {
+        "length": 159.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71695,
+                  "lng": -73.96079
+                },
+                {
+                  "lat": 40.71753,
+                  "lng": -73.9602
+                }
+              ],
+              "length": 82.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71753,
+                  "lng": -73.9602
+                },
+                {
+                  "lat": 40.71806,
+                  "lng": -73.95962
+                }
+              ],
+              "length": 77.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1975004314581967271",
+        "hrn": "here:traffic:incident:1975004314581967271",
+        "originalId": "1975004314581967271",
+        "originalHrn": "here:traffic:incident:1975004314581967271",
+        "startTime": "2025-01-29T13:00:00Z",
+        "endTime": "2025-08-02T00:00:00Z",
+        "entryTime": "2025-04-04T12:02:04Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 167.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.72024,
+                  "lng": -73.97946
+                },
+                {
+                  "lat": 40.72036,
+                  "lng": -73.97967
+                },
+                {
+                  "lat": 40.72048,
+                  "lng": -73.97994
+                },
+                {
+                  "lat": 40.72057,
+                  "lng": -73.97998
+                },
+                {
+                  "lat": 40.72063,
+                  "lng": -73.98013
+                }
+              ],
+              "length": 74.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.72063,
+                  "lng": -73.98013
+                },
+                {
+                  "lat": 40.72074,
+                  "lng": -73.98038
+                }
+              ],
+              "length": 25.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.72074,
+                  "lng": -73.98038
+                },
+                {
+                  "lat": 40.7208,
+                  "lng": -73.98053
+                }
+              ],
+              "length": 14.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.7208,
+                  "lng": -73.98053
+                },
+                {
+                  "lat": 40.72102,
+                  "lng": -73.98109
+                }
+              ],
+              "length": 54.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1629823327251480652",
+        "hrn": "here:traffic:incident:1629823327251480652",
+        "originalId": "1629823327251480652",
+        "originalHrn": "here:traffic:incident:1629823327251480652",
+        "startTime": "2025-03-27T11:00:00Z",
+        "endTime": "2025-04-28T20:00:00Z",
+        "entryTime": "2025-04-04T11:03:57Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [
+          401
+        ],
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 85.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.75883,
+                  "lng": -73.99763
+                },
+                {
+                  "lat": 40.75874,
+                  "lng": -73.99778
+                },
+                {
+                  "lat": 40.75871,
+                  "lng": -73.99787
+                }
+              ],
+              "length": 25.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.75871,
+                  "lng": -73.99787
+                },
+                {
+                  "lat": 40.7587,
+                  "lng": -73.9981
+                },
+                {
+                  "lat": 40.75873,
+                  "lng": -73.99834
+                }
+              ],
+              "length": 40.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.75873,
+                  "lng": -73.99834
+                },
+                {
+                  "lat": 40.75878,
+                  "lng": -73.99857
+                }
+              ],
+              "length": 20.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "4547649842419519862",
+        "hrn": "here:traffic:incident:4547649842419519862",
+        "originalId": "4547649842419519833",
+        "originalHrn": "here:traffic:incident:4547649842419519833",
+        "startTime": "2025-03-05T15:57:59Z",
+        "endTime": "2025-04-07T15:57:59Z",
+        "entryTime": "2025-03-20T00:35:33Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          701
+        ],
+        "description": {
+          "value": "Ramp to RT-495/Lincoln Tunnel Westbound - Road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Road construction",
+          "language": "en-US"
+        }
+      }
+    },
+    {
+      "location": {
+        "length": 75.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73183,
+                  "lng": -74.00511
+                },
+                {
+                  "lat": 40.73207,
+                  "lng": -74.00524
+                }
+              ],
+              "length": 29.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.73207,
+                  "lng": -74.00524
+                },
+                {
+                  "lat": 40.73245,
+                  "lng": -74.00546
+                }
+              ],
+              "length": 46.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "4470584916103429074",
+        "hrn": "here:traffic:incident:4470584916103429074",
+        "originalId": "4470584916103429074",
+        "originalHrn": "here:traffic:incident:4470584916103429074",
+        "startTime": "2025-04-04T13:00:00Z",
+        "endTime": "2025-04-25T20:00:00Z",
+        "entryTime": "2025-04-04T13:04:23Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [
+          401,
+          703
+        ],
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 118.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71592,
+                  "lng": -73.9619
+                },
+                {
+                  "lat": 40.71557,
+                  "lng": -73.9623
+                }
+              ],
+              "length": 52.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71557,
+                  "lng": -73.9623
+                },
+                {
+                  "lat": 40.7151,
+                  "lng": -73.96278
+                }
+              ],
+              "length": 66.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "3958023216127938822",
+        "hrn": "here:traffic:incident:3958023216127938822",
+        "originalId": "3958023216127938822",
+        "originalHrn": "here:traffic:incident:3958023216127938822",
+        "startTime": "2025-01-29T13:00:00Z",
+        "endTime": "2025-08-02T00:00:00Z",
+        "entryTime": "2025-04-04T12:02:04Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 89.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.7566,
+                  "lng": -73.9765
+                },
+                {
+                  "lat": 40.75622,
+                  "lng": -73.97558
+                }
+              ],
+              "length": 89.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "257439198498947913",
+        "hrn": "here:traffic:incident:257439198498947913",
+        "originalId": "410455359625074249",
+        "originalHrn": "here:traffic:incident:410455359625074249",
+        "startTime": "2025-02-13T02:00:00Z",
+        "endTime": "2025-07-01T03:59:00Z",
+        "entryTime": "2025-04-04T10:00:34Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "construction",
+        "codes": [
+          803
+        ],
+        "description": {
+          "value": "At Park Ave - Construction work",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "comment": "Construction on E 48TH ST eastbound between MADISON AVE (New York) and PARK AVE (New York) for Grand Central Terminal shed project., Wednesday February 12th, 2025 thru Monday June 30th, 2025, Sunday thru Saturday, 09:00 PM thru 06:00 AM All lanes closed"
+      }
+    },
+    {
+      "location": {
+        "length": 397.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71863,
+                  "lng": -73.95901
+                },
+                {
+                  "lat": 40.71917,
+                  "lng": -73.95841
+                }
+              ],
+              "length": 79.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71917,
+                  "lng": -73.95841
+                },
+                {
+                  "lat": 40.71973,
+                  "lng": -73.95781
+                }
+              ],
+              "length": 81.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71973,
+                  "lng": -73.95781
+                },
+                {
+                  "lat": 40.72028,
+                  "lng": -73.95722
+                }
+              ],
+              "length": 79.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.72028,
+                  "lng": -73.95722
+                },
+                {
+                  "lat": 40.72082,
+                  "lng": -73.95661
+                }
+              ],
+              "length": 79.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.72082,
+                  "lng": -73.95661
+                },
+                {
+                  "lat": 40.72138,
+                  "lng": -73.95603
+                }
+              ],
+              "length": 79.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "108999057017316199",
+        "hrn": "here:traffic:incident:108999057017316199",
+        "originalId": "108999057017316199",
+        "originalHrn": "here:traffic:incident:108999057017316199",
+        "startTime": "2025-01-29T13:00:00Z",
+        "endTime": "2025-08-02T00:00:00Z",
+        "entryTime": "2025-04-04T12:02:04Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 229.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.72507,
+                  "lng": -73.98121
+                },
+                {
+                  "lat": 40.72562,
+                  "lng": -73.98082
+                }
+              ],
+              "length": 70.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.72562,
+                  "lng": -73.98082
+                },
+                {
+                  "lat": 40.72569,
+                  "lng": -73.98077
+                }
+              ],
+              "length": 9.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.72569,
+                  "lng": -73.98077
+                },
+                {
+                  "lat": 40.72628,
+                  "lng": -73.98033
+                }
+              ],
+              "length": 76.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.72628,
+                  "lng": -73.98033
+                },
+                {
+                  "lat": 40.72686,
+                  "lng": -73.97991
+                }
+              ],
+              "length": 74.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "4244934953701812249",
+        "hrn": "here:traffic:incident:4244934953701812249",
+        "originalId": "4244934953701812249",
+        "originalHrn": "here:traffic:incident:4244934953701812249",
+        "startTime": "2025-02-05T13:00:00Z",
+        "endTime": "2025-08-01T12:00:00Z",
+        "entryTime": "2025-04-04T12:02:04Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "At E 14th St - Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 178.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.72981,
+                  "lng": -74.01048
+                },
+                {
+                  "lat": 40.72973,
+                  "lng": -74.0092
+                }
+              ],
+              "length": 109.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.72973,
+                  "lng": -74.0092
+                },
+                {
+                  "lat": 40.72966,
+                  "lng": -74.00839
+                }
+              ],
+              "length": 69.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "2274010562776271796",
+        "hrn": "here:traffic:incident:2274010562776271796",
+        "originalId": "4468422121037008641",
+        "originalHrn": "here:traffic:incident:4468422121037008641",
+        "startTime": "2025-04-04T11:14:01Z",
+        "endTime": "2025-04-05T11:14:01Z",
+        "entryTime": "2025-04-04T12:34:02Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [
+          401
+        ],
+        "description": {
+          "value": "At Hudson St - Closed",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 3.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73458,
+                  "lng": -73.98438
+                },
+                {
+                  "lat": 40.7346,
+                  "lng": -73.98436
+                }
+              ],
+              "length": 3.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "4481176819788540758",
+        "hrn": "here:traffic:incident:4481176819788540758",
+        "originalId": "4481176819788540758",
+        "originalHrn": "here:traffic:incident:4481176819788540758",
+        "startTime": "2025-02-10T12:30:00Z",
+        "endTime": "2025-08-03T19:30:00Z",
+        "entryTime": "2025-04-04T11:31:27Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 81.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73401,
+                  "lng": -73.98477
+                },
+                {
+                  "lat": 40.73399,
+                  "lng": -73.98478
+                }
+              ],
+              "length": 2.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.73399,
+                  "lng": -73.98478
+                },
+                {
+                  "lat": 40.73337,
+                  "lng": -73.98524
+                }
+              ],
+              "length": 79.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "2751802051707321171",
+        "hrn": "here:traffic:incident:2751802051707321171",
+        "originalId": "2751802051707321171",
+        "originalHrn": "here:traffic:incident:2751802051707321171",
+        "startTime": "2025-02-10T12:30:00Z",
+        "endTime": "2025-08-03T19:30:00Z",
+        "entryTime": "2025-04-04T11:31:27Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 138.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73228,
+                  "lng": -74.0036
+                },
+                {
+                  "lat": 40.73226,
+                  "lng": -74.00374
+                },
+                {
+                  "lat": 40.73222,
+                  "lng": -74.0039
+                },
+                {
+                  "lat": 40.73183,
+                  "lng": -74.00511
+                }
+              ],
+              "length": 138.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1220904599149206442",
+        "hrn": "here:traffic:incident:1220904599149206442",
+        "originalId": "4382005602579530664",
+        "originalHrn": "here:traffic:incident:4382005602579530664",
+        "startTime": "2025-04-04T13:00:00Z",
+        "endTime": "2025-04-30T03:59:00Z",
+        "entryTime": "2025-04-04T13:00:36Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "construction",
+        "codes": [
+          735
+        ],
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "comment": "Construction on BEDFORD ST northbound between BARROW ST (New York) and GROVE ST (New York) for use of knuckle boom to hoist wood/steel/building materials., Friday April 4th, 2025 thru Tuesday April 29th, 2025, Sunday thru Saturday, 09:00 AM thru 04:00 PM All lanes closed",
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 298.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.71489,
+                  "lng": -73.9609
+                },
+                {
+                  "lat": 40.71557,
+                  "lng": -73.9623
+                }
+              ],
+              "length": 141.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.71557,
+                  "lng": -73.9623
+                },
+                {
+                  "lat": 40.71632,
+                  "lng": -73.96386
+                }
+              ],
+              "length": 157.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "2982229949304595478",
+        "hrn": "here:traffic:incident:2982229949304595478",
+        "originalId": "2982229949304595478",
+        "originalHrn": "here:traffic:incident:2982229949304595478",
+        "startTime": "2025-03-21T13:00:00Z",
+        "endTime": "2025-06-22T03:59:00Z",
+        "entryTime": "2025-04-04T13:04:23Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "construction",
+        "codes": [
+          735
+        ],
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 629.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.75105,
+                  "lng": -74.03546
+                },
+                {
+                  "lat": 40.7523,
+                  "lng": -74.03507
+                }
+              ],
+              "length": 143.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.7523,
+                  "lng": -74.03507
+                },
+                {
+                  "lat": 40.7535,
+                  "lng": -74.03471
+                }
+              ],
+              "length": 137.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.7535,
+                  "lng": -74.03471
+                },
+                {
+                  "lat": 40.75414,
+                  "lng": -74.03451
+                }
+              ],
+              "length": 73.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.75414,
+                  "lng": -74.03451
+                },
+                {
+                  "lat": 40.75467,
+                  "lng": -74.03435
+                }
+              ],
+              "length": 60.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.75467,
+                  "lng": -74.03435
+                },
+                {
+                  "lat": 40.75477,
+                  "lng": -74.03432
+                }
+              ],
+              "length": 11.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.75477,
+                  "lng": -74.03432
+                },
+                {
+                  "lat": 40.75586,
+                  "lng": -74.034
+                }
+              ],
+              "length": 124.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.75586,
+                  "lng": -74.034
+                },
+                {
+                  "lat": 40.75571,
+                  "lng": -74.03307
+                }
+              ],
+              "length": 81.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "3520664831954420695",
+        "hrn": "here:traffic:incident:3520664831954420695",
+        "originalId": "3405273959718585065",
+        "originalHrn": "here:traffic:incident:3405273959718585065",
+        "startTime": "2025-04-01T16:04:00Z",
+        "endTime": "2025-04-05T10:04:00Z",
+        "entryTime": "2025-04-04T13:44:00Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "roadClosure",
+        "codes": [
+          401
+        ],
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    },
+    {
+      "location": {
+        "length": 229.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.72686,
+                  "lng": -73.97991
+                },
+                {
+                  "lat": 40.72628,
+                  "lng": -73.98033
+                }
+              ],
+              "length": 74.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.72628,
+                  "lng": -73.98033
+                },
+                {
+                  "lat": 40.72569,
+                  "lng": -73.98077
+                }
+              ],
+              "length": 76.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.72569,
+                  "lng": -73.98077
+                },
+                {
+                  "lat": 40.72562,
+                  "lng": -73.98082
+                }
+              ],
+              "length": 9.0
+            },
+            {
+              "points": [
+                {
+                  "lat": 40.72562,
+                  "lng": -73.98082
+                },
+                {
+                  "lat": 40.72507,
+                  "lng": -73.98121
+                }
+              ],
+              "length": 70.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "176791586428453679",
+        "hrn": "here:traffic:incident:176791586428453679",
+        "originalId": "176791586428453679",
+        "originalHrn": "here:traffic:incident:176791586428453679",
+        "startTime": "2025-02-05T13:00:00Z",
+        "endTime": "2025-08-01T12:00:00Z",
+        "entryTime": "2025-04-04T12:02:04Z",
+        "roadClosed": false,
+        "criticality": "minor",
+        "type": "other",
+        "codes": [
+          493
+        ],
+        "description": {
+          "value": "At E Houston St - Restrictions",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "comment": "OPEN STREET 2025"
+      }
+    },
+    {
+      "location": {
+        "length": 143.0,
+        "shape": {
+          "links": [
+            {
+              "points": [
+                {
+                  "lat": 40.73877,
+                  "lng": -74.00978
+                },
+                {
+                  "lat": 40.73876,
+                  "lng": -74.0081
+                }
+              ],
+              "length": 143.0
+            }
+          ]
+        }
+      },
+      "incidentDetails": {
+        "id": "1201445620516951963",
+        "hrn": "here:traffic:incident:1201445620516951963",
+        "originalId": "1201445620516951963",
+        "originalHrn": "here:traffic:incident:1201445620516951963",
+        "startTime": "2025-04-04T11:00:00Z",
+        "endTime": "2025-05-05T03:59:00Z",
+        "entryTime": "2025-04-04T11:02:10Z",
+        "roadClosed": true,
+        "criticality": "critical",
+        "type": "construction",
+        "codes": [
+          735
+        ],
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "summary": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "junctionTraversability": "intermediateClosedEdgeOpen"
+      }
+    }
+  ]
+}

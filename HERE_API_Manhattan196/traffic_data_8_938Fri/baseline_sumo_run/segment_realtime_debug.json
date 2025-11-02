@@ -1,0 +1,23 @@
+{
+  "total_mapping_segments": 991,
+  "total_realtime_segments": 0,
+  "segments_with_edges": 791,
+  "common_segments": 0,
+  "mappable_segments": 0,
+  "only_in_mapping": 991,
+  "only_in_realtime": 0,
+  "sample_mappable_segments": [],
+  "sample_only_in_mapping": [
+    "segment_951",
+    "segment_221",
+    "segment_497",
+    "segment_416",
+    "segment_818",
+    "segment_423",
+    "segment_594",
+    "segment_940",
+    "segment_173",
+    "segment_396"
+  ],
+  "sample_only_in_realtime": []
+}

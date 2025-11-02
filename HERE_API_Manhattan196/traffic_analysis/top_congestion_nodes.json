@@ -1,0 +1,962 @@
+{
+  "total_congestion_nodes": 3677,
+  "entry_nodes": 3384,
+  "exit_nodes": 293,
+  "selected_entry_nodes": 46,
+  "selected_exit_nodes": 4,
+  "entry_ratio": 0.9203154745716616,
+  "top_entry_nodes": [
+    {
+      "location": [
+        40.74604,
+        -73.96565
+      ],
+      "congestion_score": 258.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 133,
+      "functional_class": 5,
+      "direction": "SE-NW",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "length": 802.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 641,
+      "link_index": 7
+    },
+    {
+      "location": [
+        40.74147,
+        -73.95531
+      ],
+      "congestion_score": 202.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 77,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "length": 465.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 641,
+      "link_index": 9
+    },
+    {
+      "location": [
+        40.74725,
+        -73.97093
+      ],
+      "congestion_score": 173.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 48,
+      "functional_class": 5,
+      "direction": "NE-SW",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "length": 292.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 641,
+      "link_index": 0
+    },
+    {
+      "location": [
+        40.75964,
+        -74.00187
+      ],
+      "congestion_score": 166.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 41,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Lincoln Tunnel East",
+      "length": 249.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 479,
+      "link_index": 6
+    },
+    {
+      "location": [
+        40.74377,
+        -73.9625
+      ],
+      "congestion_score": 166.0,
+      "jam_factor": 7.2,
+      "speed": 7.5,
+      "speed_ratio": 0.4218749709960958,
+      "vehicle_count": 69,
+      "functional_class": 5,
+      "direction": "SE-NW",
+      "road_name": "Queens Midtown Tunl East End",
+      "length": 803.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 863,
+      "link_index": 1
+    },
+    {
+      "location": [
+        40.7586,
+        -73.99896
+      ],
+      "congestion_score": 153.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 28,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Lincoln Tunnel East",
+      "length": 173.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 479,
+      "link_index": 4
+    },
+    {
+      "location": [
+        40.74248,
+        -73.96018
+      ],
+      "congestion_score": 144.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 19,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "length": 116.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 641,
+      "link_index": 8
+    },
+    {
+      "location": [
+        40.75793,
+        -73.99735
+      ],
+      "congestion_score": 139.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 14,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Lincoln Tunnel East",
+      "length": 88.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 479,
+      "link_index": 3
+    },
+    {
+      "location": [
+        40.7415,
+        -73.95573
+      ],
+      "congestion_score": 139.0,
+      "jam_factor": 7.2,
+      "speed": 7.5,
+      "speed_ratio": 0.4218749709960958,
+      "vehicle_count": 42,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "Queens Midtown Tunl East End",
+      "length": 493.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 863,
+      "link_index": 3
+    },
+    {
+      "location": [
+        40.76304,
+        -73.97811
+      ],
+      "congestion_score": 138.0,
+      "jam_factor": 8.1,
+      "speed": 1.6666667,
+      "speed_ratio": 0.4999999850000007,
+      "vehicle_count": 32,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Unknown Road",
+      "length": 312.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": false,
+      "result_index": 585,
+      "link_index": 10
+    },
+    {
+      "location": [
+        40.74561,
+        -73.97292
+      ],
+      "congestion_score": 137.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 12,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "Queens Midtown Tunnel (West)",
+      "length": 73.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 57,
+      "link_index": 0
+    },
+    {
+      "location": [
+        40.7459,
+        -73.97369
+      ],
+      "congestion_score": 136.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 11,
+      "functional_class": 5,
+      "direction": "SE-NW",
+      "road_name": "QUEENS MIDTOWN TUNNEL APPR AND E 37TH ST WB",
+      "length": 70.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 356,
+      "link_index": 1
+    },
+    {
+      "location": [
+        40.75896,
+        -74.00021
+      ],
+      "congestion_score": 136.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 11,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Lincoln Tunnel East",
+      "length": 68.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 479,
+      "link_index": 5
+    },
+    {
+      "location": [
+        40.71426,
+        -73.97394
+      ],
+      "congestion_score": 136.0,
+      "jam_factor": 8.1,
+      "speed": 5.8333335,
+      "speed_ratio": 0.41176470795847747,
+      "vehicle_count": 30,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Delancey St",
+      "length": 294.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": false,
+      "result_index": 620,
+      "link_index": 8
+    },
+    {
+      "location": [
+        40.74793,
+        -73.969
+      ],
+      "congestion_score": 132.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 7,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "length": 48.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 641,
+      "link_index": 4
+    },
+    {
+      "location": [
+        40.74664,
+        -73.97631
+      ],
+      "congestion_score": 131.0,
+      "jam_factor": 9.4,
+      "speed": 0.8333334,
+      "speed_ratio": 0.1764705994463666,
+      "vehicle_count": 12,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "I-495/Queens Midtown Tunnel/2nd Ave",
+      "length": 84.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 403,
+      "link_index": 0
+    },
+    {
+      "location": [
+        40.74777,
+        -73.9683
+      ],
+      "congestion_score": 131.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 6,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "length": 40.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 641,
+      "link_index": 5
+    },
+    {
+      "location": [
+        40.76142,
+        -73.97824
+      ],
+      "congestion_score": 130.0,
+      "jam_factor": 8.1,
+      "speed": 1.6666667,
+      "speed_ratio": 0.4285714248979593,
+      "vehicle_count": 24,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Unknown Road",
+      "length": 234.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": false,
+      "result_index": 183,
+      "link_index": 9
+    },
+    {
+      "location": [
+        40.74795,
+        -73.9693
+      ],
+      "congestion_score": 130.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 5,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "length": 35.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 641,
+      "link_index": 3
+    },
+    {
+      "location": [
+        40.75803,
+        -73.96623
+      ],
+      "congestion_score": 129.0,
+      "jam_factor": 8.1,
+      "speed": 1.6666667,
+      "speed_ratio": 0.4999999850000007,
+      "vehicle_count": 23,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Unknown Road",
+      "length": 229.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": false,
+      "result_index": 585,
+      "link_index": 2
+    },
+    {
+      "location": [
+        40.71143,
+        -73.96467
+      ],
+      "congestion_score": 129.0,
+      "jam_factor": 8.1,
+      "speed": 5.8333335,
+      "speed_ratio": 0.41176470795847747,
+      "vehicle_count": 23,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Delancey St",
+      "length": 230.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": false,
+      "result_index": 620,
+      "link_index": 2
+    },
+    {
+      "location": [
+        40.71562,
+        -73.9784
+      ],
+      "congestion_score": 129.0,
+      "jam_factor": 8.1,
+      "speed": 5.8333335,
+      "speed_ratio": 0.41176470795847747,
+      "vehicle_count": 23,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Delancey St",
+      "length": 230.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": false,
+      "result_index": 620,
+      "link_index": 14
+    },
+    {
+      "location": [
+        40.74767,
+        -73.96804
+      ],
+      "congestion_score": 129.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 4,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "length": 25.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 641,
+      "link_index": 6
+    },
+    {
+      "location": [
+        40.74144,
+        -73.95423
+      ],
+      "congestion_score": 129.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 4,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "length": 26.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 641,
+      "link_index": 10
+    },
+    {
+      "location": [
+        40.75769,
+        -73.96939
+      ],
+      "congestion_score": 128.0,
+      "jam_factor": 8.1,
+      "speed": 1.6666667,
+      "speed_ratio": 0.4285714248979593,
+      "vehicle_count": 22,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Unknown Road",
+      "length": 216.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": false,
+      "result_index": 183,
+      "link_index": 0
+    },
+    {
+      "location": [
+        40.7461,
+        -73.97492
+      ],
+      "congestion_score": 128.0,
+      "jam_factor": 9.4,
+      "speed": 0.8333334,
+      "speed_ratio": 0.1764705994463666,
+      "vehicle_count": 9,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "I-495/Queens Midtown Tunnel/2nd Ave",
+      "length": 65.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 403,
+      "link_index": 3
+    },
+    {
+      "location": [
+        40.75894,
+        -73.96847
+      ],
+      "congestion_score": 128.0,
+      "jam_factor": 8.1,
+      "speed": 1.6666667,
+      "speed_ratio": 0.4999999850000007,
+      "vehicle_count": 22,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Unknown Road",
+      "length": 216.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": false,
+      "result_index": 585,
+      "link_index": 3
+    },
+    {
+      "location": [
+        40.74789,
+        -73.96986
+      ],
+      "congestion_score": 128.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 3,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "length": 20.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 641,
+      "link_index": 1
+    },
+    {
+      "location": [
+        40.74576,
+        -73.97229
+      ],
+      "congestion_score": 127.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 2,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "Queens Midtown Tunnel (West)",
+      "length": 17.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 57,
+      "link_index": 1
+    },
+    {
+      "location": [
+        40.75766,
+        -73.99692
+      ],
+      "congestion_score": 127.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 2,
+      "functional_class": 5,
+      "direction": "NW-SE",
+      "road_name": "Lincoln Tunnel East",
+      "length": 16.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 479,
+      "link_index": 1
+    },
+    {
+      "location": [
+        40.75776,
+        -73.99706
+      ],
+      "congestion_score": 127.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 2,
+      "functional_class": 5,
+      "direction": "NW-SE",
+      "road_name": "Lincoln Tunnel East",
+      "length": 16.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 479,
+      "link_index": 2
+    },
+    {
+      "location": [
+        40.76021,
+        -74.0032
+      ],
+      "congestion_score": 127.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 2,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Lincoln Tunnel East",
+      "length": 13.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 479,
+      "link_index": 7
+    },
+    {
+      "location": [
+        40.76037,
+        -74.00359
+      ],
+      "congestion_score": 127.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 2,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Lincoln Tunnel East",
+      "length": 14.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 479,
+      "link_index": 11
+    },
+    {
+      "location": [
+        40.74792,
+        -73.96971
+      ],
+      "congestion_score": 127.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 2,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "length": 13.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 641,
+      "link_index": 2
+    },
+    {
+      "location": [
+        40.74144,
+        -73.95403
+      ],
+      "congestion_score": 127.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 2,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "Queens Midtown Tunnel (East)",
+      "length": 17.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 641,
+      "link_index": 11
+    },
+    {
+      "location": [
+        40.74581,
+        -73.97218
+      ],
+      "congestion_score": 126.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 1,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "Queens Midtown Tunnel (West)",
+      "length": 11.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 57,
+      "link_index": 2
+    },
+    {
+      "location": [
+        40.75756,
+        -73.99678
+      ],
+      "congestion_score": 126.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 1,
+      "functional_class": 5,
+      "direction": "NW-SE",
+      "road_name": "Lincoln Tunnel East",
+      "length": 10.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 479,
+      "link_index": 0
+    },
+    {
+      "location": [
+        40.76024,
+        -74.00329
+      ],
+      "congestion_score": 126.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 1,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Lincoln Tunnel East",
+      "length": 8.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 479,
+      "link_index": 8
+    },
+    {
+      "location": [
+        40.76031,
+        -74.00344
+      ],
+      "congestion_score": 126.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 1,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Lincoln Tunnel East",
+      "length": 11.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 479,
+      "link_index": 10
+    },
+    {
+      "location": [
+        40.7604,
+        -74.00366
+      ],
+      "congestion_score": 126.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 1,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Lincoln Tunnel East",
+      "length": 7.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 479,
+      "link_index": 12
+    },
+    {
+      "location": [
+        40.74645,
+        -73.97587
+      ],
+      "congestion_score": 125.0,
+      "jam_factor": 9.4,
+      "speed": 0.8333334,
+      "speed_ratio": 0.1764705994463666,
+      "vehicle_count": 6,
+      "functional_class": 5,
+      "direction": "E-W",
+      "road_name": "I-495/Queens Midtown Tunnel/2nd Ave",
+      "length": 43.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 403,
+      "link_index": 1
+    },
+    {
+      "location": [
+        40.74597,
+        -73.97469
+      ],
+      "congestion_score": 125.0,
+      "jam_factor": 9.4,
+      "speed": 0.8333334,
+      "speed_ratio": 0.1764705994463666,
+      "vehicle_count": 6,
+      "functional_class": 5,
+      "direction": "SE-NW",
+      "road_name": "I-495/Queens Midtown Tunnel/2nd Ave",
+      "length": 44.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 403,
+      "link_index": 5
+    },
+    {
+      "location": [
+        40.76026,
+        -74.00333
+      ],
+      "congestion_score": 125.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 0,
+      "functional_class": 5,
+      "direction": "NW-SE",
+      "road_name": "Lincoln Tunnel East",
+      "length": 4.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": true,
+      "result_index": 479,
+      "link_index": 9
+    },
+    {
+      "location": [
+        40.71643,
+        -73.98111
+      ],
+      "congestion_score": 125.0,
+      "jam_factor": 8.1,
+      "speed": 5.8333335,
+      "speed_ratio": 0.41176470795847747,
+      "vehicle_count": 19,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Delancey St",
+      "length": 193.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": false,
+      "result_index": 620,
+      "link_index": 15
+    },
+    {
+      "location": [
+        40.76494,
+        -73.98655
+      ],
+      "congestion_score": 124.0,
+      "jam_factor": 8.1,
+      "speed": 1.6666667,
+      "speed_ratio": 0.4285714248979593,
+      "vehicle_count": 18,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Unknown Road",
+      "length": 179.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": false,
+      "result_index": 183,
+      "link_index": 16
+    },
+    {
+      "location": [
+        40.71328,
+        -73.97074
+      ],
+      "congestion_score": 124.0,
+      "jam_factor": 8.1,
+      "speed": 5.8333335,
+      "speed_ratio": 0.41176470795847747,
+      "vehicle_count": 18,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Delancey St",
+      "length": 181.0,
+      "node_type": "entry",
+      "is_tunnel_or_bridge": false,
+      "result_index": 620,
+      "link_index": 7
+    }
+  ],
+  "top_exit_nodes": [
+    {
+      "location": [
+        40.74604,
+        -73.96565
+      ],
+      "congestion_score": 258.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 133,
+      "functional_class": 5,
+      "direction": "NW-SE",
+      "road_name": "Queens Midtown Tunnel (West)",
+      "length": 802.0,
+      "node_type": "exit",
+      "is_tunnel_or_bridge": true,
+      "result_index": 723,
+      "link_index": 2
+    },
+    {
+      "location": [
+        40.74158,
+        -73.95604
+      ],
+      "congestion_score": 202.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 77,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "Queens Midtown Tunnel (West)",
+      "length": 465.0,
+      "node_type": "exit",
+      "is_tunnel_or_bridge": true,
+      "result_index": 723,
+      "link_index": 0
+    },
+    {
+      "location": [
+        40.74725,
+        -73.97093
+      ],
+      "congestion_score": 173.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 48,
+      "functional_class": 5,
+      "direction": "SW-NE",
+      "road_name": "Queens Midtown Tunnel (West)",
+      "length": 292.0,
+      "node_type": "exit",
+      "is_tunnel_or_bridge": true,
+      "result_index": 723,
+      "link_index": 9
+    },
+    {
+      "location": [
+        40.75449,
+        -73.94913
+      ],
+      "congestion_score": 167.0,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "speed_ratio": 0.0,
+      "vehicle_count": 42,
+      "functional_class": 5,
+      "direction": "W-E",
+      "road_name": "58th St",
+      "length": 257.0,
+      "node_type": "exit",
+      "is_tunnel_or_bridge": false,
+      "result_index": 125,
+      "link_index": 5
+    }
+  ]
+}

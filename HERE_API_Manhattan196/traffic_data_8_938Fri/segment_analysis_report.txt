@@ -1,0 +1,48 @@
+HERE API Segment Analysis Report
+===============================
+
+Analysis time: 2025-06-22 15:14:30
+Realtime file: realtime_20250404_080241.json
+Edge mapping file: sumo_edge_mapping_20250404_090215.json
+
+Realtime Segments Analysis:
+--------------------------
+Total segments: 991
+Segments with ID field: 0
+
+Sample realtime segments (first 5):
+  Index 0: ID=None, Keys=['location', 'currentFlow']
+    Link ID: None
+  Index 1: ID=None, Keys=['location', 'currentFlow']
+    Link ID: None
+  Index 2: ID=None, Keys=['location', 'currentFlow']
+    Link ID: None
+  Index 3: ID=None, Keys=['location', 'currentFlow']
+    Link ID: None
+  Index 4: ID=None, Keys=['location', 'currentFlow']
+    Link ID: None
+
+
+Edge Mapping Segments Analysis:
+-------------------------------
+Total segments: 5708
+Segments with SUMO edges: 0
+
+Sample mapping segments (first 5):
+  Index 0: ID=segment_0_0, Road=Bowery, SUMO edges=[]
+  Index 1: ID=segment_1_0, Road=Bleecker St/Downing St/Minetta St, SUMO edges=[]
+  Index 2: ID=segment_2_0, Road=Gansevoort St, SUMO edges=[]
+  Index 3: ID=segment_3_0, Road=RT-9A/West Side Hwy, SUMO edges=[]
+  Index 4: ID=segment_4_0, Road=RT-9A/West Side Hwy/West St, SUMO edges=[]
+
+
+Segment ID Mapping:
+------------------
+Total mappings: 991
+
+Sample ID mappings (first 5):
+  realtime_0 -> segment_0_0
+  realtime_1 -> segment_1_0
+  realtime_2 -> segment_2_0
+  realtime_3 -> segment_3_0
+  realtime_4 -> segment_4_0

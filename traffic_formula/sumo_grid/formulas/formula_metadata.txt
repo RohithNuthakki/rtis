@@ -1,0 +1,56 @@
+Formula: sub(div(global_speed_per_meter, speed_time_efficiency), local_to_global_ratio)
+Test RMSE: 2.1612
+Test R²: 0.0937
+
+Feature names:
+X0: chosen_phase
+X1: transition_needed
+X2: avg_incoming_speed
+X3: avg_outgoing_speed
+X4: local_avg_speed
+X5: global_avg_speed
+X6: incoming_length
+X7: outgoing_length
+X8: total_segment_length
+X9: local_to_global_ratio
+X10: incoming_to_local_ratio
+X11: outgoing_to_local_ratio
+X12: incoming_to_outgoing_ratio
+X13: local_global_diff
+X14: local_global_sum
+X15: local_global_product
+X16: incoming_outgoing_diff
+X17: incoming_local_diff
+X18: outgoing_local_diff
+X19: incoming_outgoing_sum
+X20: incoming_local_sum
+X21: outgoing_local_sum
+X22: incoming_outgoing_product
+X23: incoming_local_product
+X24: outgoing_local_product
+X25: incoming_speed_per_meter
+X26: outgoing_speed_per_meter
+X27: local_speed_per_meter
+X28: global_speed_per_meter
+X29: incoming_outgoing_speed_per_meter_diff
+X30: local_global_speed_per_meter_diff
+X31: incoming_local_speed_per_meter_diff
+X32: outgoing_local_speed_per_meter_diff
+X33: incoming_outgoing_speed_per_meter_sum
+X34: local_global_speed_per_meter_sum
+X35: all_speed_per_meter_sum
+X36: incoming_outgoing_speed_per_meter_product
+X37: local_global_speed_per_meter_product
+X38: incoming_travel_time
+X39: outgoing_travel_time
+X40: total_travel_time
+X41: incoming_outgoing_travel_time_diff
+X42: incoming_total_travel_time_ratio
+X43: outgoing_total_travel_time_ratio
+X44: travel_time_product
+X45: speed_time_balance
+X46: speed_time_efficiency
+X47: phase_is_straight
+X48: phase_is_left
+X49: phase_is_east_west
+X50: phase_is_north_south

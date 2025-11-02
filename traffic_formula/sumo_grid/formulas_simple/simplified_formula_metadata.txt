@@ -1,0 +1,15 @@
+Simplified Formula: mul(mul(max_pressure, sub(incoming_outgoing_ratio, avg_outgoing_speed)), div(avg_incoming_speed, incoming_outgoing_diff))
+Test RMSE: 2.2081
+Test R²: 0.0539
+
+Feature names:
+X0: chosen_phase
+X1: transition_needed
+X2: avg_incoming_speed
+X3: avg_outgoing_speed
+X4: incoming_outgoing_diff
+X5: incoming_outgoing_ratio
+X6: max_pressure
+
+Comparison with Max Pressure:
+Max Pressure formula: (incoming_speed / incoming_length) - (outgoing_speed / outgoing_length)

@@ -1,0 +1,8692 @@
+{
+  "boundary_segments": 723,
+  "potential_inflows": 356,
+  "potential_outflows": 367,
+  "major_inflows": [],
+  "major_outflows": [],
+  "vehicle_threshold_counts": {
+    "threshold_0": 258,
+    "threshold_10": 5,
+    "threshold_50": 0,
+    "threshold_100": 0,
+    "threshold_200": 0
+  },
+  "all_boundary_points": [
+    {
+      "type": "inflow",
+      "location": [
+        40.7599,
+        -73.98041
+      ],
+      "vehicle_count": 4,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 8.3,
+      "length": 45.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75969,
+        -73.97996
+      ],
+      "vehicle_count": 11,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 8.3,
+      "length": 101.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75908,
+        -73.97849
+      ],
+      "vehicle_count": 4,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 8.3,
+      "length": 41.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75908,
+        -73.97849
+      ],
+      "vehicle_count": 2,
+      "direction": "SE-NW",
+      "boundary_type": "north_start",
+      "jam_factor": 8.3,
+      "length": 20.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75889,
+        -73.97808
+      ],
+      "vehicle_count": 2,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 8.3,
+      "length": 21.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75854,
+        -73.9772
+      ],
+      "vehicle_count": 9,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 8.3,
+      "length": 84.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71247,
+        -73.97777
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "south_end",
+      "jam_factor": 0.0,
+      "length": 189.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75941,
+        -73.96067
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.9,
+      "length": 107.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75893,
+        -73.95953
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.9,
+      "length": 111.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7587,
+        -73.95904
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.9,
+      "length": 49.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75858,
+        -73.95877
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 0.9,
+      "length": 27.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75849,
+        -73.95855
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 0.9,
+      "length": 21.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75724,
+        -73.95567
+      ],
+      "vehicle_count": 4,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 0.9,
+      "length": 282.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75963,
+        -73.99548
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 151.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71306,
+        -74.01409
+      ],
+      "vehicle_count": 2,
+      "direction": "S-N",
+      "boundary_type": "south_end",
+      "jam_factor": 3.1,
+      "length": 78.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71271,
+        -74.01417
+      ],
+      "vehicle_count": 1,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 3.1,
+      "length": 39.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71108,
+        -74.01465
+      ],
+      "vehicle_count": 5,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 3.1,
+      "length": 186.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7591,
+        -73.97468
+      ],
+      "vehicle_count": 2,
+      "direction": "NE-SW",
+      "boundary_type": "north_end",
+      "jam_factor": 3.7,
+      "length": 78.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75974,
+        -73.97422
+      ],
+      "vehicle_count": 2,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 81.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76036,
+        -73.97377
+      ],
+      "vehicle_count": 2,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 79.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76099,
+        -73.9733
+      ],
+      "vehicle_count": 2,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 81.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71305,
+        -73.99402
+      ],
+      "vehicle_count": 2,
+      "direction": "SE-NW",
+      "boundary_type": "south_end",
+      "jam_factor": 1.2,
+      "length": 143.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71283,
+        -73.9939
+      ],
+      "vehicle_count": 0,
+      "direction": "SE-NW",
+      "boundary_type": "south_start",
+      "jam_factor": 1.2,
+      "length": 27.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.70947,
+        -73.99201
+      ],
+      "vehicle_count": 6,
+      "direction": "SE-NW",
+      "boundary_type": "south_start",
+      "jam_factor": 1.2,
+      "length": 407.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75875,
+        -73.99543
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_end",
+      "jam_factor": 1.4,
+      "length": 99.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75897,
+        -73.99597
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 1.4,
+      "length": 52.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75873,
+        -73.96381
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.6,
+      "length": 64.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75842,
+        -73.96306
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.6,
+      "length": 73.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75893,
+        -73.99969
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_end",
+      "jam_factor": 0.2,
+      "length": 131.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75994,
+        -73.95879
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.2,
+      "length": 14.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75983,
+        -73.95887
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.2,
+      "length": 14.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75972,
+        -73.95895
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.2,
+      "length": 28.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7595,
+        -73.95911
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.2,
+      "length": 14.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75939,
+        -73.95918
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.2,
+      "length": 14.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75874,
+        -73.99875
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_end",
+      "jam_factor": 2.6,
+      "length": 10.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75885,
+        -73.99913
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 2.6,
+      "length": 35.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75894,
+        -73.96847
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "north_end",
+      "jam_factor": 2.2,
+      "length": 79.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75912,
+        -73.96836
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 2.2,
+      "length": 22.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75959,
+        -73.96801
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 2.2,
+      "length": 60.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76028,
+        -73.96751
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 2.2,
+      "length": 88.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75902,
+        -74.02714
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "north_end",
+      "jam_factor": 0.0,
+      "length": 59.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75941,
+        -74.02702
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 45.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75961,
+        -74.02696
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 23.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75989,
+        -74.02688
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 32.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76033,
+        -74.02675
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 50.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76056,
+        -74.02668
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 26.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76077,
+        -74.02662
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 24.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76077,
+        -74.02662
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "north_end",
+      "jam_factor": 0.0,
+      "length": 24.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76056,
+        -74.02668
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 26.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76033,
+        -74.02675
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 50.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75989,
+        -74.02688
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 32.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75961,
+        -74.02696
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 23.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75941,
+        -74.02702
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 45.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75902,
+        -74.02714
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 59.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71081,
+        -73.96852
+      ],
+      "vehicle_count": 1,
+      "direction": "N-S",
+      "boundary_type": "south_end",
+      "jam_factor": 1.3,
+      "length": 108.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71173,
+        -73.96812
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 1.3,
+      "length": 21.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71191,
+        -73.96804
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 1.3,
+      "length": 38.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71223,
+        -73.96789
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 1.3,
+      "length": 7.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71229,
+        -73.96786
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 1.3,
+      "length": 12.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71239,
+        -73.96781
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 1.3,
+      "length": 25.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7126,
+        -73.96772
+      ],
+      "vehicle_count": 1,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 1.3,
+      "length": 80.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75963,
+        -73.99548
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 151.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75883,
+        -73.99977
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_end",
+      "jam_factor": 0.0,
+      "length": 173.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75908,
+        -74.0005
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 68.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76015,
+        -74.00307
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 249.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76021,
+        -74.0032
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 13.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76024,
+        -74.00329
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 8.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76026,
+        -74.00333
+      ],
+      "vehicle_count": 0,
+      "direction": "NW-SE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 4.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76031,
+        -74.00344
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 11.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76037,
+        -74.00359
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 14.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7604,
+        -74.00366
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 7.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71312,
+        -74.00404
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.5,
+      "length": 69.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71186,
+        -74.00392
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 2.3,
+      "length": 10.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71184,
+        -74.00399
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 2.3,
+      "length": 6.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71182,
+        -74.00415
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 2.3,
+      "length": 14.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71182,
+        -74.00415
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 2.3,
+      "length": 121.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71199,
+        -74.00599
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 2.3,
+      "length": 52.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71312,
+        -74.00404
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "south_end",
+      "jam_factor": 0.0,
+      "length": 41.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75788,
+        -73.95929
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "east_end",
+      "jam_factor": 1.9,
+      "length": 47.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75832,
+        -73.95895
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "east_start",
+      "jam_factor": 1.9,
+      "length": 57.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75858,
+        -73.95877
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "east_start",
+      "jam_factor": 1.9,
+      "length": 33.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75863,
+        -73.95872
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "east_start",
+      "jam_factor": 1.9,
+      "length": 7.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75871,
+        -73.95865
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "east_start",
+      "jam_factor": 1.9,
+      "length": 11.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75877,
+        -73.95861
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "east_start",
+      "jam_factor": 1.9,
+      "length": 7.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75894,
+        -73.95849
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.9,
+      "length": 21.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75914,
+        -73.95836
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.9,
+      "length": 25.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7603,
+        -73.96361
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 65.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76041,
+        -73.96352
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 14.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76039,
+        -73.96286
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 62.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76012,
+        -73.96221
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 63.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75999,
+        -73.9619
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 30.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75992,
+        -73.96174
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 16.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75973,
+        -73.96128
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 45.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75956,
+        -73.96081
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 44.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75926,
+        -73.96014
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 66.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75898,
+        -73.95949
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 64.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 72.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75863,
+        -73.95872
+      ],
+      "vehicle_count": 0,
+      "direction": "SE-NW",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 4.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75854,
+        -73.9585
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 21.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75827,
+        -73.95787
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 62.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75796,
+        -73.95709
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 75.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75892,
+        -73.97258
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_end",
+      "jam_factor": 2.3,
+      "length": 30.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75907,
+        -73.97247
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 2.3,
+      "length": 19.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75964,
+        -73.97205
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 2.3,
+      "length": 73.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76029,
+        -73.97158
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 2.3,
+      "length": 83.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76089,
+        -73.97114
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 2.3,
+      "length": 77.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71312,
+        -74.00404
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_end",
+      "jam_factor": 0.0,
+      "length": 69.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76085,
+        -74.00228
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_end",
+      "jam_factor": 3.7,
+      "length": 29.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76062,
+        -74.00244
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 49.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76023,
+        -74.00272
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 7.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76018,
+        -74.00276
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 15.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76006,
+        -74.00285
+      ],
+      "vehicle_count": 3,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 98.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75929,
+        -74.00342
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 19.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75914,
+        -74.00352
+      ],
+      "vehicle_count": 3,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 97.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73538,
+        -73.95849
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 19.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73483,
+        -73.95841
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 62.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73412,
+        -73.95829
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 80.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73341,
+        -73.95817
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 80.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7327,
+        -73.95805
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 80.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73257,
+        -73.95803
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 15.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73199,
+        -73.95794
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 65.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73128,
+        -73.95782
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 80.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73058,
+        -73.95771
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 78.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.72987,
+        -73.95758
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 80.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76097,
+        -73.97133
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_end",
+      "jam_factor": 1.7,
+      "length": 77.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76036,
+        -73.97177
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 1.7,
+      "length": 82.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75972,
+        -73.97225
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 1.7,
+      "length": 73.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75915,
+        -73.97267
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 1.7,
+      "length": 88.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.72987,
+        -73.95758
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 80.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.73058,
+        -73.95771
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 78.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.73128,
+        -73.95782
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 80.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.73199,
+        -73.95794
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 65.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.73257,
+        -73.95803
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 15.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7327,
+        -73.95805
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 80.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.73341,
+        -73.95817
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 80.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.73412,
+        -73.95829
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 80.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.73483,
+        -73.95841
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 62.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.73538,
+        -73.95849
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 19.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.73555,
+        -73.95852
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 48.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.73598,
+        -73.95861
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 24.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75966,
+        -73.96403
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.0,
+      "length": 82.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75978,
+        -73.96395
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.0,
+      "length": 15.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7595,
+        -73.95911
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 2.2,
+      "length": 14.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75972,
+        -73.95895
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 2.2,
+      "length": 28.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75983,
+        -73.95887
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 2.2,
+      "length": 14.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75994,
+        -73.95879
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 2.2,
+      "length": 14.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76082,
+        -73.99832
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_end",
+      "jam_factor": 0.8,
+      "length": 42.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76049,
+        -73.99855
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.8,
+      "length": 43.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76015,
+        -73.99879
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.8,
+      "length": 32.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7599,
+        -73.99898
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.8,
+      "length": 43.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75956,
+        -73.99923
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.8,
+      "length": 75.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75897,
+        -73.99966
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.8,
+      "length": 5.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75796,
+        -73.95709
+      ],
+      "vehicle_count": 12,
+      "direction": "W-E",
+      "boundary_type": "east_end",
+      "jam_factor": 10.0,
+      "length": 75.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75827,
+        -73.95787
+      ],
+      "vehicle_count": 10,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "jam_factor": 10.0,
+      "length": 62.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75854,
+        -73.9585
+      ],
+      "vehicle_count": 3,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "jam_factor": 10.0,
+      "length": 21.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75863,
+        -73.95872
+      ],
+      "vehicle_count": 0,
+      "direction": "NW-SE",
+      "boundary_type": "east_start",
+      "jam_factor": 10.0,
+      "length": 4.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "vehicle_count": 11,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "jam_factor": 10.0,
+      "length": 72.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75898,
+        -73.95949
+      ],
+      "vehicle_count": 10,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 10.0,
+      "length": 64.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75926,
+        -73.96014
+      ],
+      "vehicle_count": 10,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 10.0,
+      "length": 66.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75956,
+        -73.96081
+      ],
+      "vehicle_count": 7,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 10.0,
+      "length": 44.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75973,
+        -73.96128
+      ],
+      "vehicle_count": 7,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 10.0,
+      "length": 45.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75992,
+        -73.96174
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 10.0,
+      "length": 16.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75999,
+        -73.9619
+      ],
+      "vehicle_count": 4,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 10.0,
+      "length": 30.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76012,
+        -73.96221
+      ],
+      "vehicle_count": 10,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 10.0,
+      "length": 63.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76039,
+        -73.96286
+      ],
+      "vehicle_count": 10,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 10.0,
+      "length": 62.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76041,
+        -73.96352
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 10.0,
+      "length": 14.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7603,
+        -73.96361
+      ],
+      "vehicle_count": 10,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 10.0,
+      "length": 65.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75978,
+        -73.96395
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 10.0,
+      "length": 15.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75966,
+        -73.96403
+      ],
+      "vehicle_count": 13,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 10.0,
+      "length": 82.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75916,
+        -73.97675
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 49.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75937,
+        -73.97726
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 30.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75949,
+        -73.97757
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 46.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76053,
+        -73.97994
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 187.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76096,
+        -73.96911
+      ],
+      "vehicle_count": 9,
+      "direction": "SW-NE",
+      "boundary_type": "north_end",
+      "jam_factor": 8.2,
+      "length": 91.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76025,
+        -73.96963
+      ],
+      "vehicle_count": 8,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 8.2,
+      "length": 79.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75963,
+        -73.97008
+      ],
+      "vehicle_count": 8,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 8.2,
+      "length": 80.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.759,
+        -73.97054
+      ],
+      "vehicle_count": 8,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 8.2,
+      "length": 79.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76125,
+        -74.03327
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "west_start",
+      "jam_factor": 0.1,
+      "length": 78.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76064,
+        -74.03372
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.1,
+      "length": 76.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76002,
+        -74.0341
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.1,
+      "length": 77.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7594,
+        -74.0345
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.1,
+      "length": 74.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7588,
+        -74.03488
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.1,
+      "length": 37.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71115,
+        -73.98671
+      ],
+      "vehicle_count": 7,
+      "direction": "N-S",
+      "boundary_type": "south_end",
+      "jam_factor": 10.0,
+      "length": 44.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71154,
+        -73.98674
+      ],
+      "vehicle_count": 10,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 10.0,
+      "length": 63.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7121,
+        -73.98681
+      ],
+      "vehicle_count": 4,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 10.0,
+      "length": 28.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71235,
+        -73.98685
+      ],
+      "vehicle_count": 7,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 10.0,
+      "length": 46.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71276,
+        -73.98691
+      ],
+      "vehicle_count": 2,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 10.0,
+      "length": 16.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7129,
+        -73.98693
+      ],
+      "vehicle_count": 1,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 10.0,
+      "length": 11.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.713,
+        -73.98695
+      ],
+      "vehicle_count": 11,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 10.0,
+      "length": 72.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.759,
+        -73.96447
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.1,
+      "length": 31.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75914,
+        -73.96479
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.1,
+      "length": 47.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76104,
+        -73.97537
+      ],
+      "vehicle_count": 5,
+      "direction": "SW-NE",
+      "boundary_type": "north_end",
+      "jam_factor": 8.9,
+      "length": 42.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76071,
+        -73.97561
+      ],
+      "vehicle_count": 4,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 8.9,
+      "length": 38.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76041,
+        -73.97583
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 8.9,
+      "length": 14.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7603,
+        -73.97591
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 8.9,
+      "length": 15.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76018,
+        -73.976
+      ],
+      "vehicle_count": 6,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 8.9,
+      "length": 50.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75979,
+        -73.97629
+      ],
+      "vehicle_count": 10,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 8.9,
+      "length": 80.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75916,
+        -73.97675
+      ],
+      "vehicle_count": 3,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 8.9,
+      "length": 28.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75894,
+        -73.97691
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 8.9,
+      "length": 19.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75879,
+        -73.97702
+      ],
+      "vehicle_count": 4,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 8.9,
+      "length": 32.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76061,
+        -73.96435
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.6,
+      "length": 41.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76029,
+        -73.96459
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.6,
+      "length": 40.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75998,
+        -73.96482
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.6,
+      "length": 28.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75976,
+        -73.96498
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.6,
+      "length": 52.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75883,
+        -73.99607
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "north_end",
+      "jam_factor": 2.6,
+      "length": 61.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75897,
+        -73.99597
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 2.6,
+      "length": 18.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71069,
+        -73.99413
+      ],
+      "vehicle_count": 1,
+      "direction": "N-S",
+      "boundary_type": "south_end",
+      "jam_factor": 0.9,
+      "length": 101.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71159,
+        -73.99426
+      ],
+      "vehicle_count": 1,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 0.9,
+      "length": 80.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71231,
+        -73.99436
+      ],
+      "vehicle_count": 1,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 0.9,
+      "length": 79.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71302,
+        -73.99446
+      ],
+      "vehicle_count": 1,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 0.9,
+      "length": 73.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.72932,
+        -74.0331
+      ],
+      "vehicle_count": 3,
+      "direction": "W-E",
+      "boundary_type": "west_end",
+      "jam_factor": 3.4,
+      "length": 114.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.72968,
+        -74.0342
+      ],
+      "vehicle_count": 3,
+      "direction": "W-E",
+      "boundary_type": "west_start",
+      "jam_factor": 3.4,
+      "length": 102.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.72996,
+        -74.03509
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "west_start",
+      "jam_factor": 3.4,
+      "length": 82.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7128,
+        -73.99712
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "south_end",
+      "jam_factor": 0.0,
+      "length": 44.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71254,
+        -73.99705
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 30.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71207,
+        -73.99694
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 53.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71178,
+        -73.99689
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 33.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71136,
+        -73.99678
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 48.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71071,
+        -73.99661
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 74.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71287,
+        -73.99861
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_end",
+      "jam_factor": 0.6,
+      "length": 54.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7126,
+        -73.99889
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.6,
+      "length": 38.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71225,
+        -73.99925
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.6,
+      "length": 50.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71201,
+        -73.99949
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.6,
+      "length": 34.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71179,
+        -73.99971
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.6,
+      "length": 31.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71158,
+        -73.99991
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.6,
+      "length": 29.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71127,
+        -74.00022
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.6,
+      "length": 43.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71107,
+        -74.00042
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.6,
+      "length": 28.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75909,
+        -73.9805
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "north_end",
+      "jam_factor": 2.4,
+      "length": 116.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75927,
+        -73.98087
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 2.4,
+      "length": 37.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75956,
+        -73.99923
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.8,
+      "length": 33.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75941,
+        -73.99889
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.8,
+      "length": 27.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75929,
+        -73.99862
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.8,
+      "length": 60.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75901,
+        -73.99802
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.8,
+      "length": 39.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75883,
+        -73.99763
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.8,
+      "length": 17.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71312,
+        -74.00404
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 41.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71134,
+        -73.96142
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 144.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71189,
+        -73.96295
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 145.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71245,
+        -73.96449
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 119.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71285,
+        -73.96579
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 106.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71316,
+        -73.96697
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 41.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71181,
+        -73.97832
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 87.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71164,
+        -73.97854
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 27.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71154,
+        -73.97868
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 16.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71098,
+        -73.9801
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 137.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71014,
+        -73.95899
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_end",
+      "jam_factor": 0.0,
+      "length": 78.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71017,
+        -73.95867
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 27.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71019,
+        -73.95841
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 22.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71023,
+        -73.958
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 35.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71026,
+        -73.9577
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 26.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71027,
+        -73.95758
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 10.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7104,
+        -73.95689
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 61.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71077,
+        -73.95603
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "south_end",
+      "jam_factor": 0.0,
+      "length": 146.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71182,
+        -73.95504
+      ],
+      "vehicle_count": 2,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 234.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.74539,
+        -74.03224
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "west_end",
+      "jam_factor": 0.3,
+      "length": 47.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.74498,
+        -74.03238
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "west_start",
+      "jam_factor": 0.3,
+      "length": 40.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.74463,
+        -74.03248
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "west_start",
+      "jam_factor": 0.3,
+      "length": 60.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.74411,
+        -74.03265
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "west_start",
+      "jam_factor": 0.3,
+      "length": 61.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.74358,
+        -74.03282
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "west_start",
+      "jam_factor": 0.3,
+      "length": 83.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.74283,
+        -74.03306
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "west_start",
+      "jam_factor": 0.3,
+      "length": 2.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.74283,
+        -74.03306
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "west_start",
+      "jam_factor": 0.3,
+      "length": 46.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7419,
+        -74.03334
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "west_start",
+      "jam_factor": 0.3,
+      "length": 60.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7418,
+        -74.03337
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "west_start",
+      "jam_factor": 0.3,
+      "length": 11.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.74165,
+        -74.03342
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "west_start",
+      "jam_factor": 0.3,
+      "length": 17.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.74062,
+        -74.03372
+      ],
+      "vehicle_count": 1,
+      "direction": "S-N",
+      "boundary_type": "west_start",
+      "jam_factor": 0.3,
+      "length": 117.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73939,
+        -74.03411
+      ],
+      "vehicle_count": 1,
+      "direction": "S-N",
+      "boundary_type": "west_start",
+      "jam_factor": 0.3,
+      "length": 141.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7381,
+        -74.03449
+      ],
+      "vehicle_count": 1,
+      "direction": "S-N",
+      "boundary_type": "west_start",
+      "jam_factor": 0.3,
+      "length": 147.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71102,
+        -74.00292
+      ],
+      "vehicle_count": 0,
+      "direction": "NW-SE",
+      "boundary_type": "south_end",
+      "jam_factor": 0.0,
+      "length": 43.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7113,
+        -74.00327
+      ],
+      "vehicle_count": 0,
+      "direction": "NW-SE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 27.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71147,
+        -74.00349
+      ],
+      "vehicle_count": 0,
+      "direction": "NW-SE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 40.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71173,
+        -74.00382
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 11.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71178,
+        -74.00393
+      ],
+      "vehicle_count": 0,
+      "direction": "NW-SE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 8.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71184,
+        -74.00399
+      ],
+      "vehicle_count": 0,
+      "direction": "NW-SE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 31.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71205,
+        -74.00423
+      ],
+      "vehicle_count": 0,
+      "direction": "NW-SE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 18.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71217,
+        -74.00438
+      ],
+      "vehicle_count": 0,
+      "direction": "NW-SE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 28.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7124,
+        -74.0045
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 38.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71273,
+        -74.00441
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 15.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76229,
+        -74.00928
+      ],
+      "vehicle_count": 5,
+      "direction": "E-W",
+      "boundary_type": "north_end",
+      "jam_factor": 0.3,
+      "length": 520.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75999,
+        -74.00397
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.3,
+      "length": 44.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7598,
+        -74.00352
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.3,
+      "length": 14.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75974,
+        -74.00338
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.3,
+      "length": 170.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.759,
+        -74.00163
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.3,
+      "length": 26.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7589,
+        -74.00136
+      ],
+      "vehicle_count": 4,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.3,
+      "length": 414.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71071,
+        -73.9847
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_end",
+      "jam_factor": 0.4,
+      "length": 59.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71124,
+        -73.98478
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 0.4,
+      "length": 53.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71171,
+        -73.98487
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 0.4,
+      "length": 63.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71227,
+        -73.98496
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 0.4,
+      "length": 8.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71234,
+        -73.98497
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 0.4,
+      "length": 20.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71252,
+        -73.98499
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 0.4,
+      "length": 62.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71308,
+        -73.98505
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 0.4,
+      "length": 19.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7606,
+        -74.00178
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 170.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75988,
+        -74.00002
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 40.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75971,
+        -73.9996
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 36.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71304,
+        -73.99263
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 1.8,
+      "length": 15.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71245,
+        -73.99254
+      ],
+      "vehicle_count": 1,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 1.8,
+      "length": 66.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71179,
+        -73.99244
+      ],
+      "vehicle_count": 1,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 1.8,
+      "length": 74.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71176,
+        -73.99244
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 1.8,
+      "length": 3.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7109,
+        -73.99219
+      ],
+      "vehicle_count": 1,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 1.8,
+      "length": 99.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75927,
+        -73.99707
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.2,
+      "length": 48.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75896,
+        -73.99746
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.2,
+      "length": 20.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75885,
+        -73.99913
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 48.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76243,
+        -74.00851
+      ],
+      "vehicle_count": 4,
+      "direction": "E-W",
+      "boundary_type": "north_end",
+      "jam_factor": 0.0,
+      "length": 471.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7604,
+        -74.00366
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 7.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76037,
+        -74.00359
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 14.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76031,
+        -74.00344
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 11.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76026,
+        -74.00333
+      ],
+      "vehicle_count": 0,
+      "direction": "SE-NW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 4.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76024,
+        -74.00329
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 8.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76021,
+        -74.0032
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 13.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76015,
+        -74.00307
+      ],
+      "vehicle_count": 2,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 249.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75908,
+        -74.0005
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 68.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7131,
+        -73.97081
+      ],
+      "vehicle_count": 5,
+      "direction": "E-W",
+      "boundary_type": "south_end",
+      "jam_factor": 0.8,
+      "length": 401.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71297,
+        -73.97038
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 0.8,
+      "length": 39.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71249,
+        -73.96882
+      ],
+      "vehicle_count": 2,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 0.8,
+      "length": 143.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71197,
+        -73.96708
+      ],
+      "vehicle_count": 2,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 0.8,
+      "length": 159.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71174,
+        -73.96629
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 0.8,
+      "length": 72.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71163,
+        -73.96608
+      ],
+      "vehicle_count": 0,
+      "direction": "SE-NW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.8,
+      "length": 22.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71317,
+        -73.99265
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "south_end",
+      "jam_factor": 0.0,
+      "length": 36.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75984,
+        -73.98414
+      ],
+      "vehicle_count": 2,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 63.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75956,
+        -73.9835
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 43.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75937,
+        -73.98306
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 57.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75912,
+        -73.98247
+      ],
+      "vehicle_count": 2,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 75.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7588,
+        -73.9817
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 36.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76009,
+        -73.96112
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 36.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75994,
+        -73.96076
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 35.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75951,
+        -73.95983
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 93.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7594,
+        -73.95957
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 25.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75928,
+        -73.95926
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 30.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75935,
+        -73.96527
+      ],
+      "vehicle_count": 2,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.3,
+      "length": 217.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75832,
+        -73.95895
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 57.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75788,
+        -73.95929
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 18.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75929,
+        -73.99862
+      ],
+      "vehicle_count": 1,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 119.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75899,
+        -73.96245
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_end",
+      "jam_factor": 1.2,
+      "length": 43.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75936,
+        -73.96218
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.2,
+      "length": 47.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.2,
+      "length": 33.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.72252,
+        -73.95935
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "east_end",
+      "jam_factor": 2.2,
+      "length": 26.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7229,
+        -73.95894
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "east_start",
+      "jam_factor": 2.2,
+      "length": 55.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.72307,
+        -73.95876
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "east_start",
+      "jam_factor": 2.2,
+      "length": 24.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.72363,
+        -73.95816
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "east_start",
+      "jam_factor": 2.2,
+      "length": 81.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7237,
+        -73.95808
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "east_start",
+      "jam_factor": 2.2,
+      "length": 10.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.72405,
+        -73.95777
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "east_start",
+      "jam_factor": 2.2,
+      "length": 47.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.72405,
+        -73.95777
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "east_start",
+      "jam_factor": 2.2,
+      "length": 24.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73598,
+        -73.95861
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "east_start",
+      "jam_factor": 2.4,
+      "length": 24.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73555,
+        -73.95852
+      ],
+      "vehicle_count": 1,
+      "direction": "S-N",
+      "boundary_type": "east_start",
+      "jam_factor": 2.4,
+      "length": 48.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71311,
+        -73.97757
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_end",
+      "jam_factor": 0.0,
+      "length": 14.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71247,
+        -73.97777
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 73.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7121,
+        -74.00841
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 131.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7143,
+        -73.95684
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "east_end",
+      "jam_factor": 0.0,
+      "length": 64.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71449,
+        -73.95755
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 34.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71459,
+        -73.95793
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 24.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71466,
+        -73.9582
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 57.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71482,
+        -73.95883
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 57.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75896,
+        -73.95857
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.0,
+      "length": 20.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75963,
+        -73.95815
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.0,
+      "length": 83.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75963,
+        -73.95815
+      ],
+      "vehicle_count": 0,
+      "direction": "NW-SE",
+      "boundary_type": "north_start",
+      "jam_factor": 1.0,
+      "length": 32.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75979,
+        -73.95846
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 1.0,
+      "length": 33.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75972,
+        -73.96223
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.4,
+      "length": 38.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75988,
+        -73.96262
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.4,
+      "length": 47.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73584,
+        -74.03284
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "west_end",
+      "jam_factor": 0.0,
+      "length": 49.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7359,
+        -74.03321
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 32.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73607,
+        -74.03416
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 83.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73616,
+        -74.03465
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 43.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76082,
+        -73.99832
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "north_end",
+      "jam_factor": 1.3,
+      "length": 62.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76055,
+        -73.99768
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 1.3,
+      "length": 29.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76043,
+        -73.99738
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 1.3,
+      "length": 24.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76033,
+        -73.99713
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 1.3,
+      "length": 120.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75981,
+        -73.99589
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 1.3,
+      "length": 40.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71181,
+        -74.00388
+      ],
+      "vehicle_count": 0,
+      "direction": "NW-SE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 7.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71186,
+        -74.00392
+      ],
+      "vehicle_count": 0,
+      "direction": "NW-SE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 41.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71218,
+        -74.00415
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 22.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71205,
+        -74.00364
+      ],
+      "vehicle_count": 0,
+      "direction": "SE-NW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 81.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71201,
+        -74.00369
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 6.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71192,
+        -74.00383
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 16.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75883,
+        -73.99977
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.2,
+      "length": 173.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75939,
+        -73.95918
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 14.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7603,
+        -73.99498
+      ],
+      "vehicle_count": 2,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 3.2,
+      "length": 86.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76093,
+        -73.99452
+      ],
+      "vehicle_count": 2,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 3.2,
+      "length": 80.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75945,
+        -73.99561
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 3.2,
+      "length": 62.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75963,
+        -73.99548
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 3.2,
+      "length": 23.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75971,
+        -73.9996
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 36.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75988,
+        -74.00002
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 40.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7606,
+        -74.00178
+      ],
+      "vehicle_count": 6,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 170.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76072,
+        -74.00207
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 28.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71286,
+        -74.00435
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 39.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75908,
+        -73.99623
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 2.4,
+      "length": 25.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75929,
+        -73.99672
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 2.4,
+      "length": 48.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75938,
+        -73.99694
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 2.4,
+      "length": 21.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71286,
+        -74.00435
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 39.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7127,
+        -74.00452
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 23.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71248,
+        -74.00481
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 35.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71241,
+        -74.00493
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 13.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7122,
+        -74.00545
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 50.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75876,
+        -73.99745
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 1.2,
+      "length": 100.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75893,
+        -73.99969
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.2,
+      "length": 29.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75842,
+        -73.96306
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_end",
+      "jam_factor": 0.0,
+      "length": 73.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75873,
+        -73.96381
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 64.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76015,
+        -73.96218
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 63.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76002,
+        -73.96188
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 29.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75956,
+        -73.96081
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 105.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75926,
+        -73.96014
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 66.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75898,
+        -73.95949
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 64.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 72.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75863,
+        -73.95872
+      ],
+      "vehicle_count": 0,
+      "direction": "SE-NW",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 4.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75854,
+        -73.9585
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 21.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75827,
+        -73.95787
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 62.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75796,
+        -73.95709
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 75.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76078,
+        -73.98447
+      ],
+      "vehicle_count": 3,
+      "direction": "SW-NE",
+      "boundary_type": "north_end",
+      "jam_factor": 4.7,
+      "length": 80.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76011,
+        -73.98482
+      ],
+      "vehicle_count": 3,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 4.7,
+      "length": 65.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75984,
+        -73.98414
+      ],
+      "vehicle_count": 3,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 4.7,
+      "length": 81.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7592,
+        -73.9846
+      ],
+      "vehicle_count": 3,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 4.7,
+      "length": 79.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71206,
+        -73.96614
+      ],
+      "vehicle_count": 2,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 2.7,
+      "length": 111.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7117,
+        -73.96496
+      ],
+      "vehicle_count": 2,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 2.7,
+      "length": 108.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7112,
+        -73.96337
+      ],
+      "vehicle_count": 3,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 2.7,
+      "length": 146.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75897,
+        -73.98852
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_end",
+      "jam_factor": 1.2,
+      "length": 55.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75916,
+        -73.98838
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.2,
+      "length": 24.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75951,
+        -73.98813
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.2,
+      "length": 44.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75979,
+        -73.98792
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.2,
+      "length": 36.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76008,
+        -73.98769
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.2,
+      "length": 38.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7604,
+        -73.98744
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.2,
+      "length": 41.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76066,
+        -73.98724
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.2,
+      "length": 34.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76085,
+        -73.9871
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.2,
+      "length": 24.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.73607,
+        -74.03416
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 83.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7359,
+        -74.03321
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 32.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.73584,
+        -74.03284
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 49.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.70949,
+        -73.9919
+      ],
+      "vehicle_count": 4,
+      "direction": "NW-SE",
+      "boundary_type": "south_end",
+      "jam_factor": 0.0,
+      "length": 408.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71287,
+        -73.99378
+      ],
+      "vehicle_count": 0,
+      "direction": "NW-SE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 23.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71306,
+        -73.99389
+      ],
+      "vehicle_count": 1,
+      "direction": "NW-SE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 103.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71305,
+        -73.97083
+      ],
+      "vehicle_count": 4,
+      "direction": "E-W",
+      "boundary_type": "south_end",
+      "jam_factor": 0.0,
+      "length": 401.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71293,
+        -73.97045
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 35.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71244,
+        -73.96885
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 147.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7119,
+        -73.96708
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 162.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71163,
+        -73.96608
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 91.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71078,
+        -73.96332
+      ],
+      "vehicle_count": 2,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 253.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71213,
+        -74.00454
+      ],
+      "vehicle_count": 0,
+      "direction": "SE-NW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 46.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71199,
+        -74.00435
+      ],
+      "vehicle_count": 0,
+      "direction": "SE-NW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 22.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71182,
+        -74.00415
+      ],
+      "vehicle_count": 0,
+      "direction": "SE-NW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 25.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71173,
+        -74.00404
+      ],
+      "vehicle_count": 0,
+      "direction": "SE-NW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 14.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71166,
+        -74.00395
+      ],
+      "vehicle_count": 0,
+      "direction": "SE-NW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 11.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71122,
+        -74.00338
+      ],
+      "vehicle_count": 0,
+      "direction": "SE-NW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 69.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71087,
+        -74.00294
+      ],
+      "vehicle_count": 0,
+      "direction": "SE-NW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 54.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7588,
+        -74.03488
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_end",
+      "jam_factor": 0.4,
+      "length": 37.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7594,
+        -74.0345
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.4,
+      "length": 74.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76002,
+        -74.0341
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.4,
+      "length": 77.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76064,
+        -74.03372
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.4,
+      "length": 76.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76125,
+        -74.03327
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.4,
+      "length": 78.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76133,
+        -74.03322
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "west_start",
+      "jam_factor": 0.4,
+      "length": 10.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75981,
+        -73.99589
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 40.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76033,
+        -73.99713
+      ],
+      "vehicle_count": 4,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 120.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76043,
+        -73.99738
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 24.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76055,
+        -73.99768
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 29.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76082,
+        -73.99832
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.7,
+      "length": 62.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75988,
+        -73.96262
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.8,
+      "length": 47.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75972,
+        -73.96223
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.8,
+      "length": 38.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.8,
+      "length": 23.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75938,
+        -73.99694
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 2.4,
+      "length": 17.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76089,
+        -74.03248
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "west_start",
+      "jam_factor": 0.5,
+      "length": 78.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76032,
+        -74.03302
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.5,
+      "length": 41.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76001,
+        -74.03328
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.5,
+      "length": 95.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75928,
+        -74.03386
+      ],
+      "vehicle_count": 1,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "jam_factor": 0.5,
+      "length": 96.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75846,
+        -74.0342
+      ],
+      "vehicle_count": 4,
+      "direction": "S-N",
+      "boundary_type": "west_start",
+      "jam_factor": 0.5,
+      "length": 333.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71067,
+        -73.96216
+      ],
+      "vehicle_count": 5,
+      "direction": "W-E",
+      "boundary_type": "south_end",
+      "jam_factor": 2.2,
+      "length": 230.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71143,
+        -73.96467
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 2.2,
+      "length": 98.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71171,
+        -73.96576
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 2.2,
+      "length": 44.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71185,
+        -73.96624
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 2.2,
+      "length": 70.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71208,
+        -73.96701
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 2.2,
+      "length": 76.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71233,
+        -73.96784
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 2.2,
+      "length": 86.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71262,
+        -73.96877
+      ],
+      "vehicle_count": 4,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 2.2,
+      "length": 183.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71274,
+        -74.0097
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 1.1,
+      "length": 128.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75897,
+        -73.98109
+      ],
+      "vehicle_count": 2,
+      "direction": "NE-SW",
+      "boundary_type": "north_end",
+      "jam_factor": 5.2,
+      "length": 41.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75927,
+        -73.98087
+      ],
+      "vehicle_count": 2,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 5.2,
+      "length": 38.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75932,
+        -73.98084
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 5.2,
+      "length": 6.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75969,
+        -73.98056
+      ],
+      "vehicle_count": 2,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 5.2,
+      "length": 48.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75984,
+        -73.98045
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 5.2,
+      "length": 19.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7599,
+        -73.98041
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 5.2,
+      "length": 7.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76053,
+        -73.97994
+      ],
+      "vehicle_count": 4,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 5.2,
+      "length": 81.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76094,
+        -73.97964
+      ],
+      "vehicle_count": 2,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 5.2,
+      "length": 52.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75801,
+        -73.95704
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "east_end",
+      "jam_factor": 0.0,
+      "length": 135.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75861,
+        -73.95842
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 23.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75871,
+        -73.95865
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 7.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75874,
+        -73.95872
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 71.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75906,
+        -73.95944
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 63.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75934,
+        -73.96008
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 62.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75961,
+        -73.96071
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 109.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76009,
+        -73.96182
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 29.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76022,
+        -73.96211
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 21.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76031,
+        -73.96233
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 82.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76069,
+        -73.96316
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 29.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76098,
+        -73.99075
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_end",
+      "jam_factor": 3.3,
+      "length": 79.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76036,
+        -73.99121
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 81.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75973,
+        -73.99169
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 21.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75957,
+        -73.99181
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 35.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7593,
+        -73.99202
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 24.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75911,
+        -73.99216
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 38.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75881,
+        -73.99237
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 49.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71247,
+        -73.9547
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 40.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71185,
+        -73.95511
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 77.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71144,
+        -73.9554
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 52.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71144,
+        -73.9554
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 119.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7104,
+        -73.95729
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "east_end",
+      "jam_factor": 0.0,
+      "length": 91.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71029,
+        -73.95835
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 26.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71026,
+        -73.95865
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 117.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71247,
+        -73.96733
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 3.4,
+      "length": 36.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75875,
+        -73.99338
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_end",
+      "jam_factor": 3.3,
+      "length": 29.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75898,
+        -73.99393
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 53.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73724,
+        -74.0328
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "west_end",
+      "jam_factor": 1.0,
+      "length": 81.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73738,
+        -74.03375
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "west_start",
+      "jam_factor": 1.0,
+      "length": 82.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75914,
+        -73.96479
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 3.1,
+      "length": 47.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.759,
+        -73.96447
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 3.1,
+      "length": 31.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75898,
+        -73.99393
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 53.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75875,
+        -73.99338
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 29.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75883,
+        -73.99763
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 25.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75873,
+        -73.99834
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_end",
+      "jam_factor": 0.0,
+      "length": 40.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75878,
+        -73.99857
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 20.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75962,
+        -73.99757
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 60.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75989,
+        -73.99821
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 62.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76002,
+        -73.9985
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 29.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76015,
+        -73.99879
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 29.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76109,
+        -73.98321
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_end",
+      "jam_factor": 2.6,
+      "length": 83.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76044,
+        -73.98368
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 2.6,
+      "length": 17.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76031,
+        -73.98378
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 2.6,
+      "length": 61.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75984,
+        -73.98414
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 2.6,
+      "length": 81.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7592,
+        -73.9846
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 2.6,
+      "length": 79.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76195,
+        -74.00862
+      ],
+      "vehicle_count": 8,
+      "direction": "E-W",
+      "boundary_type": "north_end",
+      "jam_factor": 1.8,
+      "length": 451.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75995,
+        -74.00401
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 1.8,
+      "length": 45.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75975,
+        -74.00355
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 1.8,
+      "length": 13.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75969,
+        -74.00342
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 1.8,
+      "length": 43.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75951,
+        -74.00298
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 1.8,
+      "length": 84.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75915,
+        -74.00212
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 1.8,
+      "length": 7.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75912,
+        -74.00205
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 1.8,
+      "length": 38.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75895,
+        -74.00166
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 1.8,
+      "length": 25.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75884,
+        -74.0014
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "jam_factor": 1.8,
+      "length": 30.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.70375,
+        -73.95974
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "east_end",
+      "jam_factor": 0.0,
+      "length": 122.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.70475,
+        -73.95916
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 22.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.70493,
+        -73.95905
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 20.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7051,
+        -73.95896
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 185.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.70663,
+        -73.9581
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 28.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.70686,
+        -73.95797
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 39.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.70718,
+        -73.95777
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 92.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71111,
+        -73.95532
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "south_end",
+      "jam_factor": 0.0,
+      "length": 84.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71179,
+        -73.95488
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 40.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71211,
+        -73.95467
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 54.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71254,
+        -73.95438
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 90.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 23.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71615,
+        -73.95739
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "east_end",
+      "jam_factor": 0.6,
+      "length": 32.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71592,
+        -73.95762
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "east_start",
+      "jam_factor": 0.6,
+      "length": 81.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71536,
+        -73.95822
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "east_start",
+      "jam_factor": 0.6,
+      "length": 79.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71482,
+        -73.95883
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "east_start",
+      "jam_factor": 0.6,
+      "length": 63.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71438,
+        -73.95929
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "east_start",
+      "jam_factor": 0.6,
+      "length": 26.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71269,
+        -73.96056
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "south_end",
+      "jam_factor": 0.6,
+      "length": 79.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7126,
+        -73.96062
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.6,
+      "length": 11.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71235,
+        -73.96078
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.6,
+      "length": 31.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71195,
+        -73.96103
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.6,
+      "length": 49.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71134,
+        -73.96142
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 0.6,
+      "length": 76.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75971,
+        -73.98197
+      ],
+      "vehicle_count": 3,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 106.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75983,
+        -73.98228
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 30.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76002,
+        -73.98271
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 42.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76021,
+        -73.98313
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 42.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76044,
+        -73.98368
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 3.3,
+      "length": 53.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75935,
+        -73.96527
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.1,
+      "length": 22.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75918,
+        -73.9654
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 3.1,
+      "length": 69.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75894,
+        -74.00339
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_end",
+      "jam_factor": 1.3,
+      "length": 57.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75925,
+        -74.00317
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.3,
+      "length": 39.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75951,
+        -74.00298
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.3,
+      "length": 33.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75968,
+        -74.00285
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.3,
+      "length": 22.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75997,
+        -74.00264
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.3,
+      "length": 37.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7601,
+        -74.00254
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.3,
+      "length": 17.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76014,
+        -74.00251
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.3,
+      "length": 5.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76044,
+        -74.00228
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.3,
+      "length": 39.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76052,
+        -74.00222
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.3,
+      "length": 10.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76072,
+        -74.00207
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.3,
+      "length": 26.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71067,
+        -73.96216
+      ],
+      "vehicle_count": 4,
+      "direction": "W-E",
+      "boundary_type": "south_end",
+      "jam_factor": 1.8,
+      "length": 230.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71143,
+        -73.96467
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 1.8,
+      "length": 83.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71172,
+        -73.96556
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 1.8,
+      "length": 31.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71182,
+        -73.9659
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 1.8,
+      "length": 94.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71212,
+        -73.96693
+      ],
+      "vehicle_count": 3,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 1.8,
+      "length": 168.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71268,
+        -73.96876
+      ],
+      "vehicle_count": 3,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "jam_factor": 1.8,
+      "length": 181.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75846,
+        -74.0342
+      ],
+      "vehicle_count": 5,
+      "direction": "N-S",
+      "boundary_type": "west_end",
+      "jam_factor": 1.4,
+      "length": 333.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75928,
+        -74.03386
+      ],
+      "vehicle_count": 1,
+      "direction": "N-S",
+      "boundary_type": "west_start",
+      "jam_factor": 1.4,
+      "length": 96.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76001,
+        -74.03328
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.4,
+      "length": 95.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76032,
+        -74.03302
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.4,
+      "length": 41.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76089,
+        -74.03248
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.4,
+      "length": 78.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76099,
+        -74.03237
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "west_start",
+      "jam_factor": 1.4,
+      "length": 15.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76105,
+        -74.03231
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "west_start",
+      "jam_factor": 1.4,
+      "length": 8.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75988,
+        -73.96177
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 35.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76009,
+        -73.9616
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 27.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76024,
+        -73.9615
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 19.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7606,
+        -73.96124
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 46.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76088,
+        -73.96104
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 35.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75976,
+        -73.95788
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 12.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75967,
+        -73.95796
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 68.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75914,
+        -73.95836
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 25.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75894,
+        -73.95849
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 21.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75877,
+        -73.95861
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 7.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75871,
+        -73.95865
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 11.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75863,
+        -73.95872
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 7.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75858,
+        -73.95877
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 33.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75935,
+        -73.96527
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 217.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71101,
+        -74.01447
+      ],
+      "vehicle_count": 2,
+      "direction": "N-S",
+      "boundary_type": "south_end",
+      "jam_factor": 2.1,
+      "length": 121.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71208,
+        -74.01423
+      ],
+      "vehicle_count": 2,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 2.1,
+      "length": 105.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.713,
+        -74.01395
+      ],
+      "vehicle_count": 1,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 2.1,
+      "length": 77.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75801,
+        -73.95704
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "east_end",
+      "jam_factor": 0.0,
+      "length": 135.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75861,
+        -73.95842
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 23.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75871,
+        -73.95865
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 7.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75874,
+        -73.95872
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 71.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75906,
+        -73.95944
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 63.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75934,
+        -73.96008
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 62.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75961,
+        -73.96071
+      ],
+      "vehicle_count": 0,
+      "direction": "NW-SE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 59.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75993,
+        -73.96126
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 34.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76009,
+        -73.9616
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 69.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76039,
+        -73.96231
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 9.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76072,
+        -73.96268
+      ],
+      "vehicle_count": 0,
+      "direction": "NW-SE",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 41.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71482,
+        -73.95883
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_end",
+      "jam_factor": 1.4,
+      "length": 57.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71466,
+        -73.9582
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 1.4,
+      "length": 57.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71459,
+        -73.95793
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 1.4,
+      "length": 24.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71449,
+        -73.95755
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 1.4,
+      "length": 34.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7143,
+        -73.95684
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "east_start",
+      "jam_factor": 1.4,
+      "length": 64.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71306,
+        -74.0072
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "south_end",
+      "jam_factor": 3.1,
+      "length": 46.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71286,
+        -74.00737
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 3.1,
+      "length": 27.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71252,
+        -74.00767
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 3.1,
+      "length": 46.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71246,
+        -74.00772
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 3.1,
+      "length": 8.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71218,
+        -74.00794
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 3.1,
+      "length": 36.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71196,
+        -74.00811
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 3.1,
+      "length": 28.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7117,
+        -74.00834
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 3.1,
+      "length": 35.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7114,
+        -74.00863
+      ],
+      "vehicle_count": 1,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "jam_factor": 3.1,
+      "length": 42.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7408,
+        -74.03467
+      ],
+      "vehicle_count": 1,
+      "direction": "N-S",
+      "boundary_type": "west_end",
+      "jam_factor": 0.0,
+      "length": 145.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.74207,
+        -74.03428
+      ],
+      "vehicle_count": 1,
+      "direction": "N-S",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 105.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.74299,
+        -74.034
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 3.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.74389,
+        -74.03373
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 99.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.74401,
+        -74.03369
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 14.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.74428,
+        -74.03361
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 31.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.74479,
+        -74.03345
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 58.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.74494,
+        -74.0334
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 17.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.74515,
+        -74.03333
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 24.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.74557,
+        -74.03321
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 48.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.74644,
+        -74.03295
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 99.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.74682,
+        -74.03283
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 43.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.74699,
+        -74.03278
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 19.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.74771,
+        -74.03256
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 82.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.74811,
+        -74.03243
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 46.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.74873,
+        -74.03225
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 71.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75446,
+        -74.03255
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "west_end",
+      "jam_factor": 0.0,
+      "length": 89.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75477,
+        -74.03432
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 155.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75492,
+        -74.03516
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 74.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75888,
+        -73.99926
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.5,
+      "length": 12.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75893,
+        -73.99947
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.5,
+      "length": 19.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75897,
+        -73.99966
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.5,
+      "length": 17.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75903,
+        -73.99982
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.5,
+      "length": 15.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75929,
+        -74.00049
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.5,
+      "length": 64.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76014,
+        -74.00251
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.5,
+      "length": 196.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76032,
+        -74.00295
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.5,
+      "length": 43.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76038,
+        -74.00308
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.5,
+      "length": 13.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76041,
+        -74.00316
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.5,
+      "length": 8.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76043,
+        -74.00321
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.5,
+      "length": 5.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76048,
+        -74.00332
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.5,
+      "length": 11.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76055,
+        -74.00348
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.5,
+      "length": 16.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76057,
+        -74.00353
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.5,
+      "length": 5.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71206,
+        -74.01016
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 85.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71274,
+        -74.0097
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 69.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76075,
+        -74.02739
+      ],
+      "vehicle_count": 0,
+      "direction": "SW-NE",
+      "boundary_type": "north_end",
+      "jam_factor": 0.0,
+      "length": 10.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76067,
+        -74.02744
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 76.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76003,
+        -74.02775
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 32.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75975,
+        -74.02784
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 8.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75968,
+        -74.02786
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 25.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75946,
+        -74.02793
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 31.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75919,
+        -74.028
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 37.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75887,
+        -74.0281
+      ],
+      "vehicle_count": 1,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 146.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.72941,
+        -74.03482
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "west_end",
+      "jam_factor": 0.0,
+      "length": 136.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.72906,
+        -74.03329
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 93.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71199,
+        -74.00599
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 1.0,
+      "length": 68.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71175,
+        -74.00481
+      ],
+      "vehicle_count": 0,
+      "direction": "SE-NW",
+      "boundary_type": "south_start",
+      "jam_factor": 1.0,
+      "length": 43.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71175,
+        -74.00481
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 1.0,
+      "length": 53.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71169,
+        -74.0042
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 1.0,
+      "length": 14.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71173,
+        -74.00404
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "south_start",
+      "jam_factor": 1.0,
+      "length": 16.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71181,
+        -74.00388
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 1.0,
+      "length": 12.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71188,
+        -74.00377
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 1.0,
+      "length": 93.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.74249,
+        -73.95667
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "east_end",
+      "jam_factor": 0.0,
+      "length": 110.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.74274,
+        -73.95792
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 25.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.74279,
+        -73.9582
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "jam_factor": 0.0,
+      "length": 38.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75849,
+        -73.97513
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_end",
+      "jam_factor": 0.0,
+      "length": 63.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75876,
+        -73.97578
+      ],
+      "vehicle_count": 0,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 94.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.70958,
+        -73.99177
+      ],
+      "vehicle_count": 8,
+      "direction": "NW-SE",
+      "boundary_type": "south_end",
+      "jam_factor": 2.0,
+      "length": 422.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71308,
+        -73.9937
+      ],
+      "vehicle_count": 2,
+      "direction": "NW-SE",
+      "boundary_type": "south_start",
+      "jam_factor": 2.0,
+      "length": 143.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71308,
+        -73.98505
+      ],
+      "vehicle_count": 1,
+      "direction": "S-N",
+      "boundary_type": "south_end",
+      "jam_factor": 7.1,
+      "length": 19.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71252,
+        -73.98499
+      ],
+      "vehicle_count": 5,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 7.1,
+      "length": 62.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71234,
+        -73.98497
+      ],
+      "vehicle_count": 1,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 7.1,
+      "length": 20.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71227,
+        -73.98496
+      ],
+      "vehicle_count": 0,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 7.1,
+      "length": 8.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71171,
+        -73.98487
+      ],
+      "vehicle_count": 5,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 7.1,
+      "length": 63.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71124,
+        -73.98478
+      ],
+      "vehicle_count": 4,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 7.1,
+      "length": 53.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71071,
+        -73.9847
+      ],
+      "vehicle_count": 5,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "jam_factor": 7.1,
+      "length": 59.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7109,
+        -73.9799
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "south_end",
+      "jam_factor": 0.7,
+      "length": 127.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71143,
+        -73.97859
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.7,
+      "length": 20.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71155,
+        -73.97841
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.7,
+      "length": 21.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71169,
+        -73.97824
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.7,
+      "length": 112.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71255,
+        -73.97756
+      ],
+      "vehicle_count": 2,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 0.7,
+      "length": 178.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75893,
+        -73.99969
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_end",
+      "jam_factor": 0.0,
+      "length": 29.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75897,
+        -73.99966
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 5.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75956,
+        -73.99923
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 75.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "east_start",
+      "jam_factor": 0.8,
+      "length": 8.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75874,
+        -73.95872
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "east_start",
+      "jam_factor": 0.8,
+      "length": 11.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7588,
+        -73.95868
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.8,
+      "length": 7.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75887,
+        -74.0281
+      ],
+      "vehicle_count": 1,
+      "direction": "N-S",
+      "boundary_type": "north_end",
+      "jam_factor": 0.0,
+      "length": 146.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75919,
+        -74.028
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 37.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75946,
+        -74.02793
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 31.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75968,
+        -74.02786
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 25.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75975,
+        -74.02784
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 8.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76003,
+        -74.02775
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 32.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76067,
+        -74.02744
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 76.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76075,
+        -74.02739
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 0.0,
+      "length": 10.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75889,
+        -73.994
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_end",
+      "jam_factor": 1.3,
+      "length": 24.0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75898,
+        -73.99393
+      ],
+      "vehicle_count": 0,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "jam_factor": 1.3,
+      "length": 12.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75492,
+        -74.03516
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "west_end",
+      "jam_factor": 0.0,
+      "length": 74.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75477,
+        -74.03432
+      ],
+      "vehicle_count": 1,
+      "direction": "E-W",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 155.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75446,
+        -74.03255
+      ],
+      "vehicle_count": 0,
+      "direction": "E-W",
+      "boundary_type": "west_start",
+      "jam_factor": 0.0,
+      "length": 89.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71127,
+        -74.00022
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 3.7,
+      "length": 43.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71158,
+        -73.99991
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 3.7,
+      "length": 29.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71179,
+        -73.99971
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 3.7,
+      "length": 31.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71201,
+        -73.99949
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 3.7,
+      "length": 34.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71225,
+        -73.99925
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 3.7,
+      "length": 50.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7126,
+        -73.99889
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 3.7,
+      "length": 38.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71287,
+        -73.99861
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "jam_factor": 3.7,
+      "length": 54.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71108,
+        -73.99207
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_end",
+      "jam_factor": 0.0,
+      "length": 79.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71178,
+        -73.99219
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 76.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71246,
+        -73.99228
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 8.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71253,
+        -73.99229
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 26.0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71276,
+        -73.99232
+      ],
+      "vehicle_count": 0,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "jam_factor": 0.0,
+      "length": 48.0
+    }
+  ]
+}

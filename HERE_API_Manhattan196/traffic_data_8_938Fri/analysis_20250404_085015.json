@@ -1,0 +1,2121 @@
+{
+  "scenario": "analysis_20250404_085015",
+  "segment_count": 991,
+  "total_road_length": 323397.0,
+  "total_road_length_km": 323.397,
+  "total_vehicles": 3472,
+  "avg_vehicle_density": 10.736030328048807,
+  "avg_jam_factor": 1.7316851664984863,
+  "avg_speed": 4.866857450454087,
+  "avg_free_flow": 6.472698941170535,
+  "speed_ratio": 0.7519054253393029,
+  "direction_counts": {
+    "N-S": 491,
+    "S-N": 471,
+    "E-W": 1101,
+    "W-E": 1159,
+    "NE-SW": 1099,
+    "SW-NE": 994,
+    "NW-SE": 211,
+    "SE-NW": 201
+  },
+  "functional_class_counts": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "incidents": {
+    "incidents": [
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At FDR Dr S/Grand St - Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.71311,
+            -73.97757
+          ],
+          [
+            40.71289,
+            -73.97765
+          ],
+          [
+            40.71268,
+            -73.9777
+          ],
+          [
+            40.71247,
+            -73.97777
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.71592,
+            -73.9619
+          ],
+          [
+            40.71557,
+            -73.9623
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At Hudson St - Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73337,
+            -74.00423
+          ],
+          [
+            40.73323,
+            -74.00531
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73167,
+            -73.9615
+          ],
+          [
+            40.73184,
+            -73.95959
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.75534,
+            -73.97539
+          ],
+          [
+            40.7556,
+            -73.97606
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73329,
+            -73.97619
+          ],
+          [
+            40.73298,
+            -73.97544
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.75105,
+            -74.03546
+          ],
+          [
+            40.7523,
+            -74.03507
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At Barclay St - Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.71559,
+            -74.01111
+          ],
+          [
+            40.71522,
+            -74.01121
+          ],
+          [
+            40.71492,
+            -74.01134
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73167,
+            -73.9615
+          ],
+          [
+            40.73184,
+            -73.95959
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At E 42nd St - Road construction",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.74704,
+            -73.98125
+          ],
+          [
+            40.74771,
+            -73.98076
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At Montgomery St/Exit 3 - Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.71247,
+            -73.97777
+          ],
+          [
+            40.71235,
+            -73.97784
+          ],
+          [
+            40.71212,
+            -73.97801
+          ],
+          [
+            40.71181,
+            -73.97832
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73529,
+            -73.98781
+          ],
+          [
+            40.73557,
+            -73.98761
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73245,
+            -74.00546
+          ],
+          [
+            40.73273,
+            -74.00562
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73112,
+            -73.95948
+          ],
+          [
+            40.73096,
+            -73.96129
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.711,
+            -73.96536
+          ],
+          [
+            40.71116,
+            -73.96527
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.71592,
+            -73.9619
+          ],
+          [
+            40.71637,
+            -73.96142
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73397,
+            -73.97778
+          ],
+          [
+            40.73376,
+            -73.9773
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At RT-9A/West St/West Side Hwy - Closed due to road construction",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73572,
+            -74.00679
+          ],
+          [
+            40.7355,
+            -74.00838
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73184,
+            -73.95959
+          ],
+          [
+            40.73167,
+            -73.9615
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73877,
+            -74.00978
+          ],
+          [
+            40.73876,
+            -74.0081
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.71863,
+            -73.95901
+          ],
+          [
+            40.71917,
+            -73.95841
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.72273,
+            -74.00442
+          ],
+          [
+            40.72241,
+            -74.0047
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73298,
+            -73.97544
+          ],
+          [
+            40.73257,
+            -73.9745
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73242,
+            -74.0065
+          ],
+          [
+            40.73238,
+            -74.00611
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At Queens Midtown Tunnel (West) - Major event",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.74286,
+            -73.96103
+          ],
+          [
+            40.74301,
+            -73.96131
+          ],
+          [
+            40.74332,
+            -73.96178
+          ],
+          [
+            40.74604,
+            -73.96565
+          ],
+          [
+            40.74742,
+            -73.96759
+          ],
+          [
+            40.74757,
+            -73.96783
+          ],
+          [
+            40.74767,
+            -73.96804
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.71769,
+            -74.00236
+          ],
+          [
+            40.71831,
+            -74.00183
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.7183,
+            -74.00539
+          ],
+          [
+            40.71774,
+            -74.00415
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At 58th St - Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.75528,
+            -73.95097
+          ],
+          [
+            40.75587,
+            -73.95231
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73184,
+            -73.95959
+          ],
+          [
+            40.73167,
+            -73.9615
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.72024,
+            -73.97946
+          ],
+          [
+            40.72036,
+            -73.97967
+          ],
+          [
+            40.72048,
+            -73.97994
+          ],
+          [
+            40.72057,
+            -73.97998
+          ],
+          [
+            40.72063,
+            -73.98013
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.71695,
+            -73.96079
+          ],
+          [
+            40.71753,
+            -73.9602
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.71602,
+            -73.99131
+          ],
+          [
+            40.71596,
+            -73.99113
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Ramp to RT-495/Lincoln Tunnel Westbound - Road construction",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.75883,
+            -73.99763
+          ],
+          [
+            40.75874,
+            -73.99778
+          ],
+          [
+            40.75871,
+            -73.99787
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Ramp to RT-495/Lincoln Tunnel Westbound - Road construction",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.75878,
+            -73.99857
+          ],
+          [
+            40.75885,
+            -73.99913
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At E Houston St - Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.72686,
+            -73.97991
+          ],
+          [
+            40.72628,
+            -73.98033
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73096,
+            -73.96129
+          ],
+          [
+            40.73112,
+            -73.95948
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At University Pl/Washington Sq E - Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.7307,
+            -73.99554
+          ],
+          [
+            40.73063,
+            -73.9954
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.71863,
+            -73.95901
+          ],
+          [
+            40.71806,
+            -73.95962
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73814,
+            -74.00816
+          ],
+          [
+            40.73815,
+            -74.00971
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At W 14th St - Closed",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.74166,
+            -74.0049
+          ],
+          [
+            40.74161,
+            -74.00494
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Closed",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73096,
+            -73.96129
+          ],
+          [
+            40.73112,
+            -73.95948
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.71695,
+            -73.96079
+          ],
+          [
+            40.71637,
+            -73.96142
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Closed due to road construction",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73112,
+            -73.95948
+          ],
+          [
+            40.73096,
+            -73.96129
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.75581,
+            -73.99998
+          ],
+          [
+            40.75642,
+            -73.99949
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.72978,
+            -73.99531
+          ],
+          [
+            40.73015,
+            -73.99606
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At 14th St - Road construction",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73755,
+            -74.00981
+          ],
+          [
+            40.73814,
+            -74.00985
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At Lafayette St - Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.71862,
+            -74.00251
+          ],
+          [
+            40.71831,
+            -74.00183
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73588,
+            -73.98739
+          ],
+          [
+            40.73565,
+            -73.98755
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73586,
+            -73.95518
+          ],
+          [
+            40.73555,
+            -73.95852
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.74521,
+            -74.00227
+          ],
+          [
+            40.7464,
+            -74.00511
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At 15th St/Exit 6 - Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.72798,
+            -73.97183
+          ],
+          [
+            40.7278,
+            -73.97185
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73458,
+            -73.98438
+          ],
+          [
+            40.7346,
+            -73.98436
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At 2nd Ave - Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.75176,
+            -73.97081
+          ],
+          [
+            40.75194,
+            -73.97126
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At Park Ave - Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.7566,
+            -73.9765
+          ],
+          [
+            40.75622,
+            -73.97558
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73401,
+            -73.98477
+          ],
+          [
+            40.73399,
+            -73.98478
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.71845,
+            -73.99876
+          ],
+          [
+            40.71756,
+            -73.99931
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.73023,
+            -74.0069
+          ],
+          [
+            40.73035,
+            -74.0082
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "One lane blocked",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.71534,
+            -73.97828
+          ],
+          [
+            40.71528,
+            -73.97813
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At Hudson St - Closed",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.72981,
+            -74.01048
+          ],
+          [
+            40.72973,
+            -74.0092
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "At E 14th St - Restrictions",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.72507,
+            -73.98121
+          ],
+          [
+            40.72562,
+            -73.98082
+          ]
+        ]
+      },
+      {
+        "id": "",
+        "type": "UNKNOWN",
+        "severity": 0,
+        "description": {
+          "value": "Construction work",
+          "language": "en-US"
+        },
+        "status": "",
+        "start_time": "",
+        "end_time": "",
+        "coords": [
+          [
+            40.71489,
+            -73.9609
+          ],
+          [
+            40.71557,
+            -73.9623
+          ]
+        ]
+      }
+    ],
+    "total_incidents": 61,
+    "incidents_by_type": {
+      "UNKNOWN": 61
+    },
+    "incidents_by_severity": {
+      "0": 61
+    }
+  },
+  "incident_locations": [
+    [
+      40.71311,
+      -73.97757,
+      0
+    ],
+    [
+      40.71289,
+      -73.97765,
+      0
+    ],
+    [
+      40.71268,
+      -73.9777,
+      0
+    ],
+    [
+      40.71247,
+      -73.97777,
+      0
+    ],
+    [
+      40.71592,
+      -73.9619,
+      0
+    ],
+    [
+      40.71557,
+      -73.9623,
+      0
+    ],
+    [
+      40.73337,
+      -74.00423,
+      0
+    ],
+    [
+      40.73323,
+      -74.00531,
+      0
+    ],
+    [
+      40.73167,
+      -73.9615,
+      0
+    ],
+    [
+      40.73184,
+      -73.95959,
+      0
+    ],
+    [
+      40.75534,
+      -73.97539,
+      0
+    ],
+    [
+      40.7556,
+      -73.97606,
+      0
+    ],
+    [
+      40.73329,
+      -73.97619,
+      0
+    ],
+    [
+      40.73298,
+      -73.97544,
+      0
+    ],
+    [
+      40.75105,
+      -74.03546,
+      0
+    ],
+    [
+      40.7523,
+      -74.03507,
+      0
+    ],
+    [
+      40.71559,
+      -74.01111,
+      0
+    ],
+    [
+      40.71522,
+      -74.01121,
+      0
+    ],
+    [
+      40.71492,
+      -74.01134,
+      0
+    ],
+    [
+      40.73167,
+      -73.9615,
+      0
+    ],
+    [
+      40.73184,
+      -73.95959,
+      0
+    ],
+    [
+      40.74704,
+      -73.98125,
+      0
+    ],
+    [
+      40.74771,
+      -73.98076,
+      0
+    ],
+    [
+      40.71247,
+      -73.97777,
+      0
+    ],
+    [
+      40.71235,
+      -73.97784,
+      0
+    ],
+    [
+      40.71212,
+      -73.97801,
+      0
+    ],
+    [
+      40.71181,
+      -73.97832,
+      0
+    ],
+    [
+      40.73529,
+      -73.98781,
+      0
+    ],
+    [
+      40.73557,
+      -73.98761,
+      0
+    ],
+    [
+      40.73245,
+      -74.00546,
+      0
+    ],
+    [
+      40.73273,
+      -74.00562,
+      0
+    ],
+    [
+      40.73112,
+      -73.95948,
+      0
+    ],
+    [
+      40.73096,
+      -73.96129,
+      0
+    ],
+    [
+      40.711,
+      -73.96536,
+      0
+    ],
+    [
+      40.71116,
+      -73.96527,
+      0
+    ],
+    [
+      40.71592,
+      -73.9619,
+      0
+    ],
+    [
+      40.71637,
+      -73.96142,
+      0
+    ],
+    [
+      40.73397,
+      -73.97778,
+      0
+    ],
+    [
+      40.73376,
+      -73.9773,
+      0
+    ],
+    [
+      40.73572,
+      -74.00679,
+      0
+    ],
+    [
+      40.7355,
+      -74.00838,
+      0
+    ],
+    [
+      40.73184,
+      -73.95959,
+      0
+    ],
+    [
+      40.73167,
+      -73.9615,
+      0
+    ],
+    [
+      40.73877,
+      -74.00978,
+      0
+    ],
+    [
+      40.73876,
+      -74.0081,
+      0
+    ],
+    [
+      40.71863,
+      -73.95901,
+      0
+    ],
+    [
+      40.71917,
+      -73.95841,
+      0
+    ],
+    [
+      40.72273,
+      -74.00442,
+      0
+    ],
+    [
+      40.72241,
+      -74.0047,
+      0
+    ],
+    [
+      40.73298,
+      -73.97544,
+      0
+    ],
+    [
+      40.73257,
+      -73.9745,
+      0
+    ],
+    [
+      40.73242,
+      -74.0065,
+      0
+    ],
+    [
+      40.73238,
+      -74.00611,
+      0
+    ],
+    [
+      40.74286,
+      -73.96103,
+      0
+    ],
+    [
+      40.74301,
+      -73.96131,
+      0
+    ],
+    [
+      40.74332,
+      -73.96178,
+      0
+    ],
+    [
+      40.74604,
+      -73.96565,
+      0
+    ],
+    [
+      40.74742,
+      -73.96759,
+      0
+    ],
+    [
+      40.74757,
+      -73.96783,
+      0
+    ],
+    [
+      40.74767,
+      -73.96804,
+      0
+    ],
+    [
+      40.71769,
+      -74.00236,
+      0
+    ],
+    [
+      40.71831,
+      -74.00183,
+      0
+    ],
+    [
+      40.7183,
+      -74.00539,
+      0
+    ],
+    [
+      40.71774,
+      -74.00415,
+      0
+    ],
+    [
+      40.75528,
+      -73.95097,
+      0
+    ],
+    [
+      40.75587,
+      -73.95231,
+      0
+    ],
+    [
+      40.73184,
+      -73.95959,
+      0
+    ],
+    [
+      40.73167,
+      -73.9615,
+      0
+    ],
+    [
+      40.72024,
+      -73.97946,
+      0
+    ],
+    [
+      40.72036,
+      -73.97967,
+      0
+    ],
+    [
+      40.72048,
+      -73.97994,
+      0
+    ],
+    [
+      40.72057,
+      -73.97998,
+      0
+    ],
+    [
+      40.72063,
+      -73.98013,
+      0
+    ],
+    [
+      40.71695,
+      -73.96079,
+      0
+    ],
+    [
+      40.71753,
+      -73.9602,
+      0
+    ],
+    [
+      40.71602,
+      -73.99131,
+      0
+    ],
+    [
+      40.71596,
+      -73.99113,
+      0
+    ],
+    [
+      40.75883,
+      -73.99763,
+      0
+    ],
+    [
+      40.75874,
+      -73.99778,
+      0
+    ],
+    [
+      40.75871,
+      -73.99787,
+      0
+    ],
+    [
+      40.75878,
+      -73.99857,
+      0
+    ],
+    [
+      40.75885,
+      -73.99913,
+      0
+    ],
+    [
+      40.72686,
+      -73.97991,
+      0
+    ],
+    [
+      40.72628,
+      -73.98033,
+      0
+    ],
+    [
+      40.73096,
+      -73.96129,
+      0
+    ],
+    [
+      40.73112,
+      -73.95948,
+      0
+    ],
+    [
+      40.7307,
+      -73.99554,
+      0
+    ],
+    [
+      40.73063,
+      -73.9954,
+      0
+    ],
+    [
+      40.71863,
+      -73.95901,
+      0
+    ],
+    [
+      40.71806,
+      -73.95962,
+      0
+    ],
+    [
+      40.73814,
+      -74.00816,
+      0
+    ],
+    [
+      40.73815,
+      -74.00971,
+      0
+    ],
+    [
+      40.74166,
+      -74.0049,
+      0
+    ],
+    [
+      40.74161,
+      -74.00494,
+      0
+    ],
+    [
+      40.73096,
+      -73.96129,
+      0
+    ],
+    [
+      40.73112,
+      -73.95948,
+      0
+    ],
+    [
+      40.71695,
+      -73.96079,
+      0
+    ],
+    [
+      40.71637,
+      -73.96142,
+      0
+    ],
+    [
+      40.73112,
+      -73.95948,
+      0
+    ],
+    [
+      40.73096,
+      -73.96129,
+      0
+    ],
+    [
+      40.75581,
+      -73.99998,
+      0
+    ],
+    [
+      40.75642,
+      -73.99949,
+      0
+    ],
+    [
+      40.72978,
+      -73.99531,
+      0
+    ],
+    [
+      40.73015,
+      -73.99606,
+      0
+    ],
+    [
+      40.73755,
+      -74.00981,
+      0
+    ],
+    [
+      40.73814,
+      -74.00985,
+      0
+    ],
+    [
+      40.71862,
+      -74.00251,
+      0
+    ],
+    [
+      40.71831,
+      -74.00183,
+      0
+    ],
+    [
+      40.73588,
+      -73.98739,
+      0
+    ],
+    [
+      40.73565,
+      -73.98755,
+      0
+    ],
+    [
+      40.73586,
+      -73.95518,
+      0
+    ],
+    [
+      40.73555,
+      -73.95852,
+      0
+    ],
+    [
+      40.74521,
+      -74.00227,
+      0
+    ],
+    [
+      40.7464,
+      -74.00511,
+      0
+    ],
+    [
+      40.72798,
+      -73.97183,
+      0
+    ],
+    [
+      40.7278,
+      -73.97185,
+      0
+    ],
+    [
+      40.73458,
+      -73.98438,
+      0
+    ],
+    [
+      40.7346,
+      -73.98436,
+      0
+    ],
+    [
+      40.75176,
+      -73.97081,
+      0
+    ],
+    [
+      40.75194,
+      -73.97126,
+      0
+    ],
+    [
+      40.7566,
+      -73.9765,
+      0
+    ],
+    [
+      40.75622,
+      -73.97558,
+      0
+    ],
+    [
+      40.73401,
+      -73.98477,
+      0
+    ],
+    [
+      40.73399,
+      -73.98478,
+      0
+    ],
+    [
+      40.71845,
+      -73.99876,
+      0
+    ],
+    [
+      40.71756,
+      -73.99931,
+      0
+    ],
+    [
+      40.73023,
+      -74.0069,
+      0
+    ],
+    [
+      40.73035,
+      -74.0082,
+      0
+    ],
+    [
+      40.71534,
+      -73.97828,
+      0
+    ],
+    [
+      40.71528,
+      -73.97813,
+      0
+    ],
+    [
+      40.72981,
+      -74.01048,
+      0
+    ],
+    [
+      40.72973,
+      -74.0092,
+      0
+    ],
+    [
+      40.72507,
+      -73.98121,
+      0
+    ],
+    [
+      40.72562,
+      -73.98082,
+      0
+    ],
+    [
+      40.71489,
+      -73.9609,
+      0
+    ],
+    [
+      40.71557,
+      -73.9623,
+      0
+    ]
+  ],
+  "timestamp": "2025-06-22T12:27:34.713349"
+}

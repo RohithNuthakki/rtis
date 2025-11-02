@@ -1,0 +1,12 @@
+Formula: sub(div(sub(sub(global_avg_speed, local_avg_speed), sub(local_avg_speed, global_avg_speed)), avg_incoming_speed), div(local_avg_speed, global_avg_speed))
+Test RMSE: 1.5420
+Test R²: 0.2428
+
+Feature names:
+X0: chosen_phase
+X1: transition_needed
+X2: avg_incoming_speed
+X3: avg_outgoing_speed
+X4: local_avg_speed
+X5: global_avg_speed
+X6: num_vehicles

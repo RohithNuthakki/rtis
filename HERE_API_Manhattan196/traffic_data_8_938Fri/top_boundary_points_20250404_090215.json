@@ -1,0 +1,2109 @@
+{
+  "total_boundary_points": 587,
+  "inflows": 302,
+  "outflows": 285,
+  "top_inflows": [
+    {
+      "type": "inflow",
+      "location": [
+        40.71254,
+        -73.95438
+      ],
+      "vehicle_count": 41,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 249.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 174,
+      "link_index": 6,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75966,
+        -73.96403
+      ],
+      "vehicle_count": 13,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 82.0,
+      "road_name": "58th St",
+      "result_index": 622,
+      "link_index": 30,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.713,
+        -73.98695
+      ],
+      "vehicle_count": 11,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 72.0,
+      "road_name": "E Broadway",
+      "result_index": 646,
+      "link_index": 8,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71273,
+        -74.00441
+      ],
+      "vehicle_count": 10,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 64.0,
+      "road_name": "58th St",
+      "result_index": 622,
+      "link_index": 19,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71273,
+        -74.00441
+      ],
+      "vehicle_count": 10,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 66.0,
+      "road_name": "58th St",
+      "result_index": 622,
+      "link_index": 20,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71273,
+        -74.00441
+      ],
+      "vehicle_count": 10,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 63.0,
+      "road_name": "58th St",
+      "result_index": 622,
+      "link_index": 25,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71273,
+        -74.00441
+      ],
+      "vehicle_count": 10,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 62.0,
+      "road_name": "58th St",
+      "result_index": 622,
+      "link_index": 26,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7603,
+        -73.96361
+      ],
+      "vehicle_count": 10,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 65.0,
+      "road_name": "58th St",
+      "result_index": 622,
+      "link_index": 28,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71154,
+        -73.98674
+      ],
+      "vehicle_count": 10,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 63.0,
+      "road_name": "E Broadway",
+      "result_index": 646,
+      "link_index": 3,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76096,
+        -73.96911
+      ],
+      "vehicle_count": 9,
+      "direction": "SW-NE",
+      "boundary_type": "north_end",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 8.2,
+      "speed": 2.5,
+      "length": 91.0,
+      "road_name": "E 45th St",
+      "result_index": 335,
+      "link_index": 0,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75887,
+        -74.0281
+      ],
+      "vehicle_count": 8,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.4,
+      "speed": 3.0555556,
+      "length": 146.0,
+      "road_name": "CR-670/14th St",
+      "result_index": 8,
+      "link_index": 10,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76025,
+        -73.96963
+      ],
+      "vehicle_count": 8,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 8.2,
+      "speed": 2.5,
+      "length": 79.0,
+      "road_name": "E 45th St",
+      "result_index": 335,
+      "link_index": 1,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75963,
+        -73.97008
+      ],
+      "vehicle_count": 8,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 8.2,
+      "speed": 2.5,
+      "length": 80.0,
+      "road_name": "E 45th St",
+      "result_index": 335,
+      "link_index": 2,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.759,
+        -73.97054
+      ],
+      "vehicle_count": 8,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 8.2,
+      "speed": 2.5,
+      "length": 79.0,
+      "road_name": "E 45th St",
+      "result_index": 335,
+      "link_index": 3,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76043,
+        -73.9624
+      ],
+      "vehicle_count": 8,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 4.1,
+      "speed": 11.111112,
+      "length": 196.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 943,
+      "link_index": 5,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71273,
+        -74.00441
+      ],
+      "vehicle_count": 7,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 44.0,
+      "road_name": "58th St",
+      "result_index": 622,
+      "link_index": 21,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71273,
+        -74.00441
+      ],
+      "vehicle_count": 7,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 45.0,
+      "road_name": "58th St",
+      "result_index": 622,
+      "link_index": 22,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71115,
+        -73.98671
+      ],
+      "vehicle_count": 7,
+      "direction": "N-S",
+      "boundary_type": "south_end",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 44.0,
+      "road_name": "E Broadway",
+      "result_index": 646,
+      "link_index": 2,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71235,
+        -73.98685
+      ],
+      "vehicle_count": 7,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 46.0,
+      "road_name": "E Broadway",
+      "result_index": 646,
+      "link_index": 5,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75928,
+        -74.03386
+      ],
+      "vehicle_count": 6,
+      "direction": "S-N",
+      "boundary_type": "west_start",
+      "boundary_side": "west",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 2.0,
+      "speed": 6.111111,
+      "length": 333.0,
+      "road_name": "CR-681/Paterson Plank Rd",
+      "result_index": 698,
+      "link_index": 4,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.72941,
+        -74.03482
+      ],
+      "vehicle_count": 5,
+      "direction": "E-W",
+      "boundary_type": "west_end",
+      "boundary_side": "west",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 3.8,
+      "speed": 8.333334,
+      "length": 136.0,
+      "road_name": "New Jersey/New York State Line",
+      "result_index": 11,
+      "link_index": 4,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.70958,
+        -73.99177
+      ],
+      "vehicle_count": 5,
+      "direction": "NW-SE",
+      "boundary_type": "south_end",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 0.4,
+      "speed": 14.166667,
+      "length": 422.0,
+      "road_name": "Canal St",
+      "result_index": 677,
+      "link_index": 19,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75963,
+        -73.99548
+      ],
+      "vehicle_count": 5,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 3.2,
+      "speed": 2.2222223,
+      "length": 170.0,
+      "road_name": "RT-9A/West Side Hwy",
+      "result_index": 811,
+      "link_index": 2,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76067,
+        -74.02744
+      ],
+      "vehicle_count": 4,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.4,
+      "speed": 3.0555556,
+      "length": 76.0,
+      "road_name": "CR-670/14th St",
+      "result_index": 8,
+      "link_index": 4,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71186,
+        -74.00392
+      ],
+      "vehicle_count": 4,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 3.1,
+      "speed": 1.388889,
+      "length": 151.0,
+      "road_name": "10th Ave",
+      "result_index": 134,
+      "link_index": 0,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76028,
+        -73.96751
+      ],
+      "vehicle_count": 4,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 2.1,
+      "speed": 3.0555556,
+      "length": 217.0,
+      "road_name": "3rd Ave",
+      "result_index": 151,
+      "link_index": 0,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71273,
+        -74.00441
+      ],
+      "vehicle_count": 4,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 30.0,
+      "road_name": "58th St",
+      "result_index": 622,
+      "link_index": 24,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7121,
+        -73.98681
+      ],
+      "vehicle_count": 4,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 28.0,
+      "road_name": "E Broadway",
+      "result_index": 646,
+      "link_index": 4,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.70949,
+        -73.9919
+      ],
+      "vehicle_count": 4,
+      "direction": "NW-SE",
+      "boundary_type": "south_end",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 0.0,
+      "speed": 14.166667,
+      "length": 408.0,
+      "road_name": "Canal St/Bowery",
+      "result_index": 837,
+      "link_index": 20,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71101,
+        -74.01447
+      ],
+      "vehicle_count": 4,
+      "direction": "N-S",
+      "boundary_type": "south_end",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 3.4,
+      "speed": 5.8333335,
+      "length": 121.0,
+      "road_name": "Chambers St",
+      "result_index": 902,
+      "link_index": 11,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.72906,
+        -74.03329
+      ],
+      "vehicle_count": 3,
+      "direction": "E-W",
+      "boundary_type": "west_start",
+      "boundary_side": "west",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 3.8,
+      "speed": 8.333334,
+      "length": 93.0,
+      "road_name": "New Jersey/New York State Line",
+      "result_index": 11,
+      "link_index": 5,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7588,
+        -74.03488
+      ],
+      "vehicle_count": 3,
+      "direction": "W-E",
+      "boundary_type": "north_end",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 3.1,
+      "speed": 1.6666667,
+      "length": 99.0,
+      "road_name": "10th Ave",
+      "result_index": 485,
+      "link_index": 0,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75879,
+        -73.97702
+      ],
+      "vehicle_count": 3,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 2.4,
+      "speed": 1.9444445,
+      "length": 131.0,
+      "road_name": "Church St",
+      "result_index": 526,
+      "link_index": 0,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.74249,
+        -73.95667
+      ],
+      "vehicle_count": 3,
+      "direction": "W-E",
+      "boundary_type": "east_end",
+      "boundary_side": "east",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 3.1,
+      "speed": 1.6666667,
+      "length": 110.0,
+      "road_name": "2nd St",
+      "result_index": 685,
+      "link_index": 0,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71124,
+        -73.98478
+      ],
+      "vehicle_count": 3,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 3.3,
+      "speed": 6.666667,
+      "length": 120.0,
+      "road_name": "11th Ave",
+      "result_index": 767,
+      "link_index": 1,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71208,
+        -74.01423
+      ],
+      "vehicle_count": 3,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 3.4,
+      "speed": 5.8333335,
+      "length": 105.0,
+      "road_name": "Chambers St",
+      "result_index": 902,
+      "link_index": 12,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76094,
+        -73.97964
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 2.2,
+      "speed": 9.166667,
+      "length": 109.0,
+      "road_name": "60th St/2nd Ave",
+      "result_index": 6,
+      "link_index": 21,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75919,
+        -74.028
+      ],
+      "vehicle_count": 2,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.4,
+      "speed": 3.0555556,
+      "length": 37.0,
+      "road_name": "CR-670/14th St",
+      "result_index": 8,
+      "link_index": 9,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71127,
+        -74.00022
+      ],
+      "vehicle_count": 2,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.1,
+      "speed": 2.2222223,
+      "length": 43.0,
+      "road_name": "Oliver St/Walter Jonas Judah St",
+      "result_index": 36,
+      "link_index": 0,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71225,
+        -73.99925
+      ],
+      "vehicle_count": 2,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.1,
+      "speed": 2.2222223,
+      "length": 50.0,
+      "road_name": "Oliver St/Walter Jonas Judah St",
+      "result_index": 36,
+      "link_index": 4,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71287,
+        -73.99861
+      ],
+      "vehicle_count": 2,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.1,
+      "speed": 2.2222223,
+      "length": 54.0,
+      "road_name": "Oliver St/Walter Jonas Judah St",
+      "result_index": 36,
+      "link_index": 6,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71108,
+        -73.99207
+      ],
+      "vehicle_count": 2,
+      "direction": "N-S",
+      "boundary_type": "south_end",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 2.6,
+      "speed": 3.0555556,
+      "length": 79.0,
+      "road_name": "E Broadway",
+      "result_index": 91,
+      "link_index": 2,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71254,
+        -73.95438
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 13.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 174,
+      "link_index": 7,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76024,
+        -74.00329
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 14.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 174,
+      "link_index": 11,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.74283,
+        -74.03306
+      ],
+      "vehicle_count": 2,
+      "direction": "S-N",
+      "boundary_type": "west_start",
+      "boundary_side": "west",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 1.4,
+      "speed": 4.4444447,
+      "length": 141.0,
+      "road_name": "CR-681/Observer Hwy",
+      "result_index": 224,
+      "link_index": 29,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.74283,
+        -74.03306
+      ],
+      "vehicle_count": 2,
+      "direction": "S-N",
+      "boundary_type": "west_start",
+      "boundary_side": "west",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 1.4,
+      "speed": 4.4444447,
+      "length": 147.0,
+      "road_name": "CR-681/Observer Hwy",
+      "result_index": 224,
+      "link_index": 30,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71182,
+        -73.95504
+      ],
+      "vehicle_count": 2,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 0.0,
+      "speed": 13.611112,
+      "length": 234.0,
+      "road_name": "I-278/Brooklyn Queens Expy",
+      "result_index": 225,
+      "link_index": 11,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76006,
+        -74.00285
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 2.6,
+      "speed": 8.055555,
+      "length": 98.0,
+      "road_name": "34th St",
+      "result_index": 390,
+      "link_index": 4,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75914,
+        -74.00352
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 2.6,
+      "speed": 8.055555,
+      "length": 97.0,
+      "road_name": "34th St",
+      "result_index": 390,
+      "link_index": 6,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75918,
+        -73.9654
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 3.1,
+      "speed": 3.0555556,
+      "length": 69.0,
+      "road_name": "53rd St",
+      "result_index": 463,
+      "link_index": 1,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75979,
+        -73.97629
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 3.1,
+      "speed": 4.166667,
+      "length": 80.0,
+      "road_name": "34th St",
+      "result_index": 518,
+      "link_index": 8,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76061,
+        -73.96435
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.1,
+      "speed": 1.9444445,
+      "length": 41.0,
+      "road_name": "57th St",
+      "result_index": 567,
+      "link_index": 0,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76029,
+        -73.96459
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.1,
+      "speed": 1.9444445,
+      "length": 40.0,
+      "road_name": "57th St",
+      "result_index": 567,
+      "link_index": 1,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75976,
+        -73.96498
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.1,
+      "speed": 1.9444445,
+      "length": 52.0,
+      "road_name": "57th St",
+      "result_index": 567,
+      "link_index": 3,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71273,
+        -74.00441
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 16.0,
+      "road_name": "58th St",
+      "result_index": 622,
+      "link_index": 23,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76041,
+        -73.96352
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 14.0,
+      "road_name": "58th St",
+      "result_index": 622,
+      "link_index": 27,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75978,
+        -73.96395
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 15.0,
+      "road_name": "58th St",
+      "result_index": 622,
+      "link_index": 29,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71276,
+        -73.98691
+      ],
+      "vehicle_count": 2,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 16.0,
+      "road_name": "E Broadway",
+      "result_index": 646,
+      "link_index": 6,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75928,
+        -73.95926
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 1.6,
+      "speed": 3.3333335,
+      "length": 128.0,
+      "road_name": "RT-9A/West Side Hwy/West St",
+      "result_index": 676,
+      "link_index": 0,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7143,
+        -73.95684
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 5.1,
+      "speed": 1.388889,
+      "length": 53.0,
+      "road_name": "Dyer Av",
+      "result_index": 732,
+      "link_index": 2,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71124,
+        -73.98478
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 3.3,
+      "speed": 6.666667,
+      "length": 62.0,
+      "road_name": "11th Ave",
+      "result_index": 767,
+      "link_index": 4,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76078,
+        -73.98447
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_end",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 2.8,
+      "speed": 3.0555556,
+      "length": 80.0,
+      "road_name": "W 44th St/7th Ave/Times Sq",
+      "result_index": 792,
+      "link_index": 13,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75984,
+        -73.98414
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 2.8,
+      "speed": 3.0555556,
+      "length": 81.0,
+      "road_name": "W 44th St/7th Ave/Times Sq",
+      "result_index": 792,
+      "link_index": 15,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7592,
+        -73.9846
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 2.8,
+      "speed": 3.0555556,
+      "length": 79.0,
+      "road_name": "W 44th St/7th Ave/Times Sq",
+      "result_index": 792,
+      "link_index": 16,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.713,
+        -74.01395
+      ],
+      "vehicle_count": 2,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 3.4,
+      "speed": 5.8333335,
+      "length": 77.0,
+      "road_name": "Chambers St",
+      "result_index": 902,
+      "link_index": 13,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76043,
+        -73.9624
+      ],
+      "vehicle_count": 2,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 4.1,
+      "speed": 11.111112,
+      "length": 64.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 943,
+      "link_index": 4,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71592,
+        -73.95762
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "east_start",
+      "boundary_side": "east",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 3.0,
+      "speed": 3.888889,
+      "length": 81.0,
+      "road_name": "S 4th St",
+      "result_index": 967,
+      "link_index": 15,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71536,
+        -73.95822
+      ],
+      "vehicle_count": 2,
+      "direction": "SW-NE",
+      "boundary_type": "east_start",
+      "boundary_side": "east",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 3.0,
+      "speed": 3.888889,
+      "length": 79.0,
+      "road_name": "S 4th St",
+      "result_index": 967,
+      "link_index": 16,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76094,
+        -73.97964
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 2.2,
+      "speed": 9.166667,
+      "length": 63.0,
+      "road_name": "60th St/2nd Ave",
+      "result_index": 6,
+      "link_index": 19,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76094,
+        -73.97964
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 2.2,
+      "speed": 9.166667,
+      "length": 62.0,
+      "road_name": "60th St/2nd Ave",
+      "result_index": 6,
+      "link_index": 20,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76094,
+        -73.97964
+      ],
+      "vehicle_count": 1,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 2.2,
+      "speed": 9.166667,
+      "length": 82.0,
+      "road_name": "60th St/2nd Ave",
+      "result_index": 6,
+      "link_index": 24,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76003,
+        -74.02775
+      ],
+      "vehicle_count": 1,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.4,
+      "speed": 3.0555556,
+      "length": 32.0,
+      "road_name": "CR-670/14th St",
+      "result_index": 8,
+      "link_index": 5,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75968,
+        -74.02786
+      ],
+      "vehicle_count": 1,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.4,
+      "speed": 3.0555556,
+      "length": 25.0,
+      "road_name": "CR-670/14th St",
+      "result_index": 8,
+      "link_index": 7,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75946,
+        -74.02793
+      ],
+      "vehicle_count": 1,
+      "direction": "S-N",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.4,
+      "speed": 3.0555556,
+      "length": 31.0,
+      "road_name": "CR-670/14th St",
+      "result_index": 8,
+      "link_index": 8,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71206,
+        -74.01016
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 1.7,
+      "speed": 3.3333335,
+      "length": 85.0,
+      "road_name": "Chambers St",
+      "result_index": 10,
+      "link_index": 0,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71274,
+        -74.0097
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 1.7,
+      "speed": 3.3333335,
+      "length": 69.0,
+      "road_name": "Chambers St",
+      "result_index": 10,
+      "link_index": 1,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71158,
+        -73.99991
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.1,
+      "speed": 2.2222223,
+      "length": 29.0,
+      "road_name": "Oliver St/Walter Jonas Judah St",
+      "result_index": 36,
+      "link_index": 1,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71179,
+        -73.99971
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.1,
+      "speed": 2.2222223,
+      "length": 31.0,
+      "road_name": "Oliver St/Walter Jonas Judah St",
+      "result_index": 36,
+      "link_index": 2,
+      "near_incident": false
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71201,
+        -73.99949
+      ],
+      "vehicle_count": 1,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.1,
+      "speed": 2.2222223,
+      "length": 34.0,
+      "road_name": "Oliver St/Walter Jonas Judah St",
+      "result_index": 36,
+      "link_index": 3,
+      "near_incident": false
+    }
+  ],
+  "top_outflows": [
+    {
+      "type": "outflow",
+      "location": [
+        40.7109,
+        -73.99219
+      ],
+      "vehicle_count": 39,
+      "direction": "E-W",
+      "boundary_type": "north_end",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 7.3,
+      "speed": 6.388889,
+      "length": 451.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 240,
+      "link_index": 0,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73738,
+        -74.03375
+      ],
+      "vehicle_count": 18,
+      "direction": "E-W",
+      "boundary_type": "north_end",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 3.6,
+      "speed": 8.055555,
+      "length": 520.0,
+      "road_name": "RT-495/Lincoln Tunnel Expy/Dyer Ave",
+      "result_index": 324,
+      "link_index": 0,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71108,
+        -74.01465
+      ],
+      "vehicle_count": 15,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 7.1,
+      "speed": 3.3333335,
+      "length": 186.0,
+      "road_name": "Brooklyn Battery Tunl",
+      "result_index": 575,
+      "link_index": 11,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73738,
+        -74.03375
+      ],
+      "vehicle_count": 14,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 3.6,
+      "speed": 8.055555,
+      "length": 414.0,
+      "road_name": "RT-495/Lincoln Tunnel Expy/Dyer Ave",
+      "result_index": 324,
+      "link_index": 5,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "vehicle_count": 13,
+      "direction": "E-W",
+      "boundary_type": "north_end",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 2.9,
+      "speed": 12.5,
+      "length": 471.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 427,
+      "link_index": 1,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7109,
+        -73.99219
+      ],
+      "vehicle_count": 7,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 7.3,
+      "speed": 6.388889,
+      "length": 84.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 240,
+      "link_index": 4,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76026,
+        -74.00333
+      ],
+      "vehicle_count": 7,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 2.9,
+      "speed": 12.5,
+      "length": 249.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 427,
+      "link_index": 8,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.70947,
+        -73.99201
+      ],
+      "vehicle_count": 6,
+      "direction": "SE-NW",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 1.2,
+      "speed": 13.055556,
+      "length": 407.0,
+      "road_name": "Flatbush Ave Ext",
+      "result_index": 198,
+      "link_index": 6,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.73738,
+        -74.03375
+      ],
+      "vehicle_count": 6,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 3.6,
+      "speed": 8.055555,
+      "length": 170.0,
+      "road_name": "RT-495/Lincoln Tunnel Expy/Dyer Ave",
+      "result_index": 324,
+      "link_index": 3,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71306,
+        -74.01409
+      ],
+      "vehicle_count": 6,
+      "direction": "S-N",
+      "boundary_type": "south_end",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 7.1,
+      "speed": 3.3333335,
+      "length": 78.0,
+      "road_name": "Brooklyn Battery Tunl",
+      "result_index": 575,
+      "link_index": 9,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76072,
+        -74.00207
+      ],
+      "vehicle_count": 5,
+      "direction": "N-S",
+      "boundary_type": "west_end",
+      "boundary_side": "west",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 1.5,
+      "speed": 6.111111,
+      "length": 333.0,
+      "road_name": "16th St/Mountain Rd",
+      "result_index": 251,
+      "link_index": 7,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75914,
+        -74.00352
+      ],
+      "vehicle_count": 4,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 5.1,
+      "speed": 1.388889,
+      "length": 93.0,
+      "road_name": "FDR Dr N/York Ave",
+      "result_index": 401,
+      "link_index": 2,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75974,
+        -73.97422
+      ],
+      "vehicle_count": 3,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 3.8,
+      "speed": 3.888889,
+      "length": 81.0,
+      "road_name": "E 57th St",
+      "result_index": 188,
+      "link_index": 15,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76036,
+        -73.97377
+      ],
+      "vehicle_count": 3,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 3.8,
+      "speed": 3.888889,
+      "length": 79.0,
+      "road_name": "E 57th St",
+      "result_index": 188,
+      "link_index": 16,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.76099,
+        -73.9733
+      ],
+      "vehicle_count": 3,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 3.8,
+      "speed": 3.888889,
+      "length": 81.0,
+      "road_name": "E 57th St",
+      "result_index": 188,
+      "link_index": 17,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7109,
+        -73.99219
+      ],
+      "vehicle_count": 3,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 7.3,
+      "speed": 6.388889,
+      "length": 45.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 240,
+      "link_index": 1,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7109,
+        -73.99219
+      ],
+      "vehicle_count": 3,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 7.3,
+      "speed": 6.388889,
+      "length": 43.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 240,
+      "link_index": 3,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7109,
+        -73.99219
+      ],
+      "vehicle_count": 3,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 7.3,
+      "speed": 6.388889,
+      "length": 38.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 240,
+      "link_index": 6,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75883,
+        -73.99607
+      ],
+      "vehicle_count": 3,
+      "direction": "NE-SW",
+      "boundary_type": "north_end",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.1,
+      "speed": 1.388889,
+      "length": 61.0,
+      "road_name": "W 41st St",
+      "result_index": 565,
+      "link_index": 2,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71271,
+        -74.01417
+      ],
+      "vehicle_count": 3,
+      "direction": "S-N",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 7.1,
+      "speed": 3.3333335,
+      "length": 39.0,
+      "road_name": "Brooklyn Battery Tunl",
+      "result_index": 575,
+      "link_index": 10,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71306,
+        -74.0072
+      ],
+      "vehicle_count": 3,
+      "direction": "SW-NE",
+      "boundary_type": "south_end",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 7.1,
+      "speed": 2.2222223,
+      "length": 46.0,
+      "road_name": "Park Row/Vesey St/Ann St",
+      "result_index": 695,
+      "link_index": 2,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71252,
+        -74.00767
+      ],
+      "vehicle_count": 3,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 7.1,
+      "speed": 2.2222223,
+      "length": 46.0,
+      "road_name": "Park Row/Vesey St/Ann St",
+      "result_index": 695,
+      "link_index": 4,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71218,
+        -74.00794
+      ],
+      "vehicle_count": 3,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 7.1,
+      "speed": 2.2222223,
+      "length": 36.0,
+      "road_name": "Park Row/Vesey St/Ann St",
+      "result_index": 695,
+      "link_index": 6,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7114,
+        -74.00863
+      ],
+      "vehicle_count": 3,
+      "direction": "SW-NE",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 7.1,
+      "speed": 2.2222223,
+      "length": 42.0,
+      "road_name": "Park Row/Vesey St/Ann St",
+      "result_index": 695,
+      "link_index": 9,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75945,
+        -73.99561
+      ],
+      "vehicle_count": 3,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.1,
+      "speed": 1.388889,
+      "length": 62.0,
+      "road_name": "W 42nd St",
+      "result_index": 796,
+      "link_index": 0,
+      "near_incident": false
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75887,
+        -74.0281
+      ],
+      "vehicle_count": 2,
+      "direction": "N-S",
+      "boundary_type": "north_end",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 1.5,
+      "speed": 5.277778,
+      "length": 146.0,
+      "road_name": "RT-495/Park Ave",
+      "result_index": 30,
+      "link_index": 12,
+      "near_incident": false
+    }
+  ]
+}

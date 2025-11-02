@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="passenger" vClass="passenger" color="0,0,1" accel="2.6" decel="4.5" sigma="0.5" length="4.5" minGap="2.5" maxSpeed="15" speedDev="0.1" guiShape="passenger"/>
+    <vType id="taxi" vClass="taxi" color="1,1,0" accel="2.8" decel="4.5" sigma="0.5" length="4.5" minGap="2.0" maxSpeed="16" speedDev="0.1" guiShape="passenger"/>
+    <vType id="delivery" vClass="delivery" color="1,0,0" accel="2.4" decel="4.0" sigma="0.5" length="6.5" minGap="3.0" maxSpeed="14" speedDev="0.1" guiShape="delivery"/>
+    <vType id="bus" vClass="bus" color="0,1,0" accel="2.0" decel="3.5" sigma="0.5" length="12.0" minGap="3.5" maxSpeed="13" speedDev="0.1" guiShape="bus"/>
+    <vType id="emergency" vClass="emergency" color="1,0,0" accel="3.0" decel="5.0" sigma="0.5" length="6.0" minGap="2.5" maxSpeed="20" speedDev="0.1" guiShape="emergency"/>
+</routes>

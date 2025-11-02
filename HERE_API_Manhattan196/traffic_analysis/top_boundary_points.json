@@ -1,0 +1,940 @@
+{
+  "total_boundary_points": 734,
+  "inflows": 393,
+  "outflows": 341,
+  "top_inflows": [
+    {
+      "type": "inflow",
+      "location": [
+        40.76077,
+        -74.02662
+      ],
+      "vehicle_count": 41,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 249.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 479,
+      "link_index": 6
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76077,
+        -74.02662
+      ],
+      "vehicle_count": 28,
+      "direction": "W-E",
+      "boundary_type": "north_end",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 173.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 479,
+      "link_index": 4
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "vehicle_count": 24,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 8.1,
+      "speed": 1.6666667,
+      "length": 234.0,
+      "road_name": "Unknown Road",
+      "result_index": 183,
+      "link_index": 9
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76072,
+        -74.00207
+      ],
+      "vehicle_count": 23,
+      "direction": "W-E",
+      "boundary_type": "south_end",
+      "boundary_side": "south",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 8.1,
+      "speed": 5.8333335,
+      "length": 230.0,
+      "road_name": "Delancey St",
+      "result_index": 620,
+      "link_index": 2
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71255,
+        -73.97756
+      ],
+      "vehicle_count": 22,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 8.8,
+      "speed": 3.888889,
+      "length": 178.0,
+      "road_name": "Grand St/Exit 4",
+      "result_index": 92,
+      "link_index": 9
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71254,
+        -73.95438
+      ],
+      "vehicle_count": 22,
+      "direction": "W-E",
+      "boundary_type": "north_end",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 8.1,
+      "speed": 1.6666667,
+      "length": 216.0,
+      "road_name": "Unknown Road",
+      "result_index": 585,
+      "link_index": 3
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76072,
+        -74.00207
+      ],
+      "vehicle_count": 18,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 8.1,
+      "speed": 5.8333335,
+      "length": 181.0,
+      "road_name": "Delancey St",
+      "result_index": 620,
+      "link_index": 7
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76072,
+        -74.00207
+      ],
+      "vehicle_count": 17,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 8.1,
+      "speed": 5.8333335,
+      "length": 168.0,
+      "road_name": "Delancey St",
+      "result_index": 620,
+      "link_index": 6
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71254,
+        -73.95438
+      ],
+      "vehicle_count": 16,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 8.1,
+      "speed": 1.6666667,
+      "length": 157.0,
+      "road_name": "Unknown Road",
+      "result_index": 585,
+      "link_index": 4
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "vehicle_count": 15,
+      "direction": "W-E",
+      "boundary_type": "north_end",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 8.1,
+      "speed": 1.6666667,
+      "length": 148.0,
+      "road_name": "Unknown Road",
+      "result_index": 183,
+      "link_index": 4
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "vehicle_count": 15,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 8.1,
+      "speed": 1.6666667,
+      "length": 147.0,
+      "road_name": "Unknown Road",
+      "result_index": 183,
+      "link_index": 6
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71254,
+        -73.95438
+      ],
+      "vehicle_count": 15,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 8.1,
+      "speed": 1.6666667,
+      "length": 147.0,
+      "road_name": "Unknown Road",
+      "result_index": 585,
+      "link_index": 5
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71254,
+        -73.95438
+      ],
+      "vehicle_count": 15,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 8.1,
+      "speed": 1.6666667,
+      "length": 148.0,
+      "road_name": "Unknown Road",
+      "result_index": 585,
+      "link_index": 7
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71169,
+        -73.97824
+      ],
+      "vehicle_count": 14,
+      "direction": "NE-SW",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 8.8,
+      "speed": 3.888889,
+      "length": 112.0,
+      "road_name": "Grand St/Exit 4",
+      "result_index": 92,
+      "link_index": 8
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75966,
+        -73.96403
+      ],
+      "vehicle_count": 13,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 82.0,
+      "road_name": "58th St",
+      "result_index": 125,
+      "link_index": 30
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75796,
+        -73.95709
+      ],
+      "vehicle_count": 12,
+      "direction": "W-E",
+      "boundary_type": "east_end",
+      "boundary_side": "east",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 75.0,
+      "road_name": "58th St",
+      "result_index": 125,
+      "link_index": 14
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.713,
+        -73.98695
+      ],
+      "vehicle_count": 11,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 72.0,
+      "road_name": "E Broadway",
+      "result_index": 78,
+      "link_index": 8
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "vehicle_count": 11,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "boundary_side": "east",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 72.0,
+      "road_name": "58th St",
+      "result_index": 125,
+      "link_index": 18
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76077,
+        -74.02662
+      ],
+      "vehicle_count": 11,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 68.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 479,
+      "link_index": 5
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71154,
+        -73.98674
+      ],
+      "vehicle_count": 10,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 63.0,
+      "road_name": "E Broadway",
+      "result_index": 78,
+      "link_index": 3
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75827,
+        -73.95787
+      ],
+      "vehicle_count": 10,
+      "direction": "W-E",
+      "boundary_type": "east_start",
+      "boundary_side": "east",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 62.0,
+      "road_name": "58th St",
+      "result_index": 125,
+      "link_index": 15
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "vehicle_count": 10,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 64.0,
+      "road_name": "58th St",
+      "result_index": 125,
+      "link_index": 19
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "vehicle_count": 10,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 66.0,
+      "road_name": "58th St",
+      "result_index": 125,
+      "link_index": 20
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "vehicle_count": 10,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 63.0,
+      "road_name": "58th St",
+      "result_index": 125,
+      "link_index": 25
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "vehicle_count": 10,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 62.0,
+      "road_name": "58th St",
+      "result_index": 125,
+      "link_index": 26
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.7603,
+        -73.96361
+      ],
+      "vehicle_count": 10,
+      "direction": "SW-NE",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 65.0,
+      "road_name": "58th St",
+      "result_index": 125,
+      "link_index": 28
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76072,
+        -74.00207
+      ],
+      "vehicle_count": 9,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 8.1,
+      "speed": 5.8333335,
+      "length": 94.0,
+      "road_name": "Delancey St",
+      "result_index": 620,
+      "link_index": 5
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "vehicle_count": 8,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 8.1,
+      "speed": 1.6666667,
+      "length": 82.0,
+      "road_name": "Unknown Road",
+      "result_index": 183,
+      "link_index": 8
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76072,
+        -74.00207
+      ],
+      "vehicle_count": 8,
+      "direction": "W-E",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 8.1,
+      "speed": 5.8333335,
+      "length": 83.0,
+      "road_name": "Delancey St",
+      "result_index": 620,
+      "link_index": 3
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71308,
+        -73.9937
+      ],
+      "vehicle_count": 7,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 7.1,
+      "speed": 1.6666667,
+      "length": 94.0,
+      "road_name": "5th Ave",
+      "result_index": 51,
+      "link_index": 3
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71115,
+        -73.98671
+      ],
+      "vehicle_count": 7,
+      "direction": "N-S",
+      "boundary_type": "south_end",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 44.0,
+      "road_name": "E Broadway",
+      "result_index": 78,
+      "link_index": 2
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.71235,
+        -73.98685
+      ],
+      "vehicle_count": 7,
+      "direction": "N-S",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 46.0,
+      "road_name": "E Broadway",
+      "result_index": 78,
+      "link_index": 5
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "vehicle_count": 7,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 44.0,
+      "road_name": "58th St",
+      "result_index": 125,
+      "link_index": 21
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75865,
+        -73.95876
+      ],
+      "vehicle_count": 7,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 10.0,
+      "speed": 0,
+      "length": 45.0,
+      "road_name": "58th St",
+      "result_index": 125,
+      "link_index": 22
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "vehicle_count": 7,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 8.1,
+      "speed": 1.6666667,
+      "length": 74.0,
+      "road_name": "Unknown Road",
+      "result_index": 183,
+      "link_index": 7
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.76096,
+        -73.96911
+      ],
+      "vehicle_count": 7,
+      "direction": "SW-NE",
+      "boundary_type": "north_end",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 7.1,
+      "speed": 2.5,
+      "length": 91.0,
+      "road_name": "E 45th St",
+      "result_index": 240,
+      "link_index": 0
+    },
+    {
+      "type": "inflow",
+      "location": [
+        40.75908,
+        -73.97849
+      ],
+      "vehicle_count": 7,
+      "direction": "W-E",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 3.3,
+      "speed": 2.2222223,
+      "length": 217.0,
+      "road_name": "3rd Ave",
+      "result_index": 742,
+      "link_index": 0
+    }
+  ],
+  "top_outflows": [
+    {
+      "type": "outflow",
+      "location": [
+        40.75928,
+        -73.95926
+      ],
+      "vehicle_count": 16,
+      "direction": "E-W",
+      "boundary_type": "south_end",
+      "boundary_side": "south",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 8.8,
+      "speed": 3.888889,
+      "length": 127.0,
+      "road_name": "Grand St/Exit 4",
+      "result_index": 92,
+      "link_index": 5
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71247,
+        -73.97777
+      ],
+      "vehicle_count": 14,
+      "direction": "SW-NE",
+      "boundary_type": "south_end",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 6.6,
+      "speed": 8.333334,
+      "length": 189.0,
+      "road_name": "Grand St/Exit 4",
+      "result_index": 733,
+      "link_index": 4
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75929,
+        -73.99862
+      ],
+      "vehicle_count": 10,
+      "direction": "E-W",
+      "boundary_type": "south_end",
+      "boundary_side": "south",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 2.5,
+      "speed": 11.111112,
+      "length": 401.0,
+      "road_name": "Delancey St",
+      "result_index": 201,
+      "link_index": 3
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75788,
+        -73.95929
+      ],
+      "vehicle_count": 6,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 2.8,
+      "speed": 2.2222223,
+      "length": 217.0,
+      "road_name": "2nd Ave",
+      "result_index": 158,
+      "link_index": 0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "vehicle_count": 6,
+      "direction": "E-W",
+      "boundary_type": "north_end",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 0.4,
+      "speed": 13.055556,
+      "length": 520.0,
+      "road_name": "RT-495/Lincoln Tunnel Expy/Dyer Ave",
+      "result_index": 181,
+      "link_index": 0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.70947,
+        -73.99201
+      ],
+      "vehicle_count": 6,
+      "direction": "SE-NW",
+      "boundary_type": "south_start",
+      "boundary_side": "south",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 1.1,
+      "speed": 13.055556,
+      "length": 407.0,
+      "road_name": "Flatbush Ave Ext",
+      "result_index": 490,
+      "link_index": 6
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75827,
+        -73.95787
+      ],
+      "vehicle_count": 6,
+      "direction": "E-W",
+      "boundary_type": "north_end",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 0.7,
+      "speed": 14.722222,
+      "length": 451.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 570,
+      "link_index": 0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71306,
+        -73.99389
+      ],
+      "vehicle_count": 6,
+      "direction": "E-W",
+      "boundary_type": "south_end",
+      "boundary_side": "south",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 1.3,
+      "speed": 13.055556,
+      "length": 401.0,
+      "road_name": "Broadway",
+      "result_index": 771,
+      "link_index": 10
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75976,
+        -73.96498
+      ],
+      "vehicle_count": 5,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": false,
+      "jam_factor": 3.5,
+      "speed": 1.6666667,
+      "length": 151.0,
+      "road_name": "Dyer Av",
+      "result_index": 675,
+      "link_index": 0
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.75962,
+        -73.962
+      ],
+      "vehicle_count": 4,
+      "direction": "E-W",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 0.4,
+      "speed": 13.055556,
+      "length": 414.0,
+      "road_name": "RT-495/Lincoln Tunnel Expy/Dyer Ave",
+      "result_index": 181,
+      "link_index": 5
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.71163,
+        -73.96608
+      ],
+      "vehicle_count": 4,
+      "direction": "E-W",
+      "boundary_type": "north_end",
+      "boundary_side": "north",
+      "is_parallel": true,
+      "is_one_way": true,
+      "jam_factor": 0.0,
+      "speed": 15.555556,
+      "length": 471.0,
+      "road_name": "Lincoln Tunnel East",
+      "result_index": 208,
+      "link_index": 1
+    },
+    {
+      "type": "outflow",
+      "location": [
+        40.7603,
+        -73.99498
+      ],
+      "vehicle_count": 4,
+      "direction": "NE-SW",
+      "boundary_type": "north_start",
+      "boundary_side": "north",
+      "is_parallel": false,
+      "is_one_way": false,
+      "jam_factor": 5.1,
+      "speed": 3.3333335,
+      "length": 86.0,
+      "road_name": "W 56th St",
+      "result_index": 512,
+      "link_index": 0
+    }
+  ]
+}

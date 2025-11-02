@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <input>
+        <additional-files value="speeds_0.add.xml"/>
+        <additional-files value="speeds_1.add.xml"/>
+        <additional-files value="speeds_2.add.xml"/>
+        <additional-files value="speeds_3.add.xml"/>
+        <additional-files value="speeds_4.add.xml"/>
+        <additional-files value="speeds_5.add.xml"/>
+        <additional-files value="speeds_6.add.xml"/>
+        <additional-files value="speeds_7.add.xml"/>
+        <additional-files value="speeds_8.add.xml"/>
+        <additional-files value="speeds_9.add.xml"/>
+        <additional-files value="speeds_10.add.xml"/>
+        <additional-files value="speeds_11.add.xml"/>
+    </input>
+</configuration>

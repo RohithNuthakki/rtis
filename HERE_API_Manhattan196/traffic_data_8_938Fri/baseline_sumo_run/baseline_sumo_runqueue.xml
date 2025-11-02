@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-05-10 15:46:47 by Eclipse SUMO sumo Version v1_22_0+0847-70147e1e8ab
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/baseline.net.xml"/>
+        <route-files value="/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/baseline_flows.xml"/>
+        <additional-files value="/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/speeds_0.add.xml,/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/speeds_1.add.xml,/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/speeds_2.add.xml,/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/speeds_3.add.xml,/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/speeds_4.add.xml,/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/speeds_5.add.xml,/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/speeds_6.add.xml,/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/speeds_7.add.xml,/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/speeds_8.add.xml,/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/speeds_9.add.xml,/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/speeds_10.add.xml,/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/speeds_11.add.xml"/>
+    </input>
+
+    <output>
+        <output-prefix value="baseline_sumo_run"/>
+        <queue-output value="/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/queue.xml"/>
+        <summary-output value="/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/summary.xml"/>
+        <tripinfo-output value="/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/tripinfo.xml"/>
+        <lanechange-output value="/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/lanechange.xml"/>
+        <statistic-output value="/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/statistics.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="5734.0"/>
+        <step-length value="1.0"/>
+    </time>
+
+    <processing>
+        <ignore-junction-blocker value="60"/>
+        <collision.action value="warn"/>
+        <time-to-teleport value="300"/>
+    </processing>
+
+    <report>
+        <verbose value="true"/>
+        <no-warnings value="false"/>
+        <log value="/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/simulation.log"/>
+        <duration-log.statistics value="true"/>
+    </report>
+
+    <random_number>
+        <random value="true"/>
+    </random_number>
+
+    <gui_only>
+        <gui-settings-file value="/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/gui-settings.xml"/>
+        <quit-on-end value="false"/>
+        <start value="false"/>
+    </gui_only>
+
+</sumoConfiguration>
+-->
+
+<queue-export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/queue_file.xsd">
+</queue-export>

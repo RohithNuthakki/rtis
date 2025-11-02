@@ -1,0 +1,69 @@
+COMPREHENSIVE TRAFFIC SIGNAL FORMULA VALIDATION REPORT
+============================================================
+
+Data points analyzed: 119000
+From 10 episodes
+Across 5 traffic patterns
+
+STRATEGY PERFORMANCE SUMMARY
+------------------------------
+              Strategy   Count  Mean Improvement   Std Dev   p-value Significant
+0  Original (Baseline)  119000         -0.014945  2.271644       NaN         NaN
+1          Fixed Cycle   25500          0.003440  2.266551  0.144182       False
+2     Random Selection   59479         -0.008062  2.272718  0.296060       False
+3         Max Pressure  119000         -0.014945  2.271644       NaN         NaN
+4    Generated Formula  119000         -0.014945  2.271644       NaN         NaN
+5   Simplified Formula  119000         -0.014945  2.271644       NaN         NaN
+
+PREDICTION ACCURACY (GENERATED FORMULA)
+------------------------------
+RMSE: 2.2004
+R²: 0.0617
+
+PERFORMANCE BY TRAFFIC PATTERN
+------------------------------
+
+weekend:
+  Traffic Pattern             Strategy  Count  Mean Improvement   Std Dev
+0         weekend  Original (Baseline)  11900         -0.019203  2.917549
+1         weekend          Fixed Cycle   2550         -0.149242  2.887365
+2         weekend     Random Selection   6008         -0.028848  2.895712
+3         weekend         Max Pressure  11900         -0.019203  2.917549
+4         weekend    Generated Formula  11900         -0.019203  2.917549
+5         weekend   Simplified Formula  11900         -0.019203  2.917549
+
+evening_rush:
+   Traffic Pattern             Strategy  Count  Mean Improvement   Std Dev
+6     evening_rush  Original (Baseline)  47600         -0.014109  1.732107
+7     evening_rush          Fixed Cycle  10200          0.004335  1.717682
+8     evening_rush     Random Selection  23755         -0.013407  1.739428
+9     evening_rush         Max Pressure  47600         -0.014109  1.732107
+10    evening_rush    Generated Formula  47600         -0.014109  1.732107
+11    evening_rush   Simplified Formula  47600         -0.014109  1.732107
+
+morning_rush:
+   Traffic Pattern             Strategy  Count  Mean Improvement   Std Dev
+12    morning_rush  Original (Baseline)  35700         -0.012850  1.732472
+13    morning_rush          Fixed Cycle   7650          0.022587  1.722002
+14    morning_rush     Random Selection  17804         -0.001492  1.735797
+15    morning_rush         Max Pressure  35700         -0.012850  1.732472
+16    morning_rush    Generated Formula  35700         -0.012850  1.732472
+17    morning_rush   Simplified Formula  35700         -0.012850  1.732472
+
+night:
+   Traffic Pattern             Strategy  Count  Mean Improvement   Std Dev
+18           night  Original (Baseline)  11900         -0.009116  3.701282
+19           night          Fixed Cycle   2550          0.061714  3.710900
+20           night     Random Selection   6022          0.007648  3.704423
+21           night         Max Pressure  11900         -0.009116  3.701282
+22           night    Generated Formula  11900         -0.009116  3.701282
+23           night   Simplified Formula  11900         -0.009116  3.701282
+
+off_peak:
+   Traffic Pattern             Strategy  Count  Mean Improvement   Std Dev
+24        off_peak  Original (Baseline)  11900         -0.026147  2.896445
+25        off_peak          Fixed Cycle   2550          0.036825  2.924153
+26        off_peak     Random Selection   5890         -0.001225  2.875931
+27        off_peak         Max Pressure  11900         -0.026147  2.896445
+28        off_peak    Generated Formula  11900         -0.026147  2.896445
+29        off_peak   Simplified Formula  11900         -0.026147  2.896445

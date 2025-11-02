@@ -1,0 +1,15 @@
+Pure Speed Formula: div(sub(calculated_global_avg_speed, avg_incoming_speed), 2.255)
+Test RMSE: 2.0967
+Test R²: 0.1470
+
+Features used:
+X0: chosen_phase
+X1: transition_needed
+X2: avg_incoming_speed
+X3: avg_outgoing_speed
+X4: calculated_global_avg_speed
+
+This formula uses only pure speed measurements:
+1. Incoming local average speed
+2. Outgoing local average speed
+3. Calculated global average speed (average of all intersection incoming and outgoing speeds)

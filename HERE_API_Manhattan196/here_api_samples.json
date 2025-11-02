@@ -1,0 +1,291 @@
+[
+  {
+    "location": {
+      "description": "Park Ave",
+      "length": 20.0,
+      "shape": {
+        "links": [
+          {
+            "points": [
+              {
+                "lat": 40.74841,
+                "lng": -73.9805
+              },
+              {
+                "lat": 40.74837,
+                "lng": -73.9804
+              }
+            ],
+            "length": 10.0
+          },
+          {
+            "points": [
+              {
+                "lat": 40.74837,
+                "lng": -73.9804
+              },
+              {
+                "lat": 40.74833,
+                "lng": -73.9803
+              }
+            ],
+            "length": 10.0
+          }
+        ]
+      }
+    },
+    "currentFlow": {
+      "speed": 2.777778,
+      "speedUncapped": 2.777778,
+      "freeFlow": 6.388889,
+      "jamFactor": 3.8,
+      "confidence": 0.99,
+      "traversability": "open"
+    }
+  },
+  {
+    "location": {
+      "description": "Cleveland Pl",
+      "length": 18.0,
+      "shape": {
+        "links": [
+          {
+            "points": [
+              {
+                "lat": 40.72153,
+                "lng": -73.99763
+              },
+              {
+                "lat": 40.72146,
+                "lng": -73.99744
+              }
+            ],
+            "length": 18.0
+          }
+        ]
+      }
+    },
+    "currentFlow": {
+      "speed": 8.611112,
+      "speedUncapped": 8.611112,
+      "freeFlow": 9.166667,
+      "jamFactor": 0.5,
+      "confidence": 0.7,
+      "traversability": "open"
+    }
+  },
+  {
+    "location": {
+      "description": "RT-9A/11th Ave/West Side Hwy",
+      "length": 35.0,
+      "shape": {
+        "links": [
+          {
+            "points": [
+              {
+                "lat": 40.74792,
+                "lng": -74.00767
+              },
+              {
+                "lat": 40.7482,
+                "lng": -74.00748
+              }
+            ],
+            "length": 35.0
+          }
+        ]
+      }
+    },
+    "currentFlow": {
+      "speed": 5.277778,
+      "speedUncapped": 5.277778,
+      "freeFlow": 6.388889,
+      "jamFactor": 0.3,
+      "confidence": 0.76,
+      "traversability": "open"
+    }
+  },
+  {
+    "location": {
+      "description": "Canal St",
+      "length": 129.0,
+      "shape": {
+        "links": [
+          {
+            "points": [
+              {
+                "lat": 40.71762,
+                "lng": -74.00027
+              },
+              {
+                "lat": 40.71756,
+                "lng": -74.00011
+              }
+            ],
+            "length": 15.0
+          },
+          {
+            "points": [
+              {
+                "lat": 40.71756,
+                "lng": -74.00011
+              },
+              {
+                "lat": 40.71732,
+                "lng": -73.99944
+              }
+            ],
+            "length": 63.0
+          },
+          {
+            "points": [
+              {
+                "lat": 40.71732,
+                "lng": -73.99944
+              },
+              {
+                "lat": 40.71723,
+                "lng": -73.99914
+              }
+            ],
+            "length": 27.0
+          },
+          {
+            "points": [
+              {
+                "lat": 40.71723,
+                "lng": -73.99914
+              },
+              {
+                "lat": 40.7172,
+                "lng": -73.99895
+              },
+              {
+                "lat": 40.7172,
+                "lng": -73.99886
+              }
+            ],
+            "length": 24.0
+          }
+        ]
+      }
+    },
+    "currentFlow": {
+      "speed": 1.6666667,
+      "speedUncapped": 1.6666667,
+      "freeFlow": 4.166667,
+      "jamFactor": 3.3,
+      "confidence": 0.9,
+      "traversability": "open"
+    }
+  },
+  {
+    "location": {
+      "description": "RT-9A/West Side Hwy/West St",
+      "length": 369.0,
+      "shape": {
+        "links": [
+          {
+            "points": [
+              {
+                "lat": 40.71274,
+                "lng": -74.0097
+              },
+              {
+                "lat": 40.71331,
+                "lng": -74.01101
+              }
+            ],
+            "length": 128.0
+          },
+          {
+            "points": [
+              {
+                "lat": 40.71331,
+                "lng": -74.01101
+              },
+              {
+                "lat": 40.71341,
+                "lng": -74.01122
+              }
+            ],
+            "length": 21.0
+          },
+          {
+            "points": [
+              {
+                "lat": 40.71341,
+                "lng": -74.01122
+              },
+              {
+                "lat": 40.71357,
+                "lng": -74.01154
+              }
+            ],
+            "length": 33.0
+          },
+          {
+            "points": [
+              {
+                "lat": 40.71357,
+                "lng": -74.01154
+              },
+              {
+                "lat": 40.71365,
+                "lng": -74.0117
+              }
+            ],
+            "length": 16.0
+          },
+          {
+            "points": [
+              {
+                "lat": 40.71365,
+                "lng": -74.0117
+              },
+              {
+                "lat": 40.71393,
+                "lng": -74.01231
+              }
+            ],
+            "length": 61.0
+          },
+          {
+            "points": [
+              {
+                "lat": 40.71393,
+                "lng": -74.01231
+              },
+              {
+                "lat": 40.71423,
+                "lng": -74.01301
+              }
+            ],
+            "length": 68.0
+          },
+          {
+            "points": [
+              {
+                "lat": 40.71423,
+                "lng": -74.01301
+              },
+              {
+                "lat": 40.71442,
+                "lng": -74.01343
+              }
+            ],
+            "length": 42.0
+          }
+        ]
+      }
+    },
+    "currentFlow": {
+      "speed": 3.3333335,
+      "speedUncapped": 3.3333335,
+      "freeFlow": 3.888889,
+      "jamFactor": 0.0,
+      "confidence": 0.95,
+      "traversability": "open"
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "timestamp": "2025-04-04T08:02:40.776856",
+    "collection_number": 1,
+    "total_collections": 11,
+    "minutes_from_start": 0,
+    "traffic_data_results": 991,
+    "incidents_count": 49
+  },
+  {
+    "timestamp": "2025-04-04T08:08:40.577730",
+    "collection_number": 2,
+    "total_collections": 11,
+    "minutes_from_start": 6,
+    "traffic_data_results": 991,
+    "incidents_count": 64
+  },
+  {
+    "timestamp": "2025-04-04T08:38:15.614997",
+    "collection_number": 1,
+    "total_collections": 11,
+    "minutes_from_start": 0,
+    "traffic_data_results": 992,
+    "incidents_count": 63
+  },
+  {
+    "timestamp": "2025-04-04T08:44:15.447812",
+    "collection_number": 2,
+    "total_collections": 11,
+    "minutes_from_start": 6,
+    "traffic_data_results": 990,
+    "incidents_count": 62
+  },
+  {
+    "timestamp": "2025-04-04T08:50:15.159902",
+    "collection_number": 3,
+    "total_collections": 11,
+    "minutes_from_start": 12,
+    "traffic_data_results": 991,
+    "incidents_count": 61
+  },
+  {
+    "timestamp": "2025-04-04T08:56:14.768788",
+    "collection_number": 4,
+    "total_collections": 11,
+    "minutes_from_start": 18,
+    "traffic_data_results": 987,
+    "incidents_count": 61
+  },
+  {
+    "timestamp": "2025-04-04T09:02:15.294815",
+    "collection_number": 5,
+    "total_collections": 11,
+    "minutes_from_start": 24,
+    "traffic_data_results": 990,
+    "incidents_count": 61
+  },
+  {
+    "timestamp": "2025-04-04T09:08:15.011980",
+    "collection_number": 6,
+    "total_collections": 11,
+    "minutes_from_start": 30,
+    "traffic_data_results": 992,
+    "incidents_count": 66
+  },
+  {
+    "timestamp": "2025-04-04T09:14:14.704996",
+    "collection_number": 7,
+    "total_collections": 11,
+    "minutes_from_start": 36,
+    "traffic_data_results": 990,
+    "incidents_count": 66
+  },
+  {
+    "timestamp": "2025-04-04T09:20:15.288282",
+    "collection_number": 8,
+    "total_collections": 11,
+    "minutes_from_start": 42,
+    "traffic_data_results": 989,
+    "incidents_count": 66
+  },
+  {
+    "timestamp": "2025-04-04T09:26:14.861538",
+    "collection_number": 9,
+    "total_collections": 11,
+    "minutes_from_start": 48,
+    "traffic_data_results": 990,
+    "incidents_count": 66
+  },
+  {
+    "timestamp": "2025-04-04T09:32:15.504829",
+    "collection_number": 10,
+    "total_collections": 11,
+    "minutes_from_start": 54,
+    "traffic_data_results": 987,
+    "incidents_count": 66
+  },
+  {
+    "timestamp": "2025-04-04T09:38:15.105469",
+    "collection_number": 11,
+    "total_collections": 11,
+    "minutes_from_start": 60,
+    "traffic_data_results": 988,
+    "incidents_count": 68
+  }
+]

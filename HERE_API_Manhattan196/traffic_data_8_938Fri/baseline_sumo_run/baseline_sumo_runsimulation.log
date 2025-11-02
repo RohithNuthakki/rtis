@@ -1,0 +1,8 @@
+Loading net-file from '/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/baseline.net.xml' ... done (116ms).
+Loading additional-files from '/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/speeds_0.add.xml' ...
+Error: no declaration found for element 'edgeData'
+ In file '/Users/samnu/Documents/SUMO/HERE_API_Manhattan196/traffic_data_8_938Fri/baseline_sumo_run/speeds_0.add.xml'
+ At line/column 5/50.
+
+Loading of additional-files failed.
+Quitting (on error).
